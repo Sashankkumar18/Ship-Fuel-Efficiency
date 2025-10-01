@@ -1,0 +1,5001 @@
+route_id,origin_port,destination_port,distance_nm
+1,Busan,Shanghai,1064
+2,Rotterdam,Los Angeles,6522
+3,Mumbai,Dubai,1421
+4,Durban,Shanghai,14253
+5,Singapore,Dubai,9005
+6,Mumbai,Santos,615
+7,Busan,Hong Kong,10044
+8,Santos,New York,895
+9,Durban,Hamburg,3336
+10,Busan,Rotterdam,7353
+11,New York,Rotterdam,4229
+12,New York,Hong Kong,8347
+13,Hamburg,Durban,5141
+14,Los Angeles,Santos,11188
+15,Hong Kong,Singapore,10754
+16,New York,Los Angeles,1913
+17,Busan,Singapore,7814
+18,Shanghai,Rotterdam,11475
+19,Los Angeles,Sydney,1217
+20,Santos,Los Angeles,12425
+21,Los Angeles,Shanghai,4575
+22,Hong Kong,New York,13914
+23,Busan,Dubai,10965
+24,Santos,Los Angeles,5376
+25,New York,Durban,7651
+26,Busan,Singapore,14629
+27,Dubai,Hong Kong,13881
+28,Los Angeles,Mumbai,3501
+29,Busan,Dubai,11221
+30,Hamburg,Hong Kong,2584
+31,Singapore,Durban,7234
+32,Hamburg,Rotterdam,7889
+33,Hamburg,Busan,8997
+34,New York,Sydney,1705
+35,New York,Shanghai,7331
+36,Rotterdam,New York,1151
+37,Busan,Hong Kong,13653
+38,Busan,New York,12222
+39,Los Angeles,Hong Kong,10008
+40,Rotterdam,Hamburg,2950
+41,Rotterdam,Santos,12089
+42,Los Angeles,Durban,13182
+43,Los Angeles,Sydney,4200
+44,Rotterdam,Hong Kong,2467
+45,Dubai,Sydney,14538
+46,Santos,Los Angeles,4690
+47,Singapore,Los Angeles,4581
+48,Hong Kong,Hamburg,5700
+49,New York,Sydney,8100
+50,New York,Sydney,14538
+51,Singapore,Santos,11747
+52,Hong Kong,Santos,10503
+53,Mumbai,Santos,4720
+54,Busan,Los Angeles,10277
+55,Busan,Shanghai,1022
+56,New York,Hamburg,9189
+57,Durban,Hamburg,9204
+58,Hong Kong,New York,10373
+59,Busan,New York,10768
+60,Los Angeles,Hong Kong,11915
+61,Hong Kong,Sydney,8366
+62,Singapore,Sydney,4061
+63,Hamburg,Dubai,13501
+64,Busan,Rotterdam,2899
+65,Hamburg,Singapore,7483
+66,Los Angeles,Singapore,4037
+67,Hong Kong,Singapore,13722
+68,Singapore,New York,8723
+69,Sydney,Hong Kong,10129
+70,Hamburg,Los Angeles,7012
+71,Sydney,Shanghai,13760
+72,Busan,Santos,13535
+73,Mumbai,Hong Kong,10160
+74,Shanghai,New York,5891
+75,Sydney,Hamburg,11504
+76,Shanghai,Santos,6689
+77,Mumbai,Santos,14731
+78,Mumbai,Hong Kong,3228
+79,Santos,Mumbai,13050
+80,New York,Mumbai,13997
+81,Hong Kong,Sydney,11583
+82,Dubai,Sydney,14457
+83,Santos,Hong Kong,13631
+84,Durban,Rotterdam,13214
+85,Mumbai,Singapore,14933
+86,Durban,Los Angeles,9456
+87,Hong Kong,Dubai,13903
+88,Dubai,Sydney,13556
+89,Durban,Shanghai,2812
+90,Singapore,Mumbai,6822
+91,Hamburg,Mumbai,9761
+92,Santos,Hong Kong,5711
+93,Mumbai,Shanghai,2424
+94,Dubai,Hamburg,3703
+95,Singapore,Hamburg,1631
+96,Mumbai,Los Angeles,11000
+97,Los Angeles,Busan,11862
+98,Dubai,Busan,14501
+99,New York,Dubai,9765
+100,Singapore,Hamburg,9189
+101,Rotterdam,Sydney,3775
+102,Durban,Hamburg,12166
+103,Sydney,Rotterdam,13584
+104,Sydney,Mumbai,8121
+105,Sydney,Singapore,8439
+106,Santos,New York,5394
+107,Hamburg,Hong Kong,2319
+108,Hong Kong,Rotterdam,9834
+109,Santos,Durban,13283
+110,Hong Kong,Shanghai,4023
+111,Mumbai,Busan,8512
+112,Sydney,Rotterdam,12664
+113,Shanghai,Los Angeles,5629
+114,Santos,Hong Kong,1873
+115,Busan,Mumbai,4731
+116,Mumbai,Hamburg,3313
+117,Shanghai,Rotterdam,13684
+118,Los Angeles,Durban,6821
+119,Busan,Hong Kong,10941
+120,Los Angeles,Mumbai,5333
+121,Santos,New York,12965
+122,New York,Hamburg,14527
+123,Singapore,Busan,4663
+124,Dubai,Sydney,12732
+125,Hamburg,Santos,13110
+126,Busan,Durban,5201
+127,Durban,Hamburg,13964
+128,Rotterdam,Shanghai,4651
+129,Hong Kong,Mumbai,14112
+130,Hamburg,Mumbai,10517
+131,Sydney,Rotterdam,10389
+132,Hamburg,Sydney,11084
+133,Rotterdam,Busan,3155
+134,Hong Kong,Busan,4056
+135,Singapore,Los Angeles,7704
+136,Shanghai,Singapore,14963
+137,Sydney,Hamburg,6216
+138,Durban,New York,12358
+139,Mumbai,Hamburg,9395
+140,Durban,Shanghai,1212
+141,Shanghai,Rotterdam,8547
+142,Durban,Los Angeles,9890
+143,Singapore,Rotterdam,13189
+144,Singapore,Sydney,1269
+145,Durban,Sydney,894
+146,Shanghai,Hong Kong,11138
+147,Shanghai,Busan,9344
+148,Los Angeles,Singapore,14571
+149,Hong Kong,Shanghai,13770
+150,New York,Mumbai,3613
+151,Durban,Hong Kong,5410
+152,Durban,New York,4263
+153,Mumbai,Sydney,14956
+154,Singapore,Dubai,14248
+155,Rotterdam,Sydney,4683
+156,Los Angeles,Busan,5876
+157,Santos,Dubai,14304
+158,Sydney,Singapore,12457
+159,Busan,Durban,2441
+160,Durban,Los Angeles,10059
+161,New York,Los Angeles,5861
+162,Dubai,Durban,8830
+163,Singapore,Hong Kong,1953
+164,Mumbai,Sydney,12399
+165,Los Angeles,Dubai,6771
+166,Shanghai,Hamburg,2302
+167,Shanghai,Hamburg,12025
+168,Santos,Sydney,2248
+169,New York,Santos,7791
+170,Sydney,Santos,11128
+171,Busan,Singapore,1474
+172,Mumbai,Los Angeles,526
+173,Rotterdam,Los Angeles,11121
+174,Santos,Busan,13984
+175,Los Angeles,Rotterdam,7687
+176,Hamburg,Santos,4854
+177,New York,Busan,9532
+178,Santos,Hong Kong,6530
+179,Los Angeles,Shanghai,2911
+180,Busan,Rotterdam,11955
+181,Busan,New York,12150
+182,Busan,Shanghai,1915
+183,Santos,Los Angeles,3990
+184,Dubai,Shanghai,10372
+185,Sydney,Hong Kong,12824
+186,Busan,Durban,8064
+187,Mumbai,Singapore,1163
+188,Santos,Singapore,11916
+189,Dubai,Busan,9326
+190,Hamburg,Sydney,11785
+191,Santos,Sydney,11834
+192,Durban,Santos,3460
+193,Busan,Santos,5888
+194,Los Angeles,Busan,9036
+195,Dubai,Hong Kong,6340
+196,Durban,Dubai,12201
+197,Los Angeles,Sydney,14055
+198,Sydney,Rotterdam,2180
+199,Dubai,New York,13763
+200,Rotterdam,Hamburg,5079
+201,Singapore,Mumbai,11472
+202,Hong Kong,Hamburg,8688
+203,Hong Kong,Singapore,12628
+204,Los Angeles,New York,7967
+205,Singapore,New York,980
+206,Los Angeles,Shanghai,2966
+207,Busan,Sydney,1182
+208,Mumbai,Dubai,9023
+209,Santos,Sydney,2405
+210,Mumbai,Hong Kong,4775
+211,Durban,Sydney,11222
+212,Rotterdam,Hong Kong,12823
+213,Sydney,Busan,9844
+214,Singapore,Mumbai,14743
+215,Rotterdam,Los Angeles,8403
+216,Shanghai,Dubai,9747
+217,Shanghai,Los Angeles,3134
+218,New York,Dubai,8761
+219,Busan,Sydney,3517
+220,Sydney,Singapore,12395
+221,New York,Santos,4585
+222,Durban,Sydney,1616
+223,Busan,Hong Kong,5525
+224,Los Angeles,Sydney,2465
+225,Busan,Los Angeles,11388
+226,New York,Sydney,6282
+227,New York,Los Angeles,8946
+228,Hamburg,Singapore,7439
+229,Busan,Los Angeles,10971
+230,Durban,Singapore,14529
+231,Shanghai,Rotterdam,14822
+232,Sydney,Santos,14474
+233,Mumbai,Durban,5531
+234,Rotterdam,Busan,4549
+235,Durban,Mumbai,12570
+236,New York,Durban,2424
+237,Shanghai,Dubai,5005
+238,New York,Dubai,3012
+239,Mumbai,Singapore,8015
+240,New York,Sydney,7345
+241,Hong Kong,New York,13378
+242,Los Angeles,Hamburg,9739
+243,New York,Sydney,14119
+244,Hong Kong,Dubai,12633
+245,Dubai,New York,13290
+246,New York,Busan,6354
+247,Mumbai,Shanghai,7974
+248,Busan,Mumbai,12717
+249,Durban,New York,4666
+250,Sydney,Los Angeles,8793
+251,Hong Kong,Sydney,10199
+252,Busan,Rotterdam,14206
+253,Busan,New York,13333
+254,Los Angeles,Dubai,9180
+255,Durban,Mumbai,7975
+256,Mumbai,Singapore,8236
+257,Shanghai,Santos,6159
+258,Shanghai,Hong Kong,8179
+259,Hong Kong,Durban,12865
+260,Singapore,Busan,13986
+261,Dubai,Singapore,3345
+262,Santos,Shanghai,6606
+263,Hong Kong,Shanghai,11256
+264,Los Angeles,Santos,2995
+265,Dubai,Mumbai,7673
+266,Dubai,Durban,14083
+267,Busan,Santos,3586
+268,Durban,Sydney,6151
+269,New York,Mumbai,11092
+270,Mumbai,Dubai,13729
+271,Busan,Hong Kong,6499
+272,Sydney,Mumbai,3551
+273,Santos,Hong Kong,4655
+274,Hong Kong,Sydney,14635
+275,Singapore,Santos,13862
+276,Mumbai,Hamburg,9757
+277,Sydney,Hamburg,12265
+278,Santos,Hamburg,2996
+279,Sydney,Hamburg,13846
+280,Durban,Hong Kong,5743
+281,Hamburg,Singapore,13308
+282,Sydney,Shanghai,8847
+283,Busan,Mumbai,12255
+284,Hamburg,Busan,13721
+285,Mumbai,New York,2978
+286,Mumbai,Hamburg,12101
+287,Santos,New York,9717
+288,Rotterdam,Hong Kong,6111
+289,New York,Rotterdam,7572
+290,New York,Busan,11632
+291,Dubai,Los Angeles,1000
+292,Hamburg,Hong Kong,2262
+293,Los Angeles,Hong Kong,11470
+294,Durban,Busan,1910
+295,Durban,Dubai,4099
+296,Los Angeles,Dubai,11357
+297,Hamburg,Rotterdam,11613
+298,Busan,New York,7298
+299,Los Angeles,Busan,912
+300,Sydney,Busan,1967
+301,New York,Los Angeles,5980
+302,Shanghai,Hamburg,13851
+303,Dubai,Santos,8240
+304,Sydney,Dubai,2786
+305,Singapore,Sydney,12011
+306,Hamburg,Rotterdam,14012
+307,Hamburg,Dubai,14621
+308,Durban,Busan,801
+309,New York,Hong Kong,6354
+310,Shanghai,Singapore,4248
+311,Hamburg,Singapore,2825
+312,Shanghai,Singapore,7049
+313,Dubai,New York,3277
+314,Hamburg,Busan,9696
+315,New York,Mumbai,11769
+316,Singapore,Busan,6860
+317,Shanghai,Mumbai,6414
+318,Los Angeles,Singapore,7596
+319,Santos,Shanghai,7458
+320,Santos,Dubai,12262
+321,Dubai,Singapore,9412
+322,Dubai,New York,2536
+323,Singapore,Santos,14711
+324,Mumbai,Busan,12234
+325,New York,Busan,4915
+326,Dubai,Busan,7228
+327,Hong Kong,Los Angeles,626
+328,Hong Kong,Santos,5731
+329,Santos,Rotterdam,2011
+330,Singapore,Mumbai,5071
+331,Singapore,Busan,6795
+332,Hong Kong,New York,9157
+333,Rotterdam,Singapore,1728
+334,New York,Sydney,11247
+335,Hamburg,Rotterdam,6639
+336,Durban,Busan,3790
+337,Singapore,New York,1146
+338,Singapore,Hong Kong,14860
+339,Busan,Durban,8096
+340,Los Angeles,Sydney,8048
+341,Hamburg,Dubai,1691
+342,Santos,Mumbai,12184
+343,Sydney,Shanghai,3897
+344,Santos,Hamburg,13686
+345,Shanghai,Singapore,12197
+346,Sydney,Busan,6991
+347,Los Angeles,Mumbai,12499
+348,New York,Mumbai,6158
+349,Durban,Shanghai,4995
+350,Busan,Durban,5482
+351,Durban,New York,2038
+352,Santos,Sydney,13276
+353,Hamburg,Los Angeles,2465
+354,Santos,Mumbai,12792
+355,Busan,Rotterdam,2984
+356,Singapore,Los Angeles,5846
+357,Mumbai,Santos,2573
+358,Mumbai,Dubai,7342
+359,Busan,Singapore,10384
+360,Hamburg,Durban,5092
+361,Busan,Rotterdam,12581
+362,Rotterdam,Hong Kong,3620
+363,Mumbai,Rotterdam,1056
+364,Busan,Durban,627
+365,Rotterdam,Busan,7518
+366,Los Angeles,Durban,6230
+367,Durban,Busan,2713
+368,New York,Mumbai,4627
+369,Santos,Mumbai,3502
+370,Mumbai,Los Angeles,4328
+371,Hamburg,Los Angeles,2524
+372,Singapore,Hong Kong,7689
+373,Sydney,Los Angeles,2990
+374,Sydney,Dubai,3473
+375,Singapore,Dubai,5064
+376,Singapore,Los Angeles,4650
+377,Busan,New York,1165
+378,Dubai,Hamburg,12946
+379,Singapore,Hamburg,8409
+380,Rotterdam,Santos,7184
+381,Santos,Mumbai,2119
+382,Singapore,Hamburg,9670
+383,Rotterdam,Hong Kong,6368
+384,Mumbai,Hong Kong,11219
+385,Shanghai,New York,10382
+386,Durban,Hamburg,3667
+387,New York,Santos,14734
+388,Mumbai,Santos,4671
+389,Sydney,Singapore,14784
+390,Durban,Mumbai,14721
+391,Sydney,Rotterdam,5813
+392,Hong Kong,Los Angeles,14869
+393,Sydney,Hamburg,9404
+394,Dubai,Sydney,14450
+395,Busan,Dubai,5482
+396,Singapore,Hamburg,3489
+397,Dubai,Durban,5329
+398,Hong Kong,New York,11166
+399,New York,Los Angeles,5425
+400,Sydney,Mumbai,2458
+401,Busan,Los Angeles,14737
+402,Rotterdam,Los Angeles,3989
+403,New York,Singapore,1462
+404,Rotterdam,Hamburg,4023
+405,Hong Kong,Dubai,5234
+406,Rotterdam,Shanghai,1378
+407,Rotterdam,Los Angeles,3557
+408,Hamburg,Mumbai,674
+409,Hong Kong,Mumbai,12239
+410,Shanghai,Hamburg,14256
+411,New York,Dubai,14933
+412,Hong Kong,Durban,13883
+413,New York,Dubai,7519
+414,Dubai,Santos,4373
+415,New York,Sydney,8018
+416,New York,Shanghai,2704
+417,Mumbai,Hong Kong,786
+418,Los Angeles,Busan,11947
+419,Durban,Hamburg,5411
+420,Santos,Hamburg,13177
+421,Durban,Dubai,4633
+422,Hong Kong,Busan,11761
+423,Rotterdam,Shanghai,13099
+424,Mumbai,Hamburg,3709
+425,Santos,Mumbai,3749
+426,Mumbai,Sydney,14221
+427,Shanghai,Los Angeles,10208
+428,New York,Singapore,1482
+429,New York,Dubai,8618
+430,Rotterdam,Busan,7077
+431,Dubai,Shanghai,12369
+432,Sydney,Mumbai,14609
+433,Hong Kong,Singapore,11255
+434,Shanghai,Mumbai,8169
+435,Santos,Shanghai,4299
+436,Dubai,Santos,13390
+437,Durban,Sydney,12509
+438,Sydney,Mumbai,2273
+439,Shanghai,New York,4063
+440,Rotterdam,Hamburg,2679
+441,Rotterdam,Singapore,4994
+442,Los Angeles,Singapore,6384
+443,Hong Kong,Mumbai,6659
+444,New York,Dubai,4033
+445,Durban,Mumbai,1812
+446,Singapore,New York,11161
+447,Singapore,Hamburg,12657
+448,New York,Durban,8599
+449,Rotterdam,Singapore,14958
+450,Shanghai,Durban,8069
+451,Hamburg,Los Angeles,10524
+452,Santos,Shanghai,13971
+453,Sydney,Mumbai,14158
+454,Sydney,Singapore,4545
+455,Sydney,Hamburg,7629
+456,New York,Singapore,14907
+457,Busan,Dubai,8004
+458,New York,Rotterdam,8871
+459,New York,Shanghai,5426
+460,Hamburg,Los Angeles,7540
+461,Hamburg,Dubai,4568
+462,Sydney,Rotterdam,7582
+463,Singapore,Durban,4584
+464,Busan,Sydney,6155
+465,Los Angeles,Hamburg,5878
+466,Sydney,Los Angeles,4574
+467,Rotterdam,Busan,1516
+468,Busan,Mumbai,7099
+469,Rotterdam,Los Angeles,6636
+470,Hamburg,Mumbai,3793
+471,Durban,Singapore,7541
+472,Shanghai,Los Angeles,9336
+473,Shanghai,Dubai,7987
+474,Los Angeles,Shanghai,6546
+475,Dubai,Hong Kong,8639
+476,New York,Mumbai,9808
+477,Busan,Mumbai,14373
+478,Dubai,Hong Kong,606
+479,Rotterdam,Mumbai,3019
+480,Dubai,Hong Kong,11090
+481,Los Angeles,Dubai,9698
+482,Shanghai,Singapore,3344
+483,Hamburg,Hong Kong,9215
+484,New York,Santos,7619
+485,Dubai,Rotterdam,6890
+486,Rotterdam,Busan,11306
+487,Rotterdam,Los Angeles,4583
+488,Dubai,Singapore,2035
+489,Rotterdam,Dubai,5355
+490,Dubai,Mumbai,10151
+491,New York,Durban,7375
+492,Hamburg,Mumbai,8532
+493,Hong Kong,Santos,1813
+494,New York,Santos,5020
+495,Dubai,Hamburg,10455
+496,Hong Kong,Singapore,6129
+497,Shanghai,Santos,4682
+498,Sydney,New York,1583
+499,Hong Kong,Busan,6609
+500,Rotterdam,New York,13910
+501,Los Angeles,Hamburg,6740
+502,New York,Sydney,4851
+503,Santos,Mumbai,610
+504,Hong Kong,Santos,8491
+505,Dubai,Durban,2688
+506,Mumbai,Durban,1887
+507,Los Angeles,Hong Kong,7444
+508,Sydney,New York,6412
+509,New York,Busan,14887
+510,Busan,Mumbai,10447
+511,Dubai,Durban,14206
+512,Sydney,Los Angeles,7452
+513,Hong Kong,Dubai,11250
+514,New York,Dubai,14165
+515,Los Angeles,New York,12418
+516,Los Angeles,New York,526
+517,Durban,Rotterdam,892
+518,Hamburg,Busan,14554
+519,New York,Rotterdam,9165
+520,Busan,Shanghai,9802
+521,Los Angeles,Dubai,13259
+522,Santos,Shanghai,13354
+523,Durban,Hong Kong,3402
+524,Mumbai,Singapore,3677
+525,Durban,Sydney,6460
+526,Santos,Mumbai,1413
+527,Rotterdam,Singapore,550
+528,Durban,Hamburg,5245
+529,Mumbai,Durban,5937
+530,Mumbai,Hamburg,2053
+531,Santos,Hong Kong,1441
+532,New York,Rotterdam,10141
+533,Hong Kong,Durban,12180
+534,Mumbai,Santos,4486
+535,Santos,Dubai,8063
+536,Sydney,Durban,13397
+537,Hamburg,Santos,5788
+538,Sydney,Hong Kong,5004
+539,Dubai,Rotterdam,4401
+540,Mumbai,Sydney,7714
+541,Hamburg,Dubai,7504
+542,Los Angeles,Sydney,7059
+543,New York,Rotterdam,10066
+544,Los Angeles,Singapore,7504
+545,Hong Kong,Hamburg,3622
+546,Santos,Busan,9760
+547,Santos,Rotterdam,3711
+548,Hong Kong,Singapore,10117
+549,Dubai,Santos,4838
+550,New York,Singapore,3037
+551,Durban,Hamburg,12856
+552,Los Angeles,New York,10419
+553,Durban,Hong Kong,12018
+554,Rotterdam,Hong Kong,9000
+555,Mumbai,New York,5042
+556,New York,Mumbai,6935
+557,Shanghai,Singapore,14952
+558,Dubai,Busan,4781
+559,Busan,Singapore,8802
+560,Sydney,Durban,8982
+561,Santos,Dubai,4519
+562,Singapore,Durban,2762
+563,Mumbai,Dubai,8042
+564,Durban,Sydney,4701
+565,Hamburg,Busan,5051
+566,Hong Kong,Santos,5164
+567,Durban,Singapore,704
+568,Mumbai,Rotterdam,4199
+569,Durban,Santos,656
+570,Sydney,Mumbai,12725
+571,Los Angeles,Shanghai,10292
+572,Singapore,Shanghai,9471
+573,Durban,New York,5647
+574,Rotterdam,Hong Kong,2220
+575,Hamburg,Los Angeles,707
+576,Busan,Durban,10560
+577,Dubai,New York,12782
+578,Shanghai,Hong Kong,10307
+579,Rotterdam,Mumbai,14448
+580,Mumbai,New York,2620
+581,New York,Hong Kong,1440
+582,Shanghai,Rotterdam,4799
+583,Singapore,Rotterdam,846
+584,New York,Hamburg,9719
+585,Shanghai,Sydney,12664
+586,Busan,Durban,11160
+587,Durban,New York,9286
+588,Hong Kong,Sydney,8562
+589,New York,Mumbai,11195
+590,Singapore,Rotterdam,10918
+591,Busan,Hong Kong,13970
+592,Busan,Los Angeles,13563
+593,Los Angeles,Dubai,1866
+594,Durban,Santos,9996
+595,Singapore,Durban,7101
+596,Mumbai,Busan,14270
+597,Sydney,Durban,12766
+598,Busan,Hamburg,7374
+599,Durban,Mumbai,8496
+600,Busan,Sydney,11151
+601,Rotterdam,Hamburg,10754
+602,Dubai,Sydney,9011
+603,Hong Kong,Dubai,8729
+604,Santos,Hong Kong,3503
+605,New York,Durban,8243
+606,New York,Santos,7941
+607,Hamburg,Sydney,9601
+608,Singapore,Santos,12075
+609,Dubai,Mumbai,13438
+610,Los Angeles,Dubai,11918
+611,Busan,Mumbai,11469
+612,Hong Kong,Durban,11304
+613,Dubai,Durban,11043
+614,Dubai,Hamburg,2302
+615,Mumbai,Los Angeles,7795
+616,Santos,Dubai,8746
+617,Los Angeles,Sydney,8166
+618,New York,Busan,9402
+619,Mumbai,Rotterdam,2207
+620,Hamburg,Busan,513
+621,Rotterdam,Los Angeles,10285
+622,Shanghai,Busan,4380
+623,Dubai,Santos,4641
+624,Rotterdam,Dubai,5462
+625,Singapore,Sydney,7024
+626,Shanghai,Hamburg,7818
+627,Santos,Singapore,5670
+628,New York,Hong Kong,9655
+629,Busan,Shanghai,1853
+630,Santos,Hong Kong,3616
+631,Los Angeles,Hamburg,13508
+632,Hong Kong,Shanghai,1588
+633,Durban,Santos,6053
+634,Shanghai,Santos,8160
+635,Los Angeles,Sydney,12730
+636,Sydney,Durban,10986
+637,Dubai,Los Angeles,3819
+638,Los Angeles,Singapore,1537
+639,Dubai,Busan,9838
+640,Busan,Santos,8912
+641,Santos,Los Angeles,2686
+642,Singapore,Dubai,896
+643,Busan,New York,3719
+644,Durban,Hong Kong,6320
+645,Hong Kong,Rotterdam,6570
+646,New York,Dubai,3597
+647,Singapore,New York,6724
+648,Busan,Dubai,13476
+649,Hamburg,Rotterdam,12855
+650,Rotterdam,Los Angeles,14052
+651,Hamburg,Hong Kong,7199
+652,Los Angeles,Santos,10835
+653,New York,Singapore,5554
+654,New York,Hamburg,11100
+655,Dubai,Rotterdam,12520
+656,New York,Rotterdam,4620
+657,Shanghai,Los Angeles,11836
+658,Sydney,Santos,10383
+659,Santos,Mumbai,5204
+660,Durban,Los Angeles,6118
+661,New York,Dubai,3099
+662,Rotterdam,Santos,9833
+663,Los Angeles,Hamburg,9691
+664,New York,Dubai,3579
+665,Los Angeles,Busan,13517
+666,Busan,Hamburg,3652
+667,Rotterdam,Los Angeles,4368
+668,Los Angeles,Durban,6266
+669,Singapore,Hamburg,555
+670,Los Angeles,New York,8570
+671,Durban,New York,4985
+672,Hamburg,Durban,9912
+673,Shanghai,Mumbai,2550
+674,Busan,Hong Kong,4142
+675,Sydney,Singapore,9227
+676,Busan,Sydney,12117
+677,Dubai,New York,8949
+678,New York,Mumbai,11155
+679,Busan,Hamburg,11442
+680,Dubai,Rotterdam,5628
+681,Hong Kong,Durban,13560
+682,Busan,Durban,6579
+683,Rotterdam,Hong Kong,2147
+684,Singapore,Hamburg,10029
+685,Durban,Shanghai,10456
+686,Busan,Sydney,2792
+687,New York,Santos,8614
+688,Durban,Hamburg,1293
+689,Hong Kong,Sydney,14955
+690,Busan,Hong Kong,13840
+691,Durban,Rotterdam,14146
+692,Santos,Singapore,3172
+693,Busan,Shanghai,1699
+694,Dubai,Mumbai,3203
+695,Rotterdam,Hong Kong,1577
+696,Mumbai,Singapore,10099
+697,Singapore,Sydney,2965
+698,Los Angeles,Santos,11973
+699,Los Angeles,Hamburg,10341
+700,Hong Kong,Santos,5685
+701,Mumbai,Durban,7688
+702,Rotterdam,Sydney,11260
+703,New York,Singapore,8670
+704,Durban,Mumbai,611
+705,Singapore,Sydney,5486
+706,Busan,New York,9785
+707,Sydney,Singapore,12955
+708,Durban,Los Angeles,9008
+709,Los Angeles,Dubai,10863
+710,Hamburg,Mumbai,14732
+711,New York,Los Angeles,10934
+712,Busan,Singapore,13771
+713,Los Angeles,Dubai,1363
+714,Sydney,Singapore,1396
+715,Rotterdam,Sydney,11937
+716,New York,Hamburg,9804
+717,Singapore,New York,1190
+718,Los Angeles,Hamburg,6950
+719,Shanghai,New York,8184
+720,Hong Kong,Busan,4039
+721,Hamburg,Sydney,3747
+722,New York,Durban,2653
+723,Santos,Sydney,14130
+724,Santos,Hong Kong,2799
+725,Durban,Busan,8303
+726,Shanghai,Hong Kong,14581
+727,Dubai,Busan,3842
+728,Shanghai,Busan,4072
+729,New York,Durban,1098
+730,Durban,New York,3019
+731,Hong Kong,Sydney,11070
+732,Mumbai,Hamburg,13945
+733,Los Angeles,Rotterdam,7585
+734,Hong Kong,New York,2505
+735,Los Angeles,Dubai,1495
+736,Rotterdam,Sydney,928
+737,Los Angeles,Hamburg,10787
+738,Shanghai,Hong Kong,3395
+739,Santos,Busan,1644
+740,Mumbai,Dubai,6398
+741,New York,Sydney,1213
+742,New York,Hong Kong,10573
+743,Los Angeles,New York,5994
+744,Los Angeles,Busan,11654
+745,Singapore,Los Angeles,14546
+746,Los Angeles,Santos,6528
+747,Singapore,Hamburg,9009
+748,Sydney,Rotterdam,6216
+749,Sydney,Shanghai,12829
+750,Sydney,Mumbai,2565
+751,Hong Kong,Los Angeles,14419
+752,Dubai,Busan,3995
+753,New York,Mumbai,5966
+754,Hong Kong,Sydney,9578
+755,Dubai,Durban,8045
+756,Shanghai,New York,5527
+757,Singapore,Sydney,7511
+758,New York,Hong Kong,4500
+759,Shanghai,Busan,10130
+760,Los Angeles,Sydney,9354
+761,Dubai,Mumbai,3352
+762,Mumbai,Hamburg,1593
+763,Hamburg,Rotterdam,2970
+764,Shanghai,Busan,1833
+765,Hong Kong,Rotterdam,2018
+766,Singapore,Rotterdam,5982
+767,Shanghai,Busan,14135
+768,Sydney,New York,9401
+769,Dubai,Sydney,1999
+770,Shanghai,Durban,10042
+771,Hong Kong,Shanghai,12789
+772,Busan,Hamburg,11174
+773,Dubai,Durban,11731
+774,Shanghai,Hong Kong,3861
+775,Dubai,Sydney,9495
+776,Busan,Los Angeles,14331
+777,Rotterdam,Durban,9309
+778,Santos,Shanghai,10564
+779,New York,Durban,5816
+780,Mumbai,Hong Kong,4543
+781,Mumbai,Rotterdam,14285
+782,Durban,Los Angeles,6282
+783,Mumbai,Shanghai,2033
+784,Shanghai,Santos,14891
+785,Mumbai,Singapore,9550
+786,Hamburg,Santos,7126
+787,Busan,Shanghai,9462
+788,Los Angeles,Mumbai,3510
+789,Rotterdam,Hong Kong,3970
+790,Los Angeles,Rotterdam,858
+791,Mumbai,Santos,8098
+792,New York,Hong Kong,5772
+793,Busan,Hamburg,4586
+794,Dubai,Singapore,8271
+795,Dubai,Shanghai,8462
+796,Busan,Shanghai,5052
+797,Singapore,Dubai,4456
+798,Sydney,Mumbai,13976
+799,Sydney,Singapore,8104
+800,Hamburg,Los Angeles,8453
+801,Shanghai,Dubai,12819
+802,Santos,Durban,890
+803,New York,Singapore,8208
+804,Sydney,Hong Kong,12750
+805,Sydney,Los Angeles,622
+806,Singapore,Los Angeles,3150
+807,Busan,Rotterdam,1761
+808,Rotterdam,Los Angeles,7019
+809,Santos,Dubai,5462
+810,Santos,Rotterdam,8981
+811,Dubai,Hamburg,8653
+812,Durban,Santos,3581
+813,Rotterdam,Sydney,14313
+814,Busan,Sydney,13445
+815,Dubai,Santos,7005
+816,Shanghai,Rotterdam,14900
+817,Hong Kong,Sydney,1226
+818,Durban,New York,5609
+819,Hong Kong,Mumbai,7706
+820,New York,Durban,14402
+821,Dubai,Los Angeles,4242
+822,Singapore,Shanghai,5767
+823,New York,Singapore,2113
+824,Shanghai,New York,10265
+825,Hong Kong,Singapore,1195
+826,Los Angeles,Hong Kong,10876
+827,Durban,Los Angeles,4667
+828,Hamburg,Hong Kong,9466
+829,Dubai,Mumbai,6354
+830,Durban,Los Angeles,8476
+831,Busan,Los Angeles,13438
+832,Singapore,Hong Kong,12057
+833,Hong Kong,Durban,6952
+834,Los Angeles,Dubai,6701
+835,Dubai,Los Angeles,13460
+836,Durban,Rotterdam,1427
+837,Dubai,Hamburg,3754
+838,Shanghai,Los Angeles,7971
+839,Sydney,Hamburg,12004
+840,Santos,Shanghai,12776
+841,Mumbai,Singapore,7167
+842,Busan,Durban,741
+843,Hamburg,Rotterdam,14325
+844,Singapore,Durban,13261
+845,Busan,Singapore,3432
+846,Los Angeles,Dubai,11433
+847,Dubai,Sydney,12592
+848,New York,Santos,2051
+849,Busan,Rotterdam,12687
+850,Rotterdam,Shanghai,1234
+851,Sydney,Durban,4303
+852,Mumbai,Hamburg,12772
+853,Durban,Hong Kong,12649
+854,Mumbai,Busan,5088
+855,Los Angeles,Durban,11171
+856,Durban,Busan,14493
+857,Hamburg,Santos,3102
+858,Santos,Singapore,549
+859,New York,Shanghai,12312
+860,Shanghai,Dubai,11515
+861,Hong Kong,Rotterdam,4343
+862,New York,Shanghai,12052
+863,Hong Kong,Los Angeles,14206
+864,Shanghai,Los Angeles,13961
+865,Dubai,Hamburg,8518
+866,Shanghai,Sydney,9789
+867,Sydney,Hamburg,11363
+868,Dubai,Hong Kong,9499
+869,Shanghai,Los Angeles,4817
+870,Santos,Hamburg,1277
+871,Mumbai,Busan,10960
+872,Busan,Dubai,13947
+873,Hamburg,Santos,4577
+874,Dubai,Singapore,4467
+875,Dubai,Rotterdam,3988
+876,Sydney,Mumbai,11276
+877,Dubai,Mumbai,10382
+878,Dubai,Hamburg,6487
+879,Rotterdam,Sydney,10924
+880,Busan,Hamburg,9707
+881,New York,Shanghai,13857
+882,Rotterdam,Hong Kong,775
+883,Santos,Shanghai,6844
+884,Dubai,Sydney,2223
+885,Dubai,Santos,6786
+886,Dubai,Singapore,4158
+887,Singapore,Durban,13119
+888,Hamburg,Singapore,12952
+889,Busan,Dubai,11672
+890,Singapore,Los Angeles,9796
+891,Sydney,Santos,12933
+892,Santos,Dubai,11544
+893,Hamburg,Dubai,8493
+894,Rotterdam,New York,10593
+895,Busan,New York,545
+896,Rotterdam,Los Angeles,7783
+897,Santos,Los Angeles,14183
+898,Los Angeles,Durban,14263
+899,Los Angeles,Rotterdam,8737
+900,Mumbai,Busan,603
+901,Busan,Dubai,11584
+902,Dubai,Shanghai,7513
+903,Santos,Sydney,6828
+904,Busan,Rotterdam,7312
+905,Los Angeles,Dubai,10298
+906,New York,Los Angeles,5584
+907,Hamburg,Rotterdam,9499
+908,New York,Durban,10705
+909,Durban,Santos,8137
+910,Singapore,New York,11190
+911,Busan,Durban,6153
+912,Busan,Santos,8408
+913,Mumbai,Rotterdam,580
+914,Hamburg,Busan,11826
+915,New York,Hong Kong,9908
+916,Singapore,Sydney,11044
+917,Singapore,Santos,9312
+918,Hong Kong,Mumbai,3703
+919,Los Angeles,New York,5065
+920,Rotterdam,Mumbai,8353
+921,Busan,Singapore,6208
+922,Rotterdam,Hamburg,3655
+923,Singapore,Sydney,13753
+924,Sydney,Dubai,11365
+925,Busan,Durban,13894
+926,Mumbai,Busan,862
+927,Los Angeles,New York,3046
+928,Shanghai,Mumbai,6223
+929,Durban,Hong Kong,2583
+930,Rotterdam,Shanghai,8781
+931,Mumbai,Hong Kong,6172
+932,Hamburg,Shanghai,9764
+933,Dubai,Sydney,11748
+934,Dubai,Rotterdam,1877
+935,Los Angeles,Santos,9238
+936,Rotterdam,Sydney,4421
+937,Hong Kong,Hamburg,1276
+938,Singapore,Dubai,10349
+939,Mumbai,Dubai,14231
+940,Mumbai,Dubai,6902
+941,New York,Busan,858
+942,Shanghai,Rotterdam,6129
+943,Los Angeles,Durban,2447
+944,Hamburg,Busan,7906
+945,New York,Busan,10608
+946,Hamburg,Singapore,12428
+947,Mumbai,Santos,11008
+948,Mumbai,Dubai,12087
+949,Sydney,Mumbai,9870
+950,Sydney,Durban,4738
+951,New York,Santos,1483
+952,Rotterdam,Durban,3979
+953,Durban,Santos,7017
+954,Shanghai,Dubai,1653
+955,Busan,Sydney,9862
+956,Los Angeles,Busan,10008
+957,Rotterdam,Durban,14045
+958,Hong Kong,Santos,4998
+959,Rotterdam,Mumbai,14618
+960,Mumbai,New York,7022
+961,Busan,Dubai,13723
+962,Santos,Busan,14413
+963,Rotterdam,New York,8475
+964,Los Angeles,Hong Kong,3927
+965,New York,Durban,6679
+966,Durban,New York,9018
+967,Los Angeles,Hong Kong,7054
+968,Santos,Busan,3316
+969,Shanghai,Santos,7565
+970,Santos,Dubai,4989
+971,Busan,Durban,4524
+972,Singapore,Hamburg,2756
+973,Rotterdam,Santos,10079
+974,Rotterdam,Hamburg,958
+975,Shanghai,New York,5566
+976,Mumbai,Hong Kong,3625
+977,Mumbai,Hamburg,5974
+978,Shanghai,Dubai,6920
+979,Hamburg,Santos,959
+980,Busan,Hong Kong,8207
+981,Singapore,Mumbai,5517
+982,Rotterdam,Santos,2328
+983,Singapore,Santos,8319
+984,Shanghai,Sydney,14344
+985,Sydney,Singapore,13240
+986,New York,Rotterdam,11506
+987,Santos,Rotterdam,5521
+988,Hong Kong,Sydney,9518
+989,New York,Singapore,11510
+990,Hong Kong,Mumbai,6585
+991,Shanghai,Rotterdam,11343
+992,Singapore,Los Angeles,3902
+993,Rotterdam,Hamburg,2032
+994,Durban,Rotterdam,4153
+995,Los Angeles,Hamburg,11393
+996,Durban,Santos,12515
+997,Shanghai,Santos,516
+998,Rotterdam,Dubai,9897
+999,Singapore,Mumbai,6113
+1000,Sydney,Busan,8273
+1001,Santos,New York,6692
+1002,Rotterdam,Hong Kong,7434
+1003,Durban,Mumbai,4753
+1004,Sydney,Dubai,11010
+1005,Durban,Singapore,14272
+1006,Rotterdam,Mumbai,12854
+1007,Durban,New York,11289
+1008,Dubai,New York,7696
+1009,Rotterdam,Mumbai,10086
+1010,Shanghai,Hong Kong,1677
+1011,Rotterdam,Hamburg,3535
+1012,Hamburg,Los Angeles,10624
+1013,Durban,Mumbai,9237
+1014,Shanghai,Singapore,1695
+1015,Rotterdam,Hong Kong,7750
+1016,Rotterdam,Busan,13709
+1017,Hamburg,Rotterdam,5652
+1018,Mumbai,Shanghai,11972
+1019,New York,Mumbai,14420
+1020,Mumbai,Hong Kong,13519
+1021,Dubai,Mumbai,4437
+1022,Mumbai,New York,9366
+1023,Singapore,Los Angeles,10812
+1024,Dubai,Singapore,13677
+1025,New York,Santos,12639
+1026,Hamburg,New York,1622
+1027,Singapore,Mumbai,5482
+1028,Rotterdam,New York,8622
+1029,Singapore,Hamburg,4703
+1030,Shanghai,Mumbai,4321
+1031,Durban,Shanghai,914
+1032,Shanghai,Dubai,6530
+1033,Mumbai,Dubai,5030
+1034,Los Angeles,New York,11591
+1035,Santos,Dubai,12716
+1036,Mumbai,Hong Kong,4231
+1037,Dubai,New York,3541
+1038,Los Angeles,Santos,4749
+1039,Rotterdam,Singapore,8656
+1040,Busan,Mumbai,2688
+1041,Busan,Durban,3640
+1042,Rotterdam,Singapore,6806
+1043,Hong Kong,Sydney,11324
+1044,Los Angeles,Sydney,12038
+1045,Rotterdam,Sydney,12822
+1046,Singapore,Hong Kong,2486
+1047,Mumbai,Los Angeles,5958
+1048,Busan,Rotterdam,3783
+1049,Rotterdam,Santos,7130
+1050,Singapore,Hamburg,13272
+1051,Los Angeles,Busan,2149
+1052,Singapore,Los Angeles,8081
+1053,Singapore,New York,11904
+1054,Durban,New York,1994
+1055,Dubai,Los Angeles,3918
+1056,Busan,Singapore,4798
+1057,Rotterdam,Los Angeles,6901
+1058,Hamburg,Dubai,5760
+1059,Los Angeles,Rotterdam,2833
+1060,Busan,New York,6992
+1061,Hamburg,Singapore,4386
+1062,Santos,Durban,12340
+1063,Sydney,New York,7655
+1064,Shanghai,New York,2743
+1065,Hong Kong,Sydney,13133
+1066,Durban,Shanghai,7435
+1067,Santos,Los Angeles,11378
+1068,Durban,Santos,4725
+1069,Dubai,Durban,8787
+1070,Hong Kong,Durban,7746
+1071,Santos,Singapore,5655
+1072,Los Angeles,New York,1579
+1073,Hong Kong,Mumbai,14936
+1074,Durban,Rotterdam,13397
+1075,Hong Kong,New York,647
+1076,Los Angeles,Durban,10857
+1077,Shanghai,Hamburg,3723
+1078,Shanghai,New York,3379
+1079,Mumbai,New York,8332
+1080,Rotterdam,Dubai,9724
+1081,Shanghai,Mumbai,815
+1082,Mumbai,New York,12444
+1083,Busan,Hong Kong,14043
+1084,Durban,Mumbai,13211
+1085,New York,Shanghai,6518
+1086,Santos,Hong Kong,3005
+1087,Santos,Busan,11646
+1088,Dubai,Hamburg,7389
+1089,Dubai,Hong Kong,8882
+1090,Hong Kong,Shanghai,4968
+1091,Hamburg,Mumbai,8415
+1092,Los Angeles,Dubai,818
+1093,Singapore,Rotterdam,1249
+1094,Sydney,Mumbai,4026
+1095,Shanghai,Los Angeles,7817
+1096,Mumbai,Hamburg,2013
+1097,Singapore,Sydney,2318
+1098,Hong Kong,Los Angeles,9352
+1099,Singapore,Hamburg,12021
+1100,Hong Kong,Hamburg,10762
+1101,Busan,Hong Kong,14302
+1102,Santos,Rotterdam,6844
+1103,Hamburg,Hong Kong,7192
+1104,Santos,Dubai,8280
+1105,Busan,Santos,6400
+1106,Durban,Shanghai,6446
+1107,Rotterdam,Shanghai,1360
+1108,Rotterdam,Santos,8322
+1109,Singapore,Los Angeles,4573
+1110,New York,Mumbai,4076
+1111,Mumbai,New York,618
+1112,Shanghai,Singapore,10950
+1113,Durban,Hong Kong,12208
+1114,Rotterdam,Durban,1784
+1115,Shanghai,Singapore,8211
+1116,Rotterdam,Hong Kong,14146
+1117,Singapore,New York,6529
+1118,New York,Dubai,11005
+1119,Dubai,Rotterdam,12699
+1120,Durban,Shanghai,12993
+1121,Singapore,Santos,12643
+1122,Rotterdam,Santos,4621
+1123,Busan,Los Angeles,1084
+1124,Durban,Singapore,3594
+1125,Busan,New York,10067
+1126,Durban,Hamburg,2366
+1127,Busan,Los Angeles,6239
+1128,Los Angeles,Shanghai,1663
+1129,Los Angeles,Mumbai,3303
+1130,Hong Kong,Santos,7908
+1131,Singapore,Durban,4397
+1132,Mumbai,Singapore,4944
+1133,Santos,New York,734
+1134,Hong Kong,Los Angeles,4874
+1135,Singapore,Durban,13200
+1136,Hamburg,Shanghai,11637
+1137,Mumbai,Singapore,4323
+1138,Shanghai,Mumbai,5354
+1139,Durban,Shanghai,9321
+1140,Sydney,Durban,5737
+1141,Hong Kong,New York,8989
+1142,Hong Kong,Rotterdam,10572
+1143,Shanghai,Rotterdam,5945
+1144,Sydney,Rotterdam,8327
+1145,New York,Santos,14859
+1146,Los Angeles,Rotterdam,6533
+1147,Dubai,Mumbai,2299
+1148,Durban,Los Angeles,7220
+1149,Rotterdam,Hamburg,3680
+1150,Santos,Rotterdam,3397
+1151,Santos,New York,3940
+1152,Singapore,Hong Kong,12906
+1153,Los Angeles,New York,1556
+1154,Rotterdam,Los Angeles,7842
+1155,Busan,Mumbai,7675
+1156,Santos,Hamburg,3856
+1157,Sydney,New York,9505
+1158,Mumbai,Shanghai,13893
+1159,Mumbai,Busan,13028
+1160,New York,Santos,4503
+1161,Hamburg,Shanghai,7913
+1162,Santos,New York,11501
+1163,Sydney,Dubai,13954
+1164,New York,Shanghai,9370
+1165,Shanghai,Sydney,6438
+1166,New York,Dubai,4051
+1167,Santos,Dubai,1588
+1168,New York,Sydney,5194
+1169,Mumbai,New York,7520
+1170,Dubai,Shanghai,6143
+1171,Durban,Busan,14928
+1172,Singapore,Hong Kong,6951
+1173,Busan,Santos,4756
+1174,Rotterdam,Hong Kong,14204
+1175,Rotterdam,Singapore,11261
+1176,Hong Kong,Singapore,14020
+1177,Dubai,Rotterdam,12129
+1178,Hamburg,Rotterdam,8166
+1179,Santos,Los Angeles,2949
+1180,Shanghai,New York,2761
+1181,Hong Kong,Singapore,705
+1182,Dubai,Sydney,6307
+1183,Dubai,Los Angeles,8342
+1184,New York,Shanghai,13776
+1185,Durban,Hong Kong,5121
+1186,Busan,Mumbai,2387
+1187,New York,Shanghai,14076
+1188,Durban,Mumbai,2850
+1189,Hamburg,Shanghai,4787
+1190,New York,Hamburg,6786
+1191,Mumbai,Shanghai,7803
+1192,Sydney,Singapore,4375
+1193,New York,Santos,8258
+1194,Dubai,Singapore,3382
+1195,Santos,Sydney,11536
+1196,Dubai,Durban,3815
+1197,New York,Mumbai,6979
+1198,New York,Hong Kong,10625
+1199,Singapore,Hamburg,13571
+1200,Sydney,New York,749
+1201,New York,Mumbai,6796
+1202,Los Angeles,New York,5910
+1203,Busan,Hong Kong,2612
+1204,Durban,Singapore,4866
+1205,Mumbai,Shanghai,10476
+1206,Los Angeles,Santos,5481
+1207,Busan,Rotterdam,5214
+1208,New York,Santos,7094
+1209,Singapore,New York,9558
+1210,Durban,Mumbai,11869
+1211,Los Angeles,Hamburg,1524
+1212,Hong Kong,Dubai,1014
+1213,Busan,Dubai,12055
+1214,Durban,Hong Kong,12200
+1215,New York,Busan,14769
+1216,Busan,Sydney,2381
+1217,Mumbai,New York,5187
+1218,Hamburg,Rotterdam,4810
+1219,Dubai,Mumbai,1357
+1220,Hong Kong,Mumbai,14230
+1221,Shanghai,Mumbai,9191
+1222,Dubai,Shanghai,5483
+1223,Durban,Dubai,10510
+1224,Hamburg,Mumbai,6360
+1225,Rotterdam,Shanghai,9804
+1226,Sydney,Los Angeles,3848
+1227,Durban,Shanghai,12035
+1228,Santos,Shanghai,6196
+1229,Busan,Sydney,10763
+1230,New York,Santos,7715
+1231,Los Angeles,Sydney,5656
+1232,New York,Rotterdam,10299
+1233,Los Angeles,Rotterdam,9646
+1234,Santos,Hamburg,10436
+1235,Dubai,Rotterdam,11314
+1236,Durban,Busan,5734
+1237,Sydney,Mumbai,10093
+1238,Sydney,Rotterdam,5331
+1239,Dubai,Sydney,5593
+1240,Los Angeles,Sydney,6678
+1241,Dubai,Shanghai,13642
+1242,Durban,Los Angeles,12648
+1243,New York,Shanghai,10045
+1244,Dubai,Los Angeles,11752
+1245,Dubai,Sydney,12568
+1246,Singapore,New York,9694
+1247,Sydney,Hamburg,9742
+1248,Singapore,New York,14501
+1249,Dubai,Santos,4161
+1250,Hong Kong,Singapore,4719
+1251,Hamburg,Rotterdam,14616
+1252,Busan,Shanghai,874
+1253,Hamburg,Durban,14285
+1254,Hong Kong,Busan,8061
+1255,Singapore,Durban,1489
+1256,Los Angeles,Santos,6322
+1257,Mumbai,Hamburg,2811
+1258,Singapore,Hamburg,9804
+1259,Singapore,Hamburg,8252
+1260,Busan,Santos,12016
+1261,Durban,Rotterdam,4117
+1262,Santos,Rotterdam,11103
+1263,Shanghai,Durban,3551
+1264,Los Angeles,Singapore,6919
+1265,Dubai,Rotterdam,5261
+1266,Durban,New York,6771
+1267,Mumbai,Durban,14343
+1268,Hamburg,Sydney,14949
+1269,Dubai,Santos,8590
+1270,Sydney,Durban,3792
+1271,Durban,Hong Kong,9748
+1272,Shanghai,Santos,7101
+1273,Busan,Shanghai,3580
+1274,Sydney,Hong Kong,13605
+1275,Shanghai,Santos,4827
+1276,Hamburg,Singapore,11454
+1277,Dubai,Hamburg,11411
+1278,Hamburg,Durban,795
+1279,Mumbai,Los Angeles,7636
+1280,Dubai,Shanghai,7313
+1281,Sydney,New York,5357
+1282,Busan,Hong Kong,3266
+1283,Rotterdam,Shanghai,14215
+1284,Los Angeles,Santos,7653
+1285,Shanghai,Hong Kong,2162
+1286,New York,Rotterdam,6466
+1287,Hong Kong,Busan,7090
+1288,Sydney,Shanghai,4616
+1289,Busan,Dubai,9055
+1290,Hong Kong,Los Angeles,3484
+1291,Mumbai,Santos,5312
+1292,New York,Busan,14825
+1293,Los Angeles,Singapore,1167
+1294,Hamburg,Santos,712
+1295,Santos,New York,13934
+1296,Rotterdam,Sydney,12103
+1297,Hamburg,Busan,9823
+1298,Los Angeles,Sydney,10599
+1299,Busan,Los Angeles,5421
+1300,New York,Durban,9380
+1301,Dubai,Rotterdam,5045
+1302,Hamburg,Busan,10661
+1303,Sydney,Singapore,2910
+1304,Mumbai,Santos,4768
+1305,Santos,Sydney,10403
+1306,Busan,Shanghai,4867
+1307,Singapore,Rotterdam,4963
+1308,Hamburg,Santos,5543
+1309,Hong Kong,Mumbai,7096
+1310,Los Angeles,Singapore,2246
+1311,Sydney,Dubai,7464
+1312,Los Angeles,Dubai,10561
+1313,Busan,Santos,3088
+1314,Singapore,Busan,12394
+1315,Busan,Sydney,9278
+1316,Durban,Los Angeles,8603
+1317,Dubai,Hamburg,5307
+1318,Shanghai,Los Angeles,14682
+1319,Sydney,Hong Kong,8114
+1320,Sydney,Durban,4407
+1321,Hong Kong,Los Angeles,6532
+1322,Singapore,Rotterdam,5580
+1323,Singapore,Hamburg,11191
+1324,Durban,Dubai,11757
+1325,Mumbai,Dubai,12390
+1326,Shanghai,Busan,13121
+1327,Durban,Los Angeles,9980
+1328,Hong Kong,Shanghai,13687
+1329,Los Angeles,Hong Kong,7187
+1330,Busan,Shanghai,2339
+1331,Durban,Hamburg,6798
+1332,Shanghai,Durban,3507
+1333,Hong Kong,Mumbai,8107
+1334,Rotterdam,Mumbai,14090
+1335,Sydney,Singapore,8384
+1336,Shanghai,Santos,14073
+1337,Sydney,New York,622
+1338,Rotterdam,Singapore,8191
+1339,Hamburg,Los Angeles,4490
+1340,Durban,Hamburg,515
+1341,Hamburg,Hong Kong,14245
+1342,Mumbai,New York,13221
+1343,Santos,Singapore,1001
+1344,Dubai,Hamburg,8596
+1345,Shanghai,Durban,4636
+1346,Sydney,Mumbai,8221
+1347,Singapore,Shanghai,4802
+1348,Busan,Hamburg,4366
+1349,New York,Sydney,5994
+1350,Santos,Busan,5073
+1351,Mumbai,New York,9559
+1352,Sydney,New York,1435
+1353,Los Angeles,Singapore,5187
+1354,Busan,Durban,11027
+1355,Singapore,Santos,8686
+1356,Busan,Mumbai,8017
+1357,Singapore,Durban,2323
+1358,Sydney,Mumbai,1180
+1359,Rotterdam,Busan,3084
+1360,Sydney,Hong Kong,13904
+1361,New York,Los Angeles,10812
+1362,Rotterdam,Sydney,12500
+1363,Rotterdam,Hamburg,5939
+1364,Santos,Los Angeles,7526
+1365,Dubai,Busan,1401
+1366,Singapore,Durban,8365
+1367,Shanghai,Hong Kong,10078
+1368,Hong Kong,Dubai,3917
+1369,Sydney,Hong Kong,11771
+1370,Singapore,Sydney,8653
+1371,Mumbai,Dubai,2098
+1372,Los Angeles,Shanghai,7510
+1373,Rotterdam,Dubai,3079
+1374,Busan,Rotterdam,552
+1375,Shanghai,Rotterdam,805
+1376,Durban,Hamburg,2232
+1377,Busan,Shanghai,13554
+1378,Rotterdam,Hamburg,12129
+1379,Los Angeles,Hamburg,3769
+1380,Shanghai,Hong Kong,13461
+1381,Hamburg,Santos,12472
+1382,Durban,Santos,3822
+1383,Sydney,Hamburg,933
+1384,Durban,Shanghai,3056
+1385,Shanghai,Los Angeles,10935
+1386,Mumbai,New York,3591
+1387,Rotterdam,New York,2428
+1388,Mumbai,Durban,10779
+1389,New York,Busan,6481
+1390,Sydney,Los Angeles,4785
+1391,Rotterdam,Durban,12231
+1392,Singapore,Mumbai,12531
+1393,Hamburg,Durban,2313
+1394,Santos,New York,14454
+1395,Hamburg,Mumbai,5884
+1396,New York,Shanghai,9451
+1397,Sydney,New York,7635
+1398,Shanghai,Sydney,13813
+1399,Dubai,Busan,10957
+1400,Sydney,Hamburg,8603
+1401,Busan,New York,2998
+1402,Shanghai,Dubai,13800
+1403,Los Angeles,Dubai,2573
+1404,Busan,Sydney,5232
+1405,Singapore,Shanghai,2488
+1406,Busan,Dubai,3662
+1407,Busan,Singapore,3704
+1408,Santos,Sydney,8329
+1409,New York,Durban,10148
+1410,Shanghai,Durban,6345
+1411,Los Angeles,Singapore,1454
+1412,Santos,Shanghai,10228
+1413,Shanghai,Dubai,2460
+1414,Santos,Hong Kong,2633
+1415,Dubai,Los Angeles,3825
+1416,Shanghai,Hamburg,13976
+1417,New York,Durban,7066
+1418,Santos,Sydney,9956
+1419,Santos,Rotterdam,4642
+1420,Hong Kong,Singapore,7467
+1421,Santos,Dubai,2763
+1422,New York,Los Angeles,5483
+1423,Santos,Dubai,5421
+1424,Busan,New York,4525
+1425,Los Angeles,Sydney,3982
+1426,Santos,Hamburg,11528
+1427,Hamburg,New York,4917
+1428,Mumbai,Busan,10642
+1429,Hong Kong,Durban,11942
+1430,Singapore,Dubai,3659
+1431,Dubai,Singapore,4649
+1432,Mumbai,Shanghai,8055
+1433,New York,Rotterdam,10623
+1434,Sydney,Dubai,12772
+1435,Los Angeles,Busan,5402
+1436,Busan,Mumbai,9318
+1437,Hamburg,Mumbai,8950
+1438,Santos,Rotterdam,10527
+1439,Durban,Hamburg,3577
+1440,Shanghai,Sydney,13940
+1441,New York,Durban,9362
+1442,Dubai,New York,3256
+1443,Hamburg,Mumbai,9556
+1444,Hamburg,Los Angeles,9186
+1445,Dubai,Hong Kong,3914
+1446,Rotterdam,Santos,12829
+1447,Hong Kong,Dubai,10288
+1448,Dubai,Los Angeles,4873
+1449,Mumbai,Sydney,5168
+1450,Dubai,New York,3506
+1451,Santos,Rotterdam,4140
+1452,Dubai,Hamburg,5997
+1453,New York,Dubai,5272
+1454,Durban,Mumbai,6025
+1455,New York,Busan,8133
+1456,Singapore,Durban,14008
+1457,Santos,Durban,10532
+1458,Sydney,Shanghai,5400
+1459,New York,Sydney,5534
+1460,Singapore,Sydney,6737
+1461,Santos,Hamburg,14462
+1462,Singapore,Mumbai,9674
+1463,Santos,Hong Kong,4367
+1464,New York,Santos,6129
+1465,Hong Kong,Los Angeles,7999
+1466,Mumbai,Dubai,9260
+1467,Rotterdam,Singapore,10999
+1468,Mumbai,Hong Kong,6463
+1469,Hamburg,Busan,10258
+1470,Hamburg,Sydney,4859
+1471,Busan,Hamburg,5822
+1472,Dubai,Sydney,5958
+1473,New York,Shanghai,10213
+1474,Dubai,Hong Kong,1192
+1475,Los Angeles,Singapore,9987
+1476,Dubai,Santos,6003
+1477,Busan,Shanghai,7376
+1478,Los Angeles,Santos,3980
+1479,Dubai,Hong Kong,13590
+1480,Durban,Shanghai,4846
+1481,Hamburg,Hong Kong,6805
+1482,Dubai,Singapore,11606
+1483,Rotterdam,Durban,7482
+1484,Santos,Shanghai,2450
+1485,Mumbai,Los Angeles,1940
+1486,Rotterdam,Mumbai,7764
+1487,Sydney,Durban,4882
+1488,Dubai,New York,2971
+1489,Durban,Rotterdam,8771
+1490,Mumbai,Durban,11180
+1491,New York,Shanghai,12194
+1492,Hamburg,New York,8967
+1493,Hong Kong,Santos,1747
+1494,Hong Kong,Busan,10243
+1495,Singapore,Sydney,14446
+1496,Sydney,Durban,697
+1497,Los Angeles,New York,4212
+1498,Durban,Los Angeles,11705
+1499,Dubai,Santos,3219
+1500,Dubai,Sydney,8997
+1501,Hong Kong,Shanghai,7799
+1502,Busan,Los Angeles,9893
+1503,Santos,Hong Kong,2356
+1504,Singapore,Durban,10988
+1505,Rotterdam,Los Angeles,890
+1506,Sydney,Shanghai,9855
+1507,Sydney,Busan,7368
+1508,Mumbai,Sydney,13266
+1509,Santos,Hamburg,8720
+1510,Los Angeles,Sydney,909
+1511,Hamburg,Busan,6239
+1512,Dubai,Sydney,7696
+1513,Busan,Dubai,9377
+1514,Sydney,Santos,13043
+1515,Dubai,Durban,14100
+1516,Mumbai,Durban,8279
+1517,Hong Kong,Durban,2249
+1518,Busan,New York,2437
+1519,Busan,Sydney,4963
+1520,New York,Busan,8084
+1521,Sydney,Dubai,3711
+1522,Santos,Hong Kong,950
+1523,Rotterdam,Busan,1279
+1524,Sydney,Mumbai,14463
+1525,Singapore,Hamburg,501
+1526,Singapore,Hamburg,14212
+1527,Durban,Sydney,14945
+1528,Santos,New York,2554
+1529,Busan,Mumbai,8724
+1530,Shanghai,Sydney,11135
+1531,Santos,New York,988
+1532,Sydney,Shanghai,9948
+1533,Shanghai,Hong Kong,11601
+1534,Hamburg,Los Angeles,975
+1535,Los Angeles,Santos,14031
+1536,Sydney,Hamburg,6932
+1537,Shanghai,Durban,2388
+1538,Shanghai,Busan,2377
+1539,Hong Kong,Dubai,10938
+1540,Sydney,Los Angeles,12672
+1541,Los Angeles,Santos,14465
+1542,Mumbai,Singapore,3424
+1543,Los Angeles,Sydney,2240
+1544,Sydney,Singapore,9252
+1545,Sydney,Hong Kong,4136
+1546,Santos,Los Angeles,9212
+1547,Rotterdam,Singapore,10523
+1548,Rotterdam,Singapore,2936
+1549,Singapore,Dubai,14909
+1550,Los Angeles,Dubai,6680
+1551,Durban,Busan,3325
+1552,Dubai,Mumbai,7745
+1553,Durban,Santos,2621
+1554,Durban,Singapore,7232
+1555,Rotterdam,Santos,6645
+1556,Mumbai,Shanghai,619
+1557,Durban,Singapore,5078
+1558,New York,Rotterdam,7596
+1559,New York,Rotterdam,1295
+1560,Rotterdam,Shanghai,8528
+1561,New York,Dubai,5728
+1562,Singapore,Hamburg,3860
+1563,Busan,Singapore,10611
+1564,Dubai,Hamburg,911
+1565,Durban,Los Angeles,5806
+1566,Durban,Shanghai,5980
+1567,Hong Kong,Hamburg,10829
+1568,Sydney,Busan,1032
+1569,Durban,Hong Kong,3803
+1570,Busan,Hamburg,9107
+1571,Hamburg,Santos,7307
+1572,Busan,Los Angeles,3201
+1573,Hamburg,Singapore,11913
+1574,Hong Kong,Rotterdam,10274
+1575,Santos,Mumbai,5311
+1576,New York,Dubai,3767
+1577,Sydney,Dubai,9051
+1578,Hong Kong,Rotterdam,6376
+1579,Dubai,Shanghai,3431
+1580,Mumbai,Durban,9322
+1581,Mumbai,Singapore,5206
+1582,New York,Singapore,2070
+1583,Hong Kong,Durban,11962
+1584,Santos,Durban,4981
+1585,Dubai,Sydney,10477
+1586,Santos,New York,13288
+1587,Busan,Mumbai,3454
+1588,Hong Kong,Los Angeles,5777
+1589,Dubai,Durban,9322
+1590,Santos,Dubai,871
+1591,Santos,Los Angeles,14194
+1592,Hamburg,Rotterdam,2716
+1593,Busan,Santos,13321
+1594,Los Angeles,Sydney,9862
+1595,Rotterdam,Shanghai,7457
+1596,Sydney,Los Angeles,13237
+1597,Los Angeles,Dubai,14121
+1598,Durban,Rotterdam,8145
+1599,Busan,Santos,10181
+1600,Mumbai,Los Angeles,4271
+1601,Durban,Hong Kong,9504
+1602,Mumbai,Singapore,875
+1603,Singapore,Santos,1330
+1604,Busan,Santos,14513
+1605,New York,Hong Kong,6045
+1606,Hong Kong,New York,13011
+1607,Busan,Los Angeles,4747
+1608,Los Angeles,New York,10088
+1609,Hamburg,Sydney,5521
+1610,Sydney,Durban,579
+1611,Durban,Los Angeles,10924
+1612,Hamburg,New York,2822
+1613,Sydney,Shanghai,549
+1614,Hong Kong,Durban,9689
+1615,Durban,Rotterdam,3184
+1616,New York,Hamburg,1222
+1617,Durban,Busan,7263
+1618,Durban,Mumbai,13798
+1619,Los Angeles,Sydney,12476
+1620,Sydney,Durban,8539
+1621,Santos,Dubai,13364
+1622,Singapore,Busan,4099
+1623,Shanghai,Mumbai,512
+1624,New York,Durban,2416
+1625,Santos,Hong Kong,12096
+1626,Busan,Singapore,7937
+1627,Mumbai,Busan,5017
+1628,New York,Los Angeles,8848
+1629,Mumbai,Sydney,1298
+1630,Los Angeles,Shanghai,12566
+1631,Dubai,Los Angeles,6255
+1632,Singapore,New York,2731
+1633,Hong Kong,New York,12516
+1634,Hamburg,Singapore,4585
+1635,Los Angeles,Mumbai,7964
+1636,Hong Kong,Santos,3499
+1637,Mumbai,Hamburg,9893
+1638,Durban,New York,10970
+1639,Sydney,Hamburg,2743
+1640,Santos,New York,9458
+1641,New York,Los Angeles,12939
+1642,Hamburg,Busan,10589
+1643,Rotterdam,Shanghai,14212
+1644,Busan,Hong Kong,11278
+1645,Dubai,Hong Kong,8890
+1646,Rotterdam,Hamburg,8164
+1647,Durban,Rotterdam,1809
+1648,Hong Kong,Santos,5775
+1649,Durban,Rotterdam,13974
+1650,Rotterdam,Sydney,981
+1651,Los Angeles,Singapore,11879
+1652,Rotterdam,Los Angeles,2506
+1653,Los Angeles,Singapore,12078
+1654,Mumbai,New York,9256
+1655,Durban,Sydney,10388
+1656,Santos,Durban,5374
+1657,Sydney,Shanghai,4143
+1658,Singapore,Busan,3548
+1659,Hong Kong,Busan,3483
+1660,Hong Kong,New York,12455
+1661,Los Angeles,Hamburg,12156
+1662,Hamburg,Busan,13842
+1663,Busan,Hong Kong,9985
+1664,Durban,Hong Kong,931
+1665,Busan,Shanghai,8324
+1666,Rotterdam,Shanghai,1685
+1667,Mumbai,Durban,848
+1668,Hamburg,Shanghai,2356
+1669,Hamburg,Busan,7448
+1670,Santos,Rotterdam,13630
+1671,Mumbai,Dubai,4394
+1672,Santos,Dubai,5289
+1673,Singapore,Durban,8664
+1674,Mumbai,Singapore,6562
+1675,Mumbai,Shanghai,6746
+1676,Santos,New York,7099
+1677,Durban,Los Angeles,10804
+1678,Hong Kong,Singapore,3463
+1679,Hamburg,Hong Kong,13149
+1680,Sydney,Dubai,9572
+1681,Shanghai,Durban,4634
+1682,Los Angeles,Dubai,3390
+1683,Dubai,Durban,7778
+1684,New York,Dubai,13200
+1685,Sydney,Mumbai,11914
+1686,Santos,Singapore,14501
+1687,Santos,Mumbai,6496
+1688,New York,Shanghai,4092
+1689,Mumbai,Rotterdam,4219
+1690,Rotterdam,Dubai,6679
+1691,Dubai,Santos,14396
+1692,Singapore,Shanghai,10815
+1693,Busan,Dubai,1346
+1694,Hong Kong,New York,14870
+1695,Rotterdam,New York,3452
+1696,Hong Kong,Mumbai,14418
+1697,New York,Hamburg,2253
+1698,New York,Shanghai,6503
+1699,Sydney,Busan,2857
+1700,Singapore,Shanghai,3487
+1701,Mumbai,Los Angeles,8115
+1702,Busan,Dubai,1067
+1703,Hamburg,Sydney,11390
+1704,Mumbai,Sydney,2796
+1705,New York,Singapore,14507
+1706,Sydney,Hong Kong,13951
+1707,Singapore,New York,3290
+1708,Busan,Hong Kong,7710
+1709,Sydney,Busan,3270
+1710,Durban,New York,6033
+1711,Sydney,Durban,2485
+1712,Los Angeles,New York,10475
+1713,Sydney,Los Angeles,4401
+1714,Busan,Shanghai,10442
+1715,Singapore,New York,10893
+1716,Sydney,Santos,2914
+1717,Hong Kong,Dubai,1758
+1718,Shanghai,Sydney,8251
+1719,Durban,New York,9964
+1720,Dubai,Santos,848
+1721,Shanghai,New York,4626
+1722,Hamburg,Busan,9459
+1723,New York,Sydney,13383
+1724,Durban,New York,9645
+1725,New York,Los Angeles,10341
+1726,Sydney,Busan,3367
+1727,Mumbai,Hamburg,3471
+1728,Shanghai,Mumbai,6716
+1729,Durban,Mumbai,10313
+1730,Mumbai,Rotterdam,5238
+1731,Durban,Singapore,11578
+1732,New York,Singapore,12965
+1733,New York,Mumbai,12381
+1734,New York,Sydney,12559
+1735,Dubai,Busan,7623
+1736,Sydney,Mumbai,12563
+1737,Busan,Hong Kong,2276
+1738,Hong Kong,Dubai,6500
+1739,Busan,Santos,11511
+1740,Shanghai,New York,1312
+1741,Shanghai,Santos,13370
+1742,New York,Santos,12843
+1743,Singapore,Hong Kong,7665
+1744,Los Angeles,Shanghai,10329
+1745,Sydney,Shanghai,3066
+1746,Singapore,Hamburg,1315
+1747,Sydney,Singapore,756
+1748,Santos,Hamburg,725
+1749,Busan,Singapore,7175
+1750,Durban,Los Angeles,13117
+1751,Singapore,Rotterdam,10540
+1752,Sydney,Hong Kong,14393
+1753,Sydney,Hong Kong,11141
+1754,Sydney,Singapore,13728
+1755,Singapore,Rotterdam,5095
+1756,New York,Shanghai,7939
+1757,Dubai,Sydney,5073
+1758,Durban,Hamburg,10547
+1759,Sydney,Hong Kong,5534
+1760,Rotterdam,Los Angeles,6523
+1761,Hamburg,Shanghai,4323
+1762,Mumbai,Dubai,11400
+1763,Santos,Rotterdam,4998
+1764,Hamburg,Mumbai,6420
+1765,Rotterdam,Hamburg,9914
+1766,Rotterdam,Busan,10409
+1767,Busan,New York,11932
+1768,New York,Mumbai,9500
+1769,Dubai,Durban,7758
+1770,New York,Dubai,11675
+1771,Rotterdam,Hong Kong,12951
+1772,New York,Los Angeles,14221
+1773,Mumbai,Rotterdam,9673
+1774,New York,Mumbai,8933
+1775,Santos,Hong Kong,2245
+1776,Dubai,Durban,12870
+1777,Rotterdam,Singapore,14436
+1778,Hong Kong,Dubai,3615
+1779,New York,Hong Kong,6417
+1780,Hong Kong,Shanghai,9652
+1781,Hamburg,Busan,4222
+1782,Shanghai,Busan,8525
+1783,Mumbai,Durban,13056
+1784,New York,Los Angeles,8100
+1785,Hong Kong,Hamburg,14934
+1786,Santos,Durban,3636
+1787,New York,Hong Kong,4883
+1788,Durban,Los Angeles,8215
+1789,Hamburg,Mumbai,6931
+1790,Durban,Dubai,4699
+1791,Durban,Hamburg,1030
+1792,Singapore,Durban,6153
+1793,Durban,Dubai,9146
+1794,Rotterdam,Durban,6245
+1795,Singapore,Hong Kong,4986
+1796,Shanghai,Sydney,916
+1797,Sydney,Hong Kong,2407
+1798,New York,Dubai,7901
+1799,Durban,Sydney,12166
+1800,New York,Durban,882
+1801,Durban,Busan,8637
+1802,Shanghai,Dubai,14761
+1803,Santos,Busan,13319
+1804,Santos,New York,9912
+1805,Dubai,Hamburg,9573
+1806,Santos,Sydney,8377
+1807,Singapore,Mumbai,1682
+1808,Singapore,New York,531
+1809,Singapore,Busan,801
+1810,Sydney,New York,4170
+1811,Santos,Dubai,11016
+1812,Dubai,Mumbai,519
+1813,Santos,Durban,4373
+1814,Sydney,Busan,14166
+1815,Dubai,Durban,13255
+1816,Sydney,New York,3678
+1817,Sydney,Hamburg,1009
+1818,Hong Kong,Busan,6428
+1819,Sydney,Durban,11446
+1820,Los Angeles,Santos,13302
+1821,Los Angeles,Dubai,13605
+1822,Santos,Rotterdam,6957
+1823,Mumbai,Los Angeles,8488
+1824,Hong Kong,Busan,6758
+1825,Los Angeles,New York,8470
+1826,Hamburg,Santos,10959
+1827,Singapore,Hamburg,12372
+1828,Los Angeles,Busan,10988
+1829,Rotterdam,Singapore,13786
+1830,New York,Singapore,8738
+1831,Singapore,Mumbai,8053
+1832,Sydney,Hong Kong,11574
+1833,Mumbai,Busan,2696
+1834,Durban,Mumbai,13080
+1835,Durban,Sydney,11698
+1836,Busan,Los Angeles,9394
+1837,Hong Kong,Sydney,5610
+1838,Shanghai,Dubai,3648
+1839,Dubai,Hamburg,9608
+1840,Busan,Hong Kong,13493
+1841,Los Angeles,Shanghai,1285
+1842,Shanghai,Sydney,6879
+1843,Hong Kong,Dubai,4182
+1844,Hong Kong,Santos,1772
+1845,Shanghai,Mumbai,3428
+1846,New York,Hong Kong,11875
+1847,Hamburg,Dubai,12349
+1848,Shanghai,Santos,3881
+1849,Hamburg,Busan,14167
+1850,Busan,Singapore,9144
+1851,New York,Hamburg,2255
+1852,Los Angeles,Dubai,659
+1853,Santos,Durban,14795
+1854,Los Angeles,Shanghai,5024
+1855,Rotterdam,Durban,1288
+1856,Busan,Durban,4162
+1857,Rotterdam,Busan,3961
+1858,Sydney,Santos,5282
+1859,New York,Singapore,14299
+1860,Santos,Rotterdam,731
+1861,Sydney,Durban,5929
+1862,Dubai,Sydney,12928
+1863,Santos,Los Angeles,9886
+1864,New York,Shanghai,10384
+1865,Rotterdam,Mumbai,9001
+1866,New York,Sydney,7850
+1867,Shanghai,Rotterdam,3698
+1868,Shanghai,Hong Kong,3159
+1869,Sydney,Dubai,933
+1870,Sydney,Santos,13299
+1871,Shanghai,Santos,8811
+1872,Rotterdam,New York,8667
+1873,Sydney,Busan,618
+1874,Santos,Dubai,8848
+1875,New York,Mumbai,14916
+1876,Shanghai,Dubai,11180
+1877,Los Angeles,Sydney,13105
+1878,Busan,Shanghai,14230
+1879,Rotterdam,Shanghai,13529
+1880,Singapore,Dubai,14644
+1881,Mumbai,Singapore,3127
+1882,Rotterdam,Santos,6177
+1883,Hong Kong,Mumbai,9941
+1884,Dubai,New York,2158
+1885,New York,Durban,6380
+1886,Singapore,Dubai,4029
+1887,Mumbai,Hong Kong,8841
+1888,Mumbai,Durban,5810
+1889,Rotterdam,New York,1231
+1890,New York,Hamburg,5061
+1891,Los Angeles,Hong Kong,2778
+1892,Durban,Mumbai,12349
+1893,Hamburg,Los Angeles,14216
+1894,Busan,Sydney,6343
+1895,Santos,Mumbai,9129
+1896,Sydney,Hong Kong,8743
+1897,Santos,Mumbai,1292
+1898,New York,Hong Kong,12093
+1899,Singapore,Mumbai,4685
+1900,Los Angeles,Shanghai,11530
+1901,Rotterdam,Singapore,12466
+1902,Busan,Hong Kong,8349
+1903,Dubai,New York,11996
+1904,Mumbai,Shanghai,3706
+1905,Shanghai,Busan,11235
+1906,Busan,Shanghai,4222
+1907,Hong Kong,Rotterdam,10747
+1908,Shanghai,Los Angeles,9063
+1909,Hong Kong,Rotterdam,4821
+1910,Durban,Hamburg,9905
+1911,Los Angeles,Durban,12935
+1912,Dubai,Mumbai,10291
+1913,Durban,Los Angeles,12841
+1914,Shanghai,Hamburg,13086
+1915,Hong Kong,Santos,11684
+1916,Rotterdam,Durban,4847
+1917,Dubai,Mumbai,14763
+1918,Sydney,Busan,3304
+1919,Santos,Busan,10431
+1920,Sydney,New York,10997
+1921,Busan,Shanghai,6391
+1922,Shanghai,New York,3065
+1923,Mumbai,Dubai,5553
+1924,Mumbai,Durban,7870
+1925,Los Angeles,Mumbai,8727
+1926,New York,Mumbai,6680
+1927,Durban,Rotterdam,14989
+1928,Sydney,Durban,1177
+1929,Busan,Hamburg,9624
+1930,Durban,Rotterdam,13539
+1931,Mumbai,Dubai,10427
+1932,Durban,Dubai,7301
+1933,Hamburg,Hong Kong,2069
+1934,Busan,Sydney,4384
+1935,New York,Hong Kong,7094
+1936,Mumbai,Durban,11617
+1937,Shanghai,Los Angeles,6133
+1938,Hamburg,Santos,8140
+1939,Shanghai,Singapore,988
+1940,Sydney,Hong Kong,5507
+1941,Santos,Dubai,3349
+1942,Mumbai,Sydney,7221
+1943,Shanghai,Singapore,13039
+1944,Busan,Los Angeles,12267
+1945,Rotterdam,Hong Kong,8904
+1946,Hamburg,Busan,3004
+1947,Sydney,Singapore,9225
+1948,Durban,Rotterdam,4760
+1949,Durban,Rotterdam,10572
+1950,Los Angeles,Mumbai,2048
+1951,Sydney,Busan,9886
+1952,Singapore,Hong Kong,1971
+1953,Santos,Durban,13108
+1954,Rotterdam,Busan,4830
+1955,Sydney,Durban,2330
+1956,Mumbai,Hong Kong,2868
+1957,Rotterdam,Shanghai,667
+1958,Rotterdam,New York,11014
+1959,Rotterdam,Singapore,2004
+1960,New York,Rotterdam,3010
+1961,Busan,Durban,12853
+1962,Santos,Singapore,12120
+1963,Santos,Mumbai,9232
+1964,Los Angeles,New York,6009
+1965,Rotterdam,Mumbai,9164
+1966,Mumbai,Busan,5638
+1967,Durban,Shanghai,13070
+1968,Hong Kong,Rotterdam,989
+1969,Shanghai,Singapore,9089
+1970,Sydney,Singapore,13622
+1971,Mumbai,Durban,10405
+1972,Rotterdam,Sydney,5758
+1973,Shanghai,Hamburg,12684
+1974,Los Angeles,Shanghai,13538
+1975,Los Angeles,Durban,10128
+1976,New York,Mumbai,8193
+1977,Santos,Shanghai,2877
+1978,Mumbai,Dubai,4793
+1979,Rotterdam,Busan,8707
+1980,New York,Sydney,7363
+1981,Dubai,Sydney,4868
+1982,Durban,Santos,6875
+1983,Durban,Singapore,1022
+1984,Hong Kong,Singapore,8659
+1985,Hong Kong,Los Angeles,3056
+1986,Sydney,Shanghai,3057
+1987,Hamburg,Busan,1993
+1988,New York,Busan,12523
+1989,Mumbai,Shanghai,8538
+1990,Los Angeles,Singapore,2173
+1991,Santos,Los Angeles,11533
+1992,Singapore,Los Angeles,11521
+1993,Los Angeles,New York,8927
+1994,Los Angeles,Durban,3646
+1995,Rotterdam,Dubai,6289
+1996,Los Angeles,Dubai,5147
+1997,New York,Dubai,8442
+1998,Singapore,Los Angeles,13849
+1999,Rotterdam,Hong Kong,3054
+2000,Dubai,Sydney,11560
+2001,New York,Mumbai,12490
+2002,Singapore,Hong Kong,14853
+2003,Mumbai,Hong Kong,2775
+2004,New York,Hamburg,7258
+2005,Sydney,Rotterdam,1781
+2006,Shanghai,Dubai,10517
+2007,Hamburg,New York,13582
+2008,Sydney,Dubai,12328
+2009,Hamburg,Sydney,12556
+2010,Singapore,Sydney,4464
+2011,Mumbai,Durban,2088
+2012,Hamburg,Busan,5952
+2013,Hong Kong,New York,8030
+2014,Shanghai,Singapore,1647
+2015,Busan,Mumbai,3146
+2016,Singapore,Mumbai,9780
+2017,Dubai,Shanghai,3407
+2018,Santos,Dubai,9690
+2019,Santos,Busan,4982
+2020,Sydney,Rotterdam,13358
+2021,Rotterdam,Santos,1332
+2022,Rotterdam,Hong Kong,5070
+2023,Sydney,Rotterdam,11813
+2024,Los Angeles,Singapore,10509
+2025,Singapore,Los Angeles,13770
+2026,Los Angeles,Shanghai,12264
+2027,Busan,Rotterdam,2165
+2028,Sydney,Singapore,3817
+2029,Los Angeles,Mumbai,3379
+2030,Santos,Hong Kong,2177
+2031,Busan,Hamburg,5216
+2032,Shanghai,Singapore,1796
+2033,Mumbai,Shanghai,4375
+2034,Los Angeles,Durban,1300
+2035,Singapore,Hamburg,10498
+2036,Santos,Dubai,12648
+2037,Sydney,Busan,9279
+2038,Singapore,Dubai,8381
+2039,Rotterdam,Sydney,12076
+2040,Hamburg,New York,5013
+2041,Sydney,Hong Kong,8626
+2042,Dubai,Busan,6273
+2043,Durban,Dubai,12857
+2044,Sydney,New York,7206
+2045,Singapore,Mumbai,12038
+2046,Santos,Rotterdam,9353
+2047,Durban,Santos,2658
+2048,Busan,Dubai,13884
+2049,Rotterdam,Singapore,5817
+2050,Mumbai,Hong Kong,14795
+2051,Singapore,Los Angeles,14077
+2052,Hong Kong,Sydney,9448
+2053,Shanghai,Sydney,802
+2054,Durban,Hamburg,12330
+2055,Rotterdam,Mumbai,1525
+2056,Rotterdam,Durban,3213
+2057,Rotterdam,Singapore,10231
+2058,New York,Mumbai,14034
+2059,Santos,Singapore,4636
+2060,New York,Santos,2015
+2061,Shanghai,Rotterdam,14050
+2062,Mumbai,Shanghai,4496
+2063,Hong Kong,Santos,6377
+2064,Singapore,Hamburg,3600
+2065,Singapore,Sydney,8554
+2066,Hong Kong,Durban,12043
+2067,Dubai,Rotterdam,14652
+2068,New York,Rotterdam,10386
+2069,Sydney,Hamburg,1328
+2070,Hong Kong,Durban,10189
+2071,Durban,Hamburg,9501
+2072,Dubai,Mumbai,9417
+2073,Shanghai,Busan,8404
+2074,Mumbai,Hong Kong,13353
+2075,New York,Rotterdam,10641
+2076,Hong Kong,Sydney,992
+2077,Sydney,Shanghai,14058
+2078,Hong Kong,Rotterdam,1225
+2079,Singapore,New York,4864
+2080,Rotterdam,Mumbai,2273
+2081,Shanghai,Hong Kong,9312
+2082,Busan,Hamburg,11819
+2083,Los Angeles,Sydney,681
+2084,Mumbai,Los Angeles,11608
+2085,Hamburg,Santos,12749
+2086,Los Angeles,Mumbai,10095
+2087,Shanghai,Busan,4441
+2088,New York,Durban,10009
+2089,Sydney,Mumbai,7440
+2090,New York,Sydney,5667
+2091,Shanghai,Durban,14284
+2092,Busan,Rotterdam,6394
+2093,Singapore,Hamburg,2603
+2094,Los Angeles,Sydney,9901
+2095,Singapore,Busan,1759
+2096,Rotterdam,Shanghai,4044
+2097,Singapore,Rotterdam,2722
+2098,Durban,Mumbai,13170
+2099,Durban,Dubai,11881
+2100,Busan,Santos,8112
+2101,Santos,Mumbai,14114
+2102,Dubai,Santos,10926
+2103,Singapore,Mumbai,1693
+2104,Mumbai,Hong Kong,14206
+2105,Mumbai,Hong Kong,3280
+2106,Sydney,Singapore,8595
+2107,Durban,Mumbai,8703
+2108,Sydney,Shanghai,5918
+2109,Dubai,Shanghai,10752
+2110,Hamburg,Shanghai,7008
+2111,Los Angeles,Dubai,12266
+2112,Sydney,Mumbai,7801
+2113,Los Angeles,Rotterdam,13568
+2114,Dubai,Rotterdam,5649
+2115,Los Angeles,Rotterdam,10813
+2116,Shanghai,New York,13629
+2117,Santos,Sydney,7906
+2118,Busan,Rotterdam,3744
+2119,Shanghai,Hamburg,4637
+2120,Singapore,Busan,13312
+2121,Mumbai,New York,2052
+2122,Hamburg,Durban,10605
+2123,Durban,Los Angeles,3090
+2124,Rotterdam,Singapore,9360
+2125,Hamburg,Los Angeles,14584
+2126,Rotterdam,Sydney,12298
+2127,Shanghai,Sydney,13628
+2128,Santos,Shanghai,7176
+2129,Singapore,Hamburg,10997
+2130,Shanghai,Durban,6926
+2131,Sydney,Hamburg,9241
+2132,Sydney,Santos,14278
+2133,Shanghai,Dubai,9206
+2134,Los Angeles,Hamburg,8314
+2135,Rotterdam,Singapore,9341
+2136,Durban,Busan,12622
+2137,Dubai,New York,4573
+2138,Busan,Los Angeles,10568
+2139,Los Angeles,Singapore,1827
+2140,Hamburg,New York,11716
+2141,Singapore,Sydney,8665
+2142,Sydney,Durban,12458
+2143,Santos,Dubai,980
+2144,New York,Mumbai,14523
+2145,Mumbai,Durban,12185
+2146,Durban,Santos,7384
+2147,Shanghai,Busan,5300
+2148,Santos,Dubai,12693
+2149,Shanghai,Durban,10181
+2150,Hong Kong,Mumbai,11050
+2151,Mumbai,Hamburg,13966
+2152,Rotterdam,Shanghai,13692
+2153,Rotterdam,Los Angeles,5285
+2154,Mumbai,Busan,14550
+2155,Dubai,Hamburg,710
+2156,Singapore,Busan,2153
+2157,Rotterdam,Sydney,9193
+2158,Mumbai,Rotterdam,13086
+2159,Shanghai,Hong Kong,14275
+2160,Hamburg,Sydney,7800
+2161,Hamburg,Mumbai,12921
+2162,Singapore,Mumbai,14135
+2163,Dubai,Singapore,3704
+2164,Durban,Rotterdam,13709
+2165,Mumbai,Busan,1689
+2166,Mumbai,Santos,4648
+2167,Durban,New York,1778
+2168,Hamburg,Durban,14339
+2169,Shanghai,Sydney,14969
+2170,Singapore,Sydney,13036
+2171,Hong Kong,Hamburg,12337
+2172,New York,Busan,6988
+2173,Shanghai,Dubai,13767
+2174,Hong Kong,Hamburg,12345
+2175,Mumbai,Durban,1685
+2176,Shanghai,Santos,11079
+2177,Busan,Los Angeles,2328
+2178,Los Angeles,Santos,539
+2179,Santos,Singapore,10141
+2180,Santos,Busan,1132
+2181,Sydney,Durban,9683
+2182,New York,Shanghai,6683
+2183,Dubai,Hong Kong,9858
+2184,Singapore,Rotterdam,14462
+2185,Hong Kong,Los Angeles,1129
+2186,Hong Kong,Durban,11292
+2187,Sydney,Busan,11495
+2188,Hong Kong,Busan,1267
+2189,New York,Busan,5616
+2190,Hong Kong,Rotterdam,7298
+2191,Hamburg,Shanghai,13919
+2192,Dubai,Mumbai,12681
+2193,Sydney,Santos,3263
+2194,Mumbai,Los Angeles,3204
+2195,Santos,Durban,4508
+2196,Hamburg,Sydney,7943
+2197,Sydney,Hong Kong,5392
+2198,Los Angeles,Rotterdam,10468
+2199,Hamburg,Santos,8102
+2200,Singapore,Shanghai,4948
+2201,Singapore,Sydney,14830
+2202,Singapore,Sydney,3066
+2203,Singapore,Hong Kong,790
+2204,Sydney,Dubai,8272
+2205,Shanghai,Busan,11454
+2206,Hong Kong,Shanghai,1559
+2207,Dubai,Hamburg,9211
+2208,Dubai,Los Angeles,10677
+2209,Busan,Sydney,8149
+2210,Durban,Sydney,8137
+2211,Hong Kong,Los Angeles,4173
+2212,Sydney,Mumbai,8465
+2213,Hamburg,Dubai,7567
+2214,Sydney,Durban,3337
+2215,Hong Kong,New York,5424
+2216,Dubai,Sydney,12443
+2217,Santos,Durban,5161
+2218,Sydney,Mumbai,3696
+2219,Hamburg,New York,5902
+2220,Durban,Hamburg,918
+2221,Singapore,Mumbai,7165
+2222,Shanghai,Durban,14501
+2223,Rotterdam,Los Angeles,13771
+2224,Los Angeles,Mumbai,1266
+2225,Hamburg,Dubai,1167
+2226,Rotterdam,Singapore,11549
+2227,Hong Kong,Rotterdam,10333
+2228,Busan,New York,1696
+2229,Mumbai,Busan,7146
+2230,Rotterdam,Busan,8048
+2231,Durban,Hong Kong,9633
+2232,New York,Mumbai,1974
+2233,Busan,Hamburg,5092
+2234,Santos,Singapore,5140
+2235,Shanghai,Busan,1843
+2236,Hong Kong,Mumbai,3623
+2237,Mumbai,Singapore,3950
+2238,Hamburg,Busan,11981
+2239,Hamburg,Los Angeles,6540
+2240,Durban,New York,4086
+2241,Mumbai,Los Angeles,8307
+2242,Dubai,Hamburg,6380
+2243,Sydney,Singapore,12095
+2244,Hamburg,Busan,1271
+2245,Busan,Los Angeles,8603
+2246,Mumbai,Rotterdam,13938
+2247,Durban,Los Angeles,8633
+2248,Hong Kong,Singapore,12961
+2249,Rotterdam,Sydney,11641
+2250,Rotterdam,Singapore,646
+2251,New York,Dubai,8323
+2252,Busan,Singapore,8355
+2253,Dubai,Mumbai,12981
+2254,Hong Kong,Rotterdam,775
+2255,Mumbai,Busan,13607
+2256,Santos,Durban,1968
+2257,Singapore,Los Angeles,4872
+2258,Dubai,Singapore,2651
+2259,Shanghai,Singapore,13250
+2260,Hong Kong,Durban,13163
+2261,Rotterdam,Sydney,12893
+2262,Durban,Santos,1818
+2263,Los Angeles,Hong Kong,6729
+2264,Santos,Hamburg,2927
+2265,Los Angeles,Santos,13898
+2266,Busan,Santos,13325
+2267,Rotterdam,Busan,4680
+2268,Shanghai,Santos,14997
+2269,Mumbai,Hamburg,5620
+2270,Shanghai,Hamburg,7618
+2271,Mumbai,New York,11513
+2272,Mumbai,Durban,14644
+2273,Sydney,Busan,6875
+2274,Durban,Dubai,14890
+2275,Rotterdam,Dubai,12668
+2276,Hong Kong,Dubai,4358
+2277,Mumbai,Shanghai,9281
+2278,Rotterdam,Busan,12232
+2279,Singapore,Los Angeles,14337
+2280,Sydney,Singapore,10235
+2281,Shanghai,Santos,3574
+2282,New York,Hong Kong,3830
+2283,Hamburg,Busan,14532
+2284,Los Angeles,Mumbai,9699
+2285,Busan,Durban,7446
+2286,Busan,Shanghai,5997
+2287,Hong Kong,Singapore,2065
+2288,Shanghai,Mumbai,1071
+2289,Singapore,Los Angeles,3837
+2290,Santos,Hong Kong,4422
+2291,Mumbai,New York,12646
+2292,New York,Mumbai,10382
+2293,Durban,Rotterdam,11352
+2294,Sydney,Rotterdam,4967
+2295,Hong Kong,Busan,8686
+2296,Santos,Rotterdam,5422
+2297,Mumbai,Dubai,9565
+2298,Santos,Shanghai,4612
+2299,Sydney,New York,12993
+2300,New York,Durban,782
+2301,Hong Kong,Dubai,12735
+2302,Los Angeles,Durban,1014
+2303,Busan,Rotterdam,1267
+2304,Dubai,New York,14450
+2305,Hamburg,Los Angeles,12481
+2306,Los Angeles,Sydney,12238
+2307,Busan,Dubai,12232
+2308,Hong Kong,Dubai,7057
+2309,Busan,Dubai,8472
+2310,Mumbai,Durban,7075
+2311,Hong Kong,Shanghai,12344
+2312,Durban,Shanghai,11081
+2313,Dubai,Santos,1498
+2314,Durban,Rotterdam,1691
+2315,Dubai,Mumbai,1459
+2316,Los Angeles,Dubai,7127
+2317,Mumbai,New York,1844
+2318,Rotterdam,Mumbai,3588
+2319,Hamburg,Busan,14154
+2320,Sydney,Durban,7179
+2321,Singapore,Dubai,12240
+2322,Sydney,Durban,4207
+2323,Santos,Durban,6801
+2324,Singapore,New York,559
+2325,Dubai,Rotterdam,8663
+2326,Mumbai,New York,12304
+2327,Durban,Hamburg,4122
+2328,Los Angeles,Hamburg,8789
+2329,Shanghai,Los Angeles,13353
+2330,Rotterdam,Los Angeles,11833
+2331,Shanghai,Durban,5125
+2332,Shanghai,Hamburg,2783
+2333,Busan,Los Angeles,10018
+2334,Busan,Dubai,3531
+2335,Busan,Durban,4188
+2336,Shanghai,Durban,12643
+2337,Shanghai,Dubai,14736
+2338,Mumbai,Los Angeles,2919
+2339,Hamburg,Mumbai,10149
+2340,Sydney,Hamburg,3838
+2341,Rotterdam,New York,1297
+2342,Santos,Busan,3774
+2343,Durban,Sydney,7734
+2344,Durban,Sydney,11562
+2345,Santos,Los Angeles,6944
+2346,Sydney,Santos,5669
+2347,Sydney,Santos,12855
+2348,Dubai,New York,5655
+2349,Durban,Santos,4413
+2350,Mumbai,Santos,14965
+2351,Sydney,New York,11483
+2352,Shanghai,Hamburg,3094
+2353,Los Angeles,Rotterdam,1119
+2354,Dubai,Mumbai,4548
+2355,Dubai,Busan,13911
+2356,Mumbai,New York,6286
+2357,Santos,Hong Kong,14803
+2358,Sydney,Los Angeles,10561
+2359,Santos,New York,13372
+2360,Dubai,Mumbai,7822
+2361,Hong Kong,Hamburg,2327
+2362,Hong Kong,Durban,1012
+2363,Durban,Santos,13193
+2364,Los Angeles,Durban,4501
+2365,New York,Dubai,10684
+2366,Los Angeles,Mumbai,10901
+2367,Mumbai,Los Angeles,3488
+2368,Dubai,Los Angeles,9834
+2369,Shanghai,Busan,755
+2370,Sydney,Santos,8813
+2371,Mumbai,Shanghai,12078
+2372,New York,Shanghai,10044
+2373,Hong Kong,New York,2242
+2374,Mumbai,Singapore,13500
+2375,Mumbai,Santos,1926
+2376,New York,Hamburg,14637
+2377,Busan,Hong Kong,1108
+2378,Sydney,Los Angeles,13179
+2379,Busan,Shanghai,13145
+2380,Shanghai,Hong Kong,14589
+2381,Mumbai,Durban,13079
+2382,Durban,Santos,7587
+2383,Singapore,Hong Kong,7941
+2384,Santos,Los Angeles,12724
+2385,Los Angeles,Dubai,1633
+2386,Sydney,Mumbai,11470
+2387,Los Angeles,Durban,13826
+2388,Shanghai,Durban,10958
+2389,New York,Hamburg,3282
+2390,Sydney,Singapore,7105
+2391,Los Angeles,New York,14250
+2392,Rotterdam,Dubai,6266
+2393,Busan,Rotterdam,6541
+2394,Santos,Los Angeles,12111
+2395,New York,Los Angeles,7010
+2396,New York,Dubai,1305
+2397,Hong Kong,Rotterdam,10791
+2398,Busan,Mumbai,9871
+2399,Los Angeles,Hamburg,10241
+2400,Singapore,Shanghai,4670
+2401,Singapore,Rotterdam,12618
+2402,Santos,Mumbai,1292
+2403,Los Angeles,Hamburg,989
+2404,Sydney,Los Angeles,12724
+2405,Busan,Los Angeles,2024
+2406,Santos,Los Angeles,2832
+2407,Shanghai,Mumbai,1225
+2408,Hamburg,Durban,9720
+2409,Durban,Singapore,7880
+2410,New York,Sydney,3399
+2411,Hamburg,Los Angeles,2400
+2412,Dubai,Hong Kong,3816
+2413,Sydney,Dubai,9756
+2414,Busan,Los Angeles,12013
+2415,Hong Kong,Singapore,5698
+2416,Dubai,New York,11789
+2417,Sydney,Rotterdam,11256
+2418,Dubai,Singapore,2805
+2419,Hamburg,Los Angeles,2650
+2420,Los Angeles,Rotterdam,2271
+2421,Mumbai,Santos,607
+2422,Mumbai,Dubai,9947
+2423,Durban,Shanghai,2428
+2424,Hong Kong,Sydney,6104
+2425,Sydney,Singapore,5502
+2426,Los Angeles,Hamburg,9644
+2427,Santos,Dubai,1158
+2428,New York,Rotterdam,10859
+2429,Hamburg,Mumbai,6032
+2430,Los Angeles,Busan,6851
+2431,Santos,New York,6484
+2432,Shanghai,Mumbai,2830
+2433,Dubai,Shanghai,4508
+2434,Santos,Dubai,3876
+2435,Busan,Sydney,9623
+2436,Durban,Santos,10589
+2437,Hong Kong,Busan,9163
+2438,Shanghai,Santos,7173
+2439,Hong Kong,Singapore,6188
+2440,Busan,Mumbai,2737
+2441,Mumbai,Sydney,4847
+2442,Rotterdam,Hong Kong,4865
+2443,Santos,Durban,13696
+2444,Hamburg,Busan,589
+2445,Shanghai,Sydney,5797
+2446,Los Angeles,Busan,2519
+2447,Hamburg,Singapore,10209
+2448,Dubai,Singapore,10517
+2449,Durban,Santos,1779
+2450,New York,Rotterdam,8064
+2451,New York,Hamburg,12891
+2452,Los Angeles,Durban,7251
+2453,New York,Los Angeles,3703
+2454,Singapore,Busan,3491
+2455,Shanghai,Rotterdam,4662
+2456,Los Angeles,Dubai,4771
+2457,Los Angeles,Rotterdam,2909
+2458,Shanghai,Sydney,11434
+2459,Dubai,Busan,13900
+2460,Los Angeles,Shanghai,8046
+2461,Singapore,New York,12406
+2462,Sydney,Rotterdam,11303
+2463,Shanghai,Mumbai,2066
+2464,Hong Kong,Los Angeles,13380
+2465,Dubai,Rotterdam,2781
+2466,Los Angeles,Rotterdam,13879
+2467,Dubai,New York,11961
+2468,Singapore,Durban,3103
+2469,Busan,Santos,2543
+2470,Hamburg,Singapore,9662
+2471,Hamburg,Mumbai,5941
+2472,Sydney,Rotterdam,5291
+2473,Rotterdam,Hamburg,11925
+2474,New York,Durban,13966
+2475,Durban,Los Angeles,4522
+2476,Hong Kong,Santos,4227
+2477,Los Angeles,Singapore,14019
+2478,Singapore,Mumbai,13062
+2479,Dubai,Hong Kong,4363
+2480,Singapore,Hamburg,1026
+2481,Singapore,Shanghai,3932
+2482,Rotterdam,Los Angeles,4671
+2483,Sydney,Hong Kong,5973
+2484,Los Angeles,Busan,6453
+2485,Busan,Shanghai,3478
+2486,Shanghai,New York,13870
+2487,Mumbai,Los Angeles,1024
+2488,Sydney,Los Angeles,8089
+2489,Mumbai,Santos,4936
+2490,Busan,Santos,14323
+2491,Hamburg,Busan,7664
+2492,Durban,Dubai,1584
+2493,Singapore,Hamburg,12280
+2494,Busan,Hong Kong,7021
+2495,Hamburg,Los Angeles,8458
+2496,Mumbai,Singapore,10452
+2497,Los Angeles,Rotterdam,4076
+2498,Hong Kong,Rotterdam,14912
+2499,Mumbai,Singapore,5070
+2500,Singapore,Rotterdam,7875
+2501,Durban,Santos,6471
+2502,Shanghai,Hong Kong,7229
+2503,New York,Santos,12440
+2504,Mumbai,Dubai,732
+2505,Shanghai,Durban,5241
+2506,Hamburg,Shanghai,14094
+2507,Shanghai,Hamburg,10137
+2508,Singapore,Hamburg,6123
+2509,Santos,Hamburg,2507
+2510,Durban,Rotterdam,515
+2511,Rotterdam,Mumbai,8701
+2512,Dubai,Sydney,12761
+2513,Santos,Mumbai,8426
+2514,Singapore,Santos,4353
+2515,Sydney,Mumbai,12348
+2516,Sydney,Durban,3906
+2517,Shanghai,New York,1258
+2518,Dubai,Busan,10599
+2519,Dubai,Rotterdam,887
+2520,Hong Kong,Busan,10845
+2521,Rotterdam,Dubai,3445
+2522,Santos,Sydney,11469
+2523,Sydney,Santos,14680
+2524,New York,Hong Kong,14647
+2525,Shanghai,Santos,13173
+2526,Dubai,Hong Kong,3887
+2527,Durban,Mumbai,8455
+2528,Busan,Mumbai,7099
+2529,Los Angeles,Dubai,9813
+2530,Durban,Los Angeles,6243
+2531,Singapore,Hong Kong,5658
+2532,Santos,Hamburg,4534
+2533,Hong Kong,Rotterdam,11343
+2534,Mumbai,Hong Kong,10503
+2535,Singapore,Hamburg,3678
+2536,Durban,Santos,2067
+2537,New York,Sydney,697
+2538,Busan,Dubai,6259
+2539,Busan,Singapore,5873
+2540,Dubai,Durban,12780
+2541,Durban,Los Angeles,6766
+2542,Singapore,New York,1026
+2543,Singapore,Hamburg,4534
+2544,Santos,Singapore,4746
+2545,Busan,Dubai,6529
+2546,New York,Los Angeles,6411
+2547,Dubai,Sydney,12361
+2548,Singapore,New York,5185
+2549,Los Angeles,Shanghai,13799
+2550,Singapore,New York,14601
+2551,Los Angeles,New York,11409
+2552,Hamburg,New York,2777
+2553,Singapore,Mumbai,8433
+2554,Santos,Dubai,11856
+2555,Hamburg,Hong Kong,9682
+2556,Rotterdam,Busan,3308
+2557,Los Angeles,Sydney,9066
+2558,Santos,Rotterdam,586
+2559,Santos,Hamburg,12835
+2560,Shanghai,Durban,14979
+2561,Busan,Mumbai,2867
+2562,Santos,Singapore,10631
+2563,Dubai,Busan,4310
+2564,Mumbai,Busan,5199
+2565,Hamburg,Hong Kong,3150
+2566,Singapore,Durban,820
+2567,Busan,Rotterdam,6042
+2568,Mumbai,Hamburg,14118
+2569,Singapore,Durban,4759
+2570,Busan,New York,12559
+2571,Durban,Busan,7498
+2572,Dubai,Rotterdam,4958
+2573,Busan,Shanghai,9093
+2574,Sydney,Santos,12827
+2575,Hamburg,Hong Kong,14632
+2576,Sydney,Dubai,2971
+2577,Hamburg,Los Angeles,9612
+2578,Sydney,Busan,4319
+2579,Singapore,Shanghai,2921
+2580,Singapore,Busan,4274
+2581,Sydney,Santos,1980
+2582,Hong Kong,Los Angeles,13599
+2583,Shanghai,Hamburg,3578
+2584,Hong Kong,Durban,1007
+2585,Hong Kong,Shanghai,1341
+2586,Hamburg,New York,13947
+2587,Singapore,Hong Kong,2210
+2588,Shanghai,Singapore,5164
+2589,New York,Rotterdam,13456
+2590,Singapore,Hamburg,1708
+2591,Singapore,Shanghai,2787
+2592,Santos,New York,12551
+2593,Los Angeles,Hamburg,3527
+2594,Singapore,Hamburg,6963
+2595,Durban,New York,8340
+2596,Dubai,Busan,7529
+2597,Sydney,Singapore,7123
+2598,Sydney,Hong Kong,11911
+2599,Busan,Santos,6827
+2600,Rotterdam,Hong Kong,3900
+2601,Hamburg,Singapore,1472
+2602,Durban,Los Angeles,11653
+2603,Mumbai,Rotterdam,10155
+2604,Dubai,Shanghai,14120
+2605,Hamburg,Los Angeles,5349
+2606,Rotterdam,Mumbai,2187
+2607,Hong Kong,Sydney,2123
+2608,New York,Hamburg,6593
+2609,Sydney,Shanghai,14920
+2610,Shanghai,Hong Kong,8926
+2611,Durban,Hong Kong,9144
+2612,Singapore,Shanghai,6716
+2613,Busan,Shanghai,10614
+2614,New York,Los Angeles,12891
+2615,Busan,Rotterdam,3170
+2616,Hamburg,Busan,1480
+2617,Mumbai,Rotterdam,7028
+2618,New York,Shanghai,5487
+2619,Mumbai,Rotterdam,6020
+2620,Santos,Hamburg,2828
+2621,Busan,Los Angeles,10278
+2622,Busan,New York,6862
+2623,Hong Kong,Mumbai,6838
+2624,New York,Sydney,9544
+2625,Mumbai,Singapore,10721
+2626,Hamburg,Sydney,8453
+2627,Los Angeles,Hong Kong,12356
+2628,Sydney,Busan,12457
+2629,Santos,Mumbai,901
+2630,Singapore,Sydney,10093
+2631,New York,Busan,1274
+2632,Hamburg,Los Angeles,14814
+2633,Shanghai,Durban,636
+2634,Shanghai,Hong Kong,7428
+2635,Hamburg,Singapore,11446
+2636,Hamburg,Singapore,6373
+2637,New York,Hamburg,3155
+2638,Dubai,Los Angeles,9030
+2639,Durban,Sydney,8481
+2640,Los Angeles,Durban,2406
+2641,Sydney,Rotterdam,5770
+2642,Shanghai,Sydney,1020
+2643,New York,Dubai,1626
+2644,Mumbai,Busan,8279
+2645,Shanghai,Busan,517
+2646,Durban,Hamburg,8161
+2647,Hong Kong,Durban,1895
+2648,Hong Kong,Shanghai,13392
+2649,Santos,Dubai,11476
+2650,Los Angeles,Santos,9712
+2651,Santos,New York,9737
+2652,Mumbai,Busan,11820
+2653,New York,Shanghai,5942
+2654,New York,Busan,9136
+2655,Santos,Mumbai,10974
+2656,Rotterdam,Busan,11913
+2657,Hong Kong,Rotterdam,11885
+2658,Singapore,Los Angeles,13721
+2659,Mumbai,Santos,4470
+2660,Dubai,New York,8300
+2661,Durban,Hamburg,6542
+2662,Mumbai,Dubai,940
+2663,Singapore,Hong Kong,7627
+2664,Hamburg,Santos,13935
+2665,New York,Los Angeles,1350
+2666,Rotterdam,Durban,5151
+2667,Rotterdam,Singapore,2203
+2668,Hamburg,Sydney,10767
+2669,Santos,Sydney,4380
+2670,Mumbai,Hamburg,11544
+2671,Dubai,Singapore,2357
+2672,Singapore,Los Angeles,7944
+2673,Los Angeles,Santos,8526
+2674,Hong Kong,Shanghai,5278
+2675,Durban,New York,13201
+2676,Mumbai,New York,5351
+2677,Shanghai,Santos,3095
+2678,Dubai,Santos,12742
+2679,Durban,Mumbai,8170
+2680,Shanghai,Busan,3934
+2681,Hong Kong,Shanghai,12751
+2682,Mumbai,Dubai,1270
+2683,Hamburg,Dubai,5482
+2684,Busan,Singapore,2230
+2685,Singapore,Hong Kong,11629
+2686,Shanghai,Mumbai,7349
+2687,Sydney,Hamburg,1303
+2688,Mumbai,Durban,6499
+2689,Busan,Santos,3272
+2690,Singapore,Dubai,9262
+2691,Los Angeles,Rotterdam,13416
+2692,Hong Kong,Shanghai,10455
+2693,Busan,Hamburg,14934
+2694,New York,Santos,4426
+2695,Hong Kong,Los Angeles,4689
+2696,Busan,Singapore,14825
+2697,New York,Mumbai,7027
+2698,Durban,Singapore,4074
+2699,Hong Kong,Dubai,8369
+2700,New York,Sydney,11007
+2701,Hamburg,Dubai,12010
+2702,New York,Busan,10114
+2703,Singapore,Los Angeles,2193
+2704,New York,Rotterdam,11424
+2705,Hamburg,New York,5230
+2706,Singapore,Hong Kong,10568
+2707,Los Angeles,Busan,8769
+2708,Rotterdam,Santos,12798
+2709,Busan,Rotterdam,13032
+2710,Hamburg,Dubai,1368
+2711,Santos,Durban,12303
+2712,New York,Hamburg,11260
+2713,Mumbai,Singapore,8240
+2714,Durban,Singapore,1302
+2715,Hamburg,Dubai,2306
+2716,Dubai,Santos,4367
+2717,Dubai,Sydney,11480
+2718,Santos,Sydney,3828
+2719,Dubai,Durban,4785
+2720,New York,Singapore,11773
+2721,New York,Sydney,6033
+2722,Busan,New York,6200
+2723,Rotterdam,Mumbai,2293
+2724,Busan,Hong Kong,7137
+2725,Shanghai,Hamburg,744
+2726,Santos,Dubai,5001
+2727,Singapore,Shanghai,6939
+2728,Hamburg,Sydney,10269
+2729,Los Angeles,Santos,559
+2730,Busan,Singapore,8729
+2731,Los Angeles,Hamburg,12479
+2732,Singapore,Hong Kong,5783
+2733,Rotterdam,Durban,14788
+2734,Hong Kong,Busan,5970
+2735,Sydney,Los Angeles,11267
+2736,Busan,Hamburg,9272
+2737,Hamburg,Rotterdam,12641
+2738,Los Angeles,Busan,8596
+2739,Singapore,Mumbai,7521
+2740,Hong Kong,Rotterdam,11925
+2741,Hong Kong,Singapore,9918
+2742,Los Angeles,Sydney,4658
+2743,Sydney,Rotterdam,8259
+2744,Shanghai,Singapore,2738
+2745,Hamburg,Shanghai,8846
+2746,Los Angeles,Mumbai,13260
+2747,Singapore,Santos,12381
+2748,Los Angeles,Hong Kong,4663
+2749,Hong Kong,Rotterdam,11163
+2750,Santos,Rotterdam,827
+2751,Mumbai,Shanghai,782
+2752,Shanghai,Hong Kong,7946
+2753,Mumbai,Santos,1416
+2754,Mumbai,New York,2116
+2755,Dubai,Santos,5661
+2756,Hong Kong,Busan,7988
+2757,New York,Mumbai,7038
+2758,Shanghai,Busan,3378
+2759,New York,Shanghai,11140
+2760,Shanghai,Durban,8722
+2761,Hong Kong,Hamburg,7501
+2762,Durban,Hamburg,11418
+2763,Singapore,Busan,7610
+2764,Dubai,Hamburg,6776
+2765,Busan,Los Angeles,11308
+2766,Singapore,Rotterdam,2146
+2767,Shanghai,Dubai,9419
+2768,Hong Kong,Hamburg,10682
+2769,Shanghai,Rotterdam,13409
+2770,Hong Kong,Durban,1070
+2771,Los Angeles,Mumbai,5513
+2772,Los Angeles,Durban,3408
+2773,Rotterdam,Los Angeles,11192
+2774,Busan,Rotterdam,14774
+2775,Singapore,Shanghai,11510
+2776,Hamburg,Santos,11630
+2777,Los Angeles,Santos,2223
+2778,Sydney,Busan,6151
+2779,Mumbai,Rotterdam,5179
+2780,Mumbai,New York,1368
+2781,Hamburg,Hong Kong,13446
+2782,New York,Hong Kong,5903
+2783,Durban,Los Angeles,9068
+2784,Hamburg,Sydney,8556
+2785,Rotterdam,Mumbai,869
+2786,Busan,Shanghai,11408
+2787,Sydney,Hamburg,13969
+2788,Mumbai,New York,2477
+2789,Shanghai,Sydney,12108
+2790,Hong Kong,Durban,5760
+2791,Singapore,Rotterdam,10013
+2792,Rotterdam,Singapore,13435
+2793,Hong Kong,Sydney,10153
+2794,Dubai,Busan,1537
+2795,New York,Dubai,5319
+2796,New York,Hamburg,10692
+2797,Santos,Durban,7638
+2798,Hong Kong,Santos,5484
+2799,Singapore,Dubai,10624
+2800,Hong Kong,Shanghai,784
+2801,Hamburg,Busan,6093
+2802,Busan,Los Angeles,6245
+2803,Hong Kong,Sydney,5522
+2804,Busan,Sydney,14875
+2805,Rotterdam,Dubai,10954
+2806,Santos,Hong Kong,13683
+2807,Sydney,Hamburg,7710
+2808,Sydney,Durban,5882
+2809,Sydney,Busan,8049
+2810,Los Angeles,Shanghai,2264
+2811,Los Angeles,Hong Kong,5821
+2812,Mumbai,Santos,6636
+2813,Shanghai,Rotterdam,13676
+2814,Durban,Hamburg,12114
+2815,Hamburg,Hong Kong,6263
+2816,Shanghai,Rotterdam,3117
+2817,Rotterdam,New York,10309
+2818,Los Angeles,New York,5512
+2819,Sydney,Durban,10623
+2820,Los Angeles,Busan,13392
+2821,Los Angeles,Busan,6078
+2822,New York,Hong Kong,12008
+2823,Rotterdam,Singapore,8840
+2824,Rotterdam,Durban,4287
+2825,Hamburg,Hong Kong,7832
+2826,Hamburg,Santos,9165
+2827,Busan,Hong Kong,10466
+2828,Hong Kong,Singapore,10213
+2829,Mumbai,Los Angeles,14829
+2830,Rotterdam,Durban,3805
+2831,Busan,Durban,11069
+2832,Hamburg,Rotterdam,3864
+2833,New York,Singapore,6111
+2834,Hamburg,Los Angeles,5104
+2835,New York,Dubai,5618
+2836,Rotterdam,Durban,12784
+2837,Busan,Dubai,13498
+2838,Singapore,New York,10430
+2839,Dubai,Sydney,8715
+2840,Mumbai,Rotterdam,8650
+2841,Durban,Sydney,1475
+2842,Los Angeles,Sydney,11388
+2843,Sydney,Hong Kong,13955
+2844,Shanghai,Durban,1587
+2845,Hong Kong,Mumbai,13104
+2846,New York,Sydney,10904
+2847,Durban,Hong Kong,10348
+2848,Durban,Dubai,6356
+2849,Sydney,Santos,13088
+2850,Shanghai,Rotterdam,4450
+2851,Santos,Mumbai,9619
+2852,Hamburg,Santos,6608
+2853,Sydney,Hamburg,10286
+2854,Hong Kong,Shanghai,12795
+2855,Mumbai,Busan,4589
+2856,Los Angeles,New York,822
+2857,Shanghai,New York,11246
+2858,Hong Kong,Los Angeles,7760
+2859,Santos,Mumbai,11502
+2860,Mumbai,New York,6705
+2861,Dubai,Rotterdam,5597
+2862,Singapore,Rotterdam,13340
+2863,Busan,Rotterdam,11631
+2864,Sydney,Hamburg,6518
+2865,Busan,Singapore,12994
+2866,Shanghai,Hamburg,6499
+2867,Singapore,Durban,768
+2868,Mumbai,Hamburg,12678
+2869,Dubai,Santos,955
+2870,Hong Kong,Sydney,7985
+2871,Rotterdam,Hong Kong,8453
+2872,Sydney,Hamburg,7915
+2873,Durban,Mumbai,5275
+2874,Santos,Los Angeles,9935
+2875,Mumbai,Hamburg,14339
+2876,Singapore,Rotterdam,14948
+2877,Santos,Busan,1997
+2878,Shanghai,Hamburg,7958
+2879,Busan,Los Angeles,14764
+2880,Dubai,Shanghai,9291
+2881,Hong Kong,Hamburg,12855
+2882,Hamburg,Shanghai,3533
+2883,Shanghai,Hamburg,10408
+2884,Shanghai,Singapore,3664
+2885,Rotterdam,Los Angeles,5889
+2886,New York,Busan,14397
+2887,New York,Dubai,6530
+2888,Sydney,Hong Kong,5473
+2889,Sydney,Mumbai,14841
+2890,Los Angeles,Dubai,3487
+2891,Shanghai,Singapore,10431
+2892,Busan,Hamburg,5285
+2893,New York,Hong Kong,4382
+2894,Los Angeles,Hamburg,10606
+2895,Rotterdam,New York,5274
+2896,Mumbai,Busan,14215
+2897,Mumbai,Singapore,2171
+2898,Hamburg,Rotterdam,1179
+2899,Busan,Hamburg,5314
+2900,Shanghai,Rotterdam,1082
+2901,Los Angeles,Shanghai,1272
+2902,Shanghai,Hong Kong,14147
+2903,Singapore,Dubai,2609
+2904,Shanghai,Dubai,12852
+2905,Busan,Mumbai,11736
+2906,Dubai,Sydney,7112
+2907,Los Angeles,New York,14942
+2908,New York,Durban,7973
+2909,Mumbai,Hong Kong,10436
+2910,Durban,Los Angeles,11464
+2911,Singapore,Hong Kong,3826
+2912,New York,Shanghai,4140
+2913,Durban,Sydney,12125
+2914,Durban,Busan,1487
+2915,Rotterdam,Busan,14434
+2916,Dubai,Sydney,6908
+2917,Santos,Durban,2174
+2918,Sydney,Shanghai,14516
+2919,Singapore,Durban,14291
+2920,Mumbai,Shanghai,2448
+2921,Busan,Santos,13972
+2922,New York,Durban,13567
+2923,Hong Kong,Rotterdam,5877
+2924,Mumbai,Shanghai,5831
+2925,Los Angeles,Singapore,11401
+2926,Santos,Dubai,11043
+2927,Busan,Durban,2790
+2928,Singapore,New York,14990
+2929,Singapore,Los Angeles,15000
+2930,Santos,Singapore,6676
+2931,Mumbai,Hong Kong,599
+2932,Hamburg,Santos,4647
+2933,Mumbai,Shanghai,13575
+2934,Los Angeles,Sydney,11734
+2935,Shanghai,Hong Kong,14423
+2936,Los Angeles,Dubai,13624
+2937,Sydney,Rotterdam,2319
+2938,Mumbai,Los Angeles,8107
+2939,Mumbai,Shanghai,2741
+2940,Durban,Busan,1830
+2941,Hong Kong,Santos,2969
+2942,Rotterdam,Durban,5185
+2943,Los Angeles,Busan,9326
+2944,Busan,New York,6974
+2945,Sydney,Los Angeles,7281
+2946,Mumbai,Sydney,6422
+2947,Shanghai,Hamburg,2133
+2948,Los Angeles,Hong Kong,10532
+2949,Santos,Rotterdam,6755
+2950,Singapore,Busan,13377
+2951,Los Angeles,Santos,2503
+2952,Rotterdam,Singapore,8822
+2953,Rotterdam,Hong Kong,2460
+2954,Rotterdam,Hamburg,612
+2955,Santos,Mumbai,10310
+2956,Singapore,Los Angeles,9698
+2957,Hong Kong,Shanghai,10136
+2958,Busan,Santos,1309
+2959,Shanghai,Hamburg,11872
+2960,Hamburg,Singapore,10487
+2961,Durban,New York,14749
+2962,Mumbai,Los Angeles,13735
+2963,Singapore,Hong Kong,12747
+2964,Sydney,Hamburg,9807
+2965,Sydney,Santos,14604
+2966,Sydney,Durban,3116
+2967,Rotterdam,Durban,950
+2968,Los Angeles,Shanghai,12196
+2969,Mumbai,Santos,8681
+2970,Shanghai,Busan,6235
+2971,Hamburg,Durban,9612
+2972,Busan,Sydney,7560
+2973,Hong Kong,Durban,12946
+2974,Durban,Rotterdam,5583
+2975,Hong Kong,Hamburg,5251
+2976,Hong Kong,Hamburg,1573
+2977,Los Angeles,Durban,3012
+2978,Hong Kong,Dubai,720
+2979,Durban,Rotterdam,13747
+2980,Santos,Hamburg,1792
+2981,Los Angeles,Santos,14609
+2982,Santos,Sydney,9922
+2983,Busan,Mumbai,10850
+2984,Hong Kong,Durban,2003
+2985,Rotterdam,Hamburg,6746
+2986,Busan,Mumbai,9419
+2987,Mumbai,Dubai,10320
+2988,Dubai,New York,11493
+2989,Shanghai,Rotterdam,8477
+2990,Hamburg,Santos,14526
+2991,Dubai,Sydney,14732
+2992,Sydney,Hong Kong,7630
+2993,New York,Hong Kong,13171
+2994,New York,Rotterdam,595
+2995,Hamburg,Dubai,9875
+2996,Singapore,Dubai,3131
+2997,New York,Rotterdam,2657
+2998,Shanghai,Mumbai,7908
+2999,Hamburg,Durban,1276
+3000,Busan,Singapore,5300
+3001,Hamburg,Los Angeles,12281
+3002,Dubai,Durban,8603
+3003,Busan,Durban,7454
+3004,Durban,Rotterdam,2466
+3005,Singapore,Busan,13547
+3006,Los Angeles,Durban,8776
+3007,Santos,Dubai,7056
+3008,Rotterdam,Durban,7375
+3009,Singapore,Hong Kong,5091
+3010,Dubai,Santos,10630
+3011,Shanghai,Rotterdam,5986
+3012,Mumbai,Singapore,6239
+3013,Mumbai,Dubai,13414
+3014,Santos,Sydney,5261
+3015,Mumbai,Rotterdam,1900
+3016,Shanghai,Sydney,9239
+3017,Hong Kong,Rotterdam,6223
+3018,Hamburg,Los Angeles,1220
+3019,Hong Kong,Santos,13276
+3020,Hong Kong,Busan,12415
+3021,Singapore,Durban,7914
+3022,Los Angeles,New York,14934
+3023,Hong Kong,Dubai,11921
+3024,Dubai,Rotterdam,4165
+3025,Shanghai,Dubai,9877
+3026,Hamburg,Santos,8197
+3027,Rotterdam,Santos,10060
+3028,New York,Busan,2046
+3029,New York,Durban,2022
+3030,Shanghai,Rotterdam,6614
+3031,New York,Hamburg,13092
+3032,Los Angeles,Busan,13794
+3033,Busan,New York,1517
+3034,Hamburg,Santos,4287
+3035,Hong Kong,Mumbai,13675
+3036,Sydney,New York,11973
+3037,Shanghai,Hamburg,10621
+3038,New York,Dubai,6933
+3039,Singapore,Durban,5160
+3040,Sydney,Hamburg,10737
+3041,Santos,Singapore,4024
+3042,New York,Los Angeles,14086
+3043,Singapore,Durban,3460
+3044,Los Angeles,Busan,4655
+3045,Rotterdam,Singapore,6827
+3046,Hong Kong,Durban,7128
+3047,Durban,Rotterdam,964
+3048,Durban,Busan,4468
+3049,Los Angeles,Dubai,5729
+3050,Hong Kong,Rotterdam,10550
+3051,Hong Kong,Shanghai,13378
+3052,Hamburg,Los Angeles,1898
+3053,Shanghai,Rotterdam,2348
+3054,Singapore,Sydney,10037
+3055,Sydney,New York,945
+3056,Sydney,Mumbai,14498
+3057,Shanghai,Singapore,7457
+3058,New York,Mumbai,11916
+3059,Busan,Dubai,6929
+3060,Rotterdam,Hamburg,7626
+3061,Rotterdam,Durban,4760
+3062,Hong Kong,Shanghai,8494
+3063,Hong Kong,Rotterdam,11454
+3064,Shanghai,Dubai,1060
+3065,Santos,Dubai,13728
+3066,Rotterdam,New York,6285
+3067,Rotterdam,Shanghai,14607
+3068,Singapore,Shanghai,8021
+3069,Singapore,New York,14569
+3070,Santos,Mumbai,4169
+3071,Shanghai,Hamburg,5055
+3072,Hamburg,Hong Kong,10564
+3073,Singapore,Mumbai,2865
+3074,Busan,Hong Kong,6890
+3075,Los Angeles,Dubai,14544
+3076,Hong Kong,Durban,13756
+3077,Shanghai,Dubai,10931
+3078,Durban,Hong Kong,12552
+3079,New York,Singapore,3646
+3080,Singapore,Santos,8178
+3081,New York,Hong Kong,4869
+3082,Santos,Hong Kong,6976
+3083,Mumbai,Singapore,8952
+3084,Rotterdam,New York,10369
+3085,Shanghai,Los Angeles,642
+3086,Los Angeles,Hamburg,9298
+3087,Rotterdam,Los Angeles,6325
+3088,New York,Shanghai,7100
+3089,Durban,Hamburg,11662
+3090,Los Angeles,Rotterdam,2840
+3091,Busan,Mumbai,14115
+3092,Durban,Dubai,10826
+3093,Santos,Hong Kong,13604
+3094,Santos,Rotterdam,6898
+3095,Sydney,Hong Kong,8621
+3096,Busan,Durban,11420
+3097,Los Angeles,Santos,5156
+3098,Hamburg,New York,6704
+3099,Los Angeles,Santos,10837
+3100,Durban,Shanghai,11236
+3101,Santos,Rotterdam,11402
+3102,New York,Durban,13813
+3103,Los Angeles,Busan,734
+3104,Singapore,Busan,14058
+3105,Durban,Shanghai,8289
+3106,Mumbai,Busan,1846
+3107,Durban,Dubai,13152
+3108,Durban,Mumbai,5060
+3109,Sydney,Mumbai,4303
+3110,Hamburg,Dubai,8958
+3111,Hong Kong,Dubai,10788
+3112,Mumbai,Santos,2939
+3113,Dubai,Busan,11636
+3114,Mumbai,Shanghai,5205
+3115,Durban,Rotterdam,13582
+3116,Hamburg,Los Angeles,6235
+3117,Hong Kong,Durban,9925
+3118,Hong Kong,Sydney,7737
+3119,Dubai,Sydney,2236
+3120,Busan,Durban,3364
+3121,Shanghai,Hamburg,11653
+3122,Hong Kong,Dubai,13213
+3123,Mumbai,Sydney,8944
+3124,Sydney,Singapore,13407
+3125,Dubai,Mumbai,3235
+3126,Durban,Sydney,10546
+3127,Dubai,Busan,5988
+3128,Durban,Hong Kong,10246
+3129,Sydney,Santos,5034
+3130,Singapore,Hamburg,10630
+3131,Hamburg,Hong Kong,9321
+3132,Sydney,Durban,1474
+3133,Los Angeles,Shanghai,12813
+3134,Hong Kong,Sydney,14545
+3135,Hamburg,Sydney,14256
+3136,Singapore,Los Angeles,14877
+3137,Sydney,Hamburg,11325
+3138,Hong Kong,Busan,890
+3139,Los Angeles,Busan,13469
+3140,Mumbai,New York,5372
+3141,Mumbai,Hong Kong,3092
+3142,Los Angeles,Hong Kong,8191
+3143,Singapore,Hamburg,1290
+3144,Hong Kong,Hamburg,7072
+3145,Dubai,Shanghai,11436
+3146,Mumbai,Shanghai,7928
+3147,Busan,Dubai,2868
+3148,Dubai,Singapore,9356
+3149,Busan,Hamburg,10179
+3150,New York,Santos,5168
+3151,Santos,Rotterdam,9263
+3152,Busan,Mumbai,3588
+3153,Los Angeles,Hong Kong,5111
+3154,Durban,Busan,1867
+3155,Hamburg,Mumbai,943
+3156,Dubai,Durban,7525
+3157,Mumbai,Rotterdam,936
+3158,Rotterdam,Hamburg,7962
+3159,Shanghai,Busan,9291
+3160,Hong Kong,Santos,13400
+3161,Rotterdam,Durban,12885
+3162,Hong Kong,Shanghai,5190
+3163,Hong Kong,Dubai,6718
+3164,Singapore,Santos,5970
+3165,Hamburg,Mumbai,1667
+3166,Mumbai,Santos,8417
+3167,Dubai,Los Angeles,2184
+3168,New York,Durban,6976
+3169,Durban,Hong Kong,686
+3170,Hamburg,Rotterdam,12062
+3171,Dubai,Santos,11736
+3172,Hong Kong,Durban,9395
+3173,Shanghai,Dubai,4794
+3174,Singapore,Sydney,3315
+3175,Rotterdam,Busan,3450
+3176,Busan,Sydney,6450
+3177,Hamburg,Hong Kong,3203
+3178,Dubai,Singapore,1813
+3179,Shanghai,Hong Kong,13387
+3180,Singapore,Santos,2417
+3181,Hong Kong,Dubai,7929
+3182,Dubai,Santos,9029
+3183,Santos,Rotterdam,9968
+3184,Shanghai,Dubai,5717
+3185,Santos,Dubai,1551
+3186,Shanghai,New York,4590
+3187,Dubai,Santos,3202
+3188,New York,Singapore,11478
+3189,Sydney,New York,13603
+3190,Dubai,Busan,2780
+3191,Los Angeles,New York,1569
+3192,Busan,Dubai,13644
+3193,Busan,Los Angeles,12158
+3194,Santos,Hamburg,13766
+3195,Busan,Mumbai,2680
+3196,Shanghai,Rotterdam,6173
+3197,Shanghai,Sydney,5634
+3198,Singapore,Hong Kong,4185
+3199,New York,Shanghai,8351
+3200,New York,Hamburg,9819
+3201,New York,Mumbai,2975
+3202,Dubai,Shanghai,9238
+3203,Los Angeles,New York,1225
+3204,Mumbai,Durban,8340
+3205,Hong Kong,Rotterdam,586
+3206,Sydney,Shanghai,1298
+3207,Rotterdam,Hamburg,9923
+3208,Los Angeles,Dubai,10169
+3209,New York,Rotterdam,11954
+3210,Mumbai,Hong Kong,13409
+3211,Shanghai,Los Angeles,9056
+3212,Mumbai,New York,633
+3213,Durban,Mumbai,7633
+3214,Rotterdam,Santos,13390
+3215,Hamburg,Dubai,6473
+3216,Hamburg,Los Angeles,12596
+3217,Dubai,Santos,10034
+3218,Hong Kong,Singapore,6405
+3219,Singapore,Rotterdam,10253
+3220,Dubai,Mumbai,10145
+3221,Los Angeles,Mumbai,2941
+3222,Busan,Dubai,14778
+3223,Durban,Singapore,13344
+3224,Mumbai,Durban,3032
+3225,New York,Sydney,6572
+3226,Durban,Rotterdam,7758
+3227,Dubai,New York,11119
+3228,New York,Hong Kong,10727
+3229,Hamburg,Dubai,5286
+3230,Shanghai,Mumbai,4586
+3231,Busan,Dubai,790
+3232,Sydney,Durban,4975
+3233,Singapore,Hong Kong,3148
+3234,Hamburg,New York,2047
+3235,Durban,Singapore,1040
+3236,Shanghai,Hamburg,4260
+3237,Mumbai,Sydney,1665
+3238,Sydney,Durban,4132
+3239,New York,Dubai,1699
+3240,Singapore,Dubai,11514
+3241,Singapore,Santos,2212
+3242,Hong Kong,Durban,8082
+3243,Hamburg,Durban,14315
+3244,Santos,Rotterdam,3302
+3245,Busan,Rotterdam,2216
+3246,Hamburg,Mumbai,7991
+3247,Sydney,Busan,8898
+3248,Santos,Hong Kong,6378
+3249,Busan,Singapore,10853
+3250,Los Angeles,Durban,6308
+3251,Hamburg,Sydney,7282
+3252,Mumbai,Busan,6837
+3253,Busan,Singapore,14139
+3254,Hamburg,Santos,3333
+3255,Sydney,Shanghai,5796
+3256,Hamburg,Santos,5502
+3257,Hong Kong,Busan,9221
+3258,New York,Dubai,652
+3259,Durban,Busan,3102
+3260,Sydney,Mumbai,2109
+3261,Santos,Hong Kong,7727
+3262,Mumbai,Hong Kong,9177
+3263,New York,Rotterdam,14582
+3264,Shanghai,Singapore,7885
+3265,Hong Kong,Durban,11851
+3266,Singapore,Shanghai,3677
+3267,Mumbai,Rotterdam,1767
+3268,Mumbai,Busan,2598
+3269,Shanghai,Busan,13042
+3270,Dubai,Los Angeles,7407
+3271,Hamburg,Hong Kong,4322
+3272,Singapore,Busan,4147
+3273,Hamburg,Rotterdam,13658
+3274,New York,Mumbai,8476
+3275,Hong Kong,Busan,8170
+3276,Dubai,Los Angeles,10676
+3277,Singapore,Hamburg,4372
+3278,Durban,Los Angeles,969
+3279,Dubai,Busan,6110
+3280,Sydney,Hamburg,6822
+3281,Hamburg,Dubai,1840
+3282,Dubai,Sydney,13469
+3283,Mumbai,Hong Kong,6821
+3284,Los Angeles,Rotterdam,6542
+3285,Hamburg,Mumbai,6636
+3286,New York,Busan,14209
+3287,Sydney,Singapore,14967
+3288,Hamburg,Busan,1016
+3289,Durban,Singapore,12662
+3290,Hamburg,Hong Kong,7997
+3291,Busan,Mumbai,1829
+3292,Mumbai,Shanghai,9174
+3293,Mumbai,Shanghai,3013
+3294,Santos,New York,6176
+3295,Santos,Singapore,10843
+3296,Busan,Durban,2857
+3297,Sydney,Hamburg,12740
+3298,Busan,Shanghai,10175
+3299,Hamburg,Sydney,9693
+3300,Los Angeles,Singapore,13800
+3301,Los Angeles,Sydney,10837
+3302,Rotterdam,Sydney,5335
+3303,Rotterdam,Mumbai,2129
+3304,Busan,Santos,3566
+3305,Hamburg,Shanghai,4829
+3306,Mumbai,New York,6952
+3307,Rotterdam,Dubai,1820
+3308,Los Angeles,Busan,907
+3309,Shanghai,Rotterdam,2940
+3310,New York,Dubai,7767
+3311,Busan,Rotterdam,8178
+3312,Hong Kong,Busan,12583
+3313,Shanghai,Rotterdam,11822
+3314,Dubai,Hong Kong,1823
+3315,Durban,Hamburg,1908
+3316,Shanghai,Durban,4376
+3317,Busan,Sydney,3972
+3318,Durban,Mumbai,8801
+3319,Durban,Santos,9753
+3320,Durban,Singapore,12064
+3321,Shanghai,New York,3064
+3322,Singapore,Sydney,10886
+3323,Sydney,New York,10856
+3324,New York,Rotterdam,11912
+3325,Hong Kong,Durban,5878
+3326,Hamburg,Sydney,662
+3327,Sydney,Singapore,1008
+3328,Shanghai,Singapore,826
+3329,Singapore,Sydney,5261
+3330,Santos,New York,11254
+3331,Hamburg,Rotterdam,10903
+3332,New York,Mumbai,2329
+3333,Busan,Santos,9986
+3334,Busan,Durban,13116
+3335,Singapore,New York,11678
+3336,Dubai,Hong Kong,6691
+3337,Dubai,Durban,9247
+3338,Rotterdam,Hong Kong,10005
+3339,Shanghai,Los Angeles,8544
+3340,Shanghai,Hamburg,13071
+3341,Busan,Santos,14767
+3342,Mumbai,Santos,3883
+3343,Sydney,Mumbai,14594
+3344,Hong Kong,Mumbai,8410
+3345,New York,Hamburg,2514
+3346,New York,Durban,3849
+3347,Durban,Los Angeles,14788
+3348,Sydney,Dubai,7956
+3349,Busan,Sydney,2778
+3350,Hamburg,Durban,10054
+3351,Busan,Shanghai,2455
+3352,Santos,Rotterdam,649
+3353,Santos,Sydney,10293
+3354,Singapore,Hong Kong,2163
+3355,Shanghai,Hong Kong,12643
+3356,Mumbai,Hong Kong,4238
+3357,Sydney,Busan,12971
+3358,Mumbai,Dubai,10194
+3359,Mumbai,Santos,14163
+3360,Rotterdam,Los Angeles,3172
+3361,Shanghai,Mumbai,4544
+3362,Hong Kong,Hamburg,11048
+3363,Mumbai,Hamburg,10053
+3364,Shanghai,New York,2756
+3365,Shanghai,Hamburg,13841
+3366,Durban,Singapore,12134
+3367,Los Angeles,Hamburg,2565
+3368,Mumbai,Hong Kong,10404
+3369,Hamburg,Santos,12962
+3370,Durban,Dubai,5625
+3371,New York,Durban,9283
+3372,Busan,Los Angeles,4364
+3373,Singapore,Durban,4579
+3374,Dubai,Shanghai,8532
+3375,Santos,Dubai,5398
+3376,Los Angeles,Santos,4157
+3377,Sydney,Busan,9015
+3378,Singapore,Hong Kong,7077
+3379,New York,Dubai,3733
+3380,Dubai,Mumbai,11526
+3381,Santos,Sydney,4738
+3382,Busan,Dubai,4721
+3383,Sydney,New York,5221
+3384,New York,Rotterdam,11190
+3385,Santos,Singapore,7023
+3386,Los Angeles,Dubai,4413
+3387,New York,Singapore,9606
+3388,Shanghai,Durban,7674
+3389,Busan,Rotterdam,13786
+3390,Hamburg,Mumbai,2993
+3391,New York,Hamburg,9941
+3392,Durban,Hong Kong,5182
+3393,Rotterdam,Los Angeles,12810
+3394,Sydney,Santos,8403
+3395,Los Angeles,New York,11983
+3396,Busan,Rotterdam,5442
+3397,Dubai,Hong Kong,2161
+3398,Busan,Hong Kong,757
+3399,Mumbai,Shanghai,2863
+3400,Rotterdam,Shanghai,4887
+3401,Singapore,Durban,5061
+3402,Santos,Busan,1913
+3403,Busan,Los Angeles,3914
+3404,New York,Shanghai,8667
+3405,Hamburg,Hong Kong,1134
+3406,Santos,Singapore,12869
+3407,Hong Kong,Shanghai,13452
+3408,Durban,Dubai,8614
+3409,Santos,New York,11933
+3410,Rotterdam,Sydney,12533
+3411,Durban,Santos,10692
+3412,Busan,Hong Kong,1993
+3413,New York,Hong Kong,947
+3414,Dubai,Shanghai,13928
+3415,Santos,Hong Kong,14419
+3416,Durban,Sydney,4209
+3417,New York,Busan,7396
+3418,Los Angeles,Hamburg,9815
+3419,Mumbai,New York,1577
+3420,Dubai,Shanghai,5572
+3421,Singapore,Los Angeles,1515
+3422,Sydney,Dubai,2345
+3423,Hamburg,New York,5596
+3424,Dubai,Sydney,12769
+3425,Sydney,Hamburg,2331
+3426,Shanghai,Rotterdam,8523
+3427,New York,Hamburg,10837
+3428,Durban,Rotterdam,3896
+3429,Mumbai,Hamburg,4558
+3430,Hong Kong,Dubai,5532
+3431,New York,Hamburg,10305
+3432,Los Angeles,Durban,2425
+3433,Santos,Singapore,6655
+3434,Dubai,Durban,3734
+3435,New York,Busan,1842
+3436,Mumbai,Hong Kong,6012
+3437,Durban,Los Angeles,14809
+3438,Durban,Singapore,9785
+3439,Shanghai,New York,7950
+3440,Santos,Mumbai,10333
+3441,Sydney,Shanghai,2770
+3442,Dubai,Durban,2221
+3443,Hong Kong,Hamburg,11653
+3444,Rotterdam,Shanghai,11510
+3445,Santos,Rotterdam,8456
+3446,Dubai,Busan,11882
+3447,Hamburg,Shanghai,2615
+3448,Hong Kong,Rotterdam,6391
+3449,Dubai,Singapore,11009
+3450,Mumbai,Singapore,14270
+3451,Durban,Los Angeles,14164
+3452,Dubai,Mumbai,10451
+3453,Durban,Busan,11415
+3454,Dubai,Los Angeles,8956
+3455,Shanghai,Santos,6034
+3456,New York,Durban,7071
+3457,Hong Kong,Rotterdam,3024
+3458,Sydney,Rotterdam,12472
+3459,Mumbai,Shanghai,3181
+3460,Mumbai,Sydney,13423
+3461,Durban,Rotterdam,13631
+3462,Hamburg,Los Angeles,9625
+3463,Los Angeles,Singapore,9095
+3464,Los Angeles,Santos,14296
+3465,Hong Kong,Shanghai,10981
+3466,Durban,Shanghai,10194
+3467,Los Angeles,New York,5985
+3468,New York,Mumbai,2493
+3469,Sydney,Mumbai,830
+3470,Dubai,New York,6667
+3471,Dubai,Mumbai,14609
+3472,Shanghai,Hong Kong,7627
+3473,Hong Kong,Los Angeles,3367
+3474,Singapore,Mumbai,11390
+3475,Los Angeles,Dubai,12879
+3476,Hamburg,Sydney,10852
+3477,Shanghai,Los Angeles,1495
+3478,Rotterdam,Santos,1059
+3479,Hong Kong,Sydney,14351
+3480,Shanghai,Busan,7487
+3481,Durban,Busan,5864
+3482,Sydney,Santos,5767
+3483,Sydney,Mumbai,799
+3484,Santos,Busan,8611
+3485,Busan,Hamburg,13708
+3486,Hamburg,Dubai,7775
+3487,Santos,Sydney,11756
+3488,Mumbai,Shanghai,3388
+3489,Santos,Busan,13513
+3490,Mumbai,Dubai,13686
+3491,Hamburg,Rotterdam,5274
+3492,Durban,Rotterdam,13649
+3493,Santos,Mumbai,14879
+3494,Dubai,New York,8402
+3495,Los Angeles,Santos,11599
+3496,Busan,Los Angeles,10436
+3497,Durban,Mumbai,14099
+3498,Shanghai,Los Angeles,2774
+3499,Sydney,Mumbai,7463
+3500,Dubai,Busan,13198
+3501,Santos,Mumbai,13447
+3502,Sydney,Hong Kong,5037
+3503,Singapore,Rotterdam,7948
+3504,Hamburg,Rotterdam,4918
+3505,Mumbai,Hong Kong,10628
+3506,Hong Kong,Los Angeles,5524
+3507,Mumbai,Dubai,9728
+3508,Shanghai,Santos,3253
+3509,Los Angeles,Sydney,1856
+3510,Los Angeles,New York,2926
+3511,Shanghai,New York,3029
+3512,Dubai,Los Angeles,12082
+3513,Durban,Dubai,11368
+3514,Dubai,Shanghai,11810
+3515,Rotterdam,Los Angeles,5653
+3516,Rotterdam,Hamburg,12811
+3517,Busan,Hong Kong,6681
+3518,Hamburg,Rotterdam,12425
+3519,Sydney,Shanghai,2580
+3520,Hamburg,Rotterdam,3920
+3521,Hong Kong,Hamburg,3590
+3522,Shanghai,Hamburg,4548
+3523,Shanghai,Los Angeles,1750
+3524,Hong Kong,Busan,14025
+3525,Busan,Santos,6559
+3526,Hong Kong,Los Angeles,8418
+3527,Sydney,Shanghai,1006
+3528,Rotterdam,Hong Kong,8005
+3529,Singapore,Mumbai,13776
+3530,Rotterdam,Singapore,4820
+3531,New York,Rotterdam,6575
+3532,Sydney,New York,2809
+3533,Shanghai,Hamburg,2805
+3534,Los Angeles,Hong Kong,1696
+3535,Los Angeles,Hong Kong,9148
+3536,Sydney,Los Angeles,10960
+3537,Durban,Busan,7518
+3538,Hong Kong,Sydney,7631
+3539,Hamburg,Shanghai,11926
+3540,Shanghai,Santos,13127
+3541,Dubai,Hamburg,10911
+3542,Durban,Santos,4153
+3543,Singapore,Dubai,11292
+3544,Shanghai,Santos,4488
+3545,Durban,Shanghai,6525
+3546,Busan,Dubai,9040
+3547,Mumbai,Dubai,8215
+3548,Los Angeles,Durban,11103
+3549,Rotterdam,Sydney,1544
+3550,Rotterdam,Los Angeles,7582
+3551,Shanghai,Santos,9243
+3552,Santos,New York,4570
+3553,Hamburg,Dubai,9668
+3554,Hong Kong,Dubai,7812
+3555,Santos,Shanghai,13230
+3556,Los Angeles,Busan,9939
+3557,Singapore,New York,10325
+3558,Busan,Shanghai,12690
+3559,Shanghai,Los Angeles,6548
+3560,Busan,Durban,14358
+3561,Singapore,Sydney,13946
+3562,Singapore,Los Angeles,4659
+3563,Singapore,New York,9968
+3564,Busan,Shanghai,3867
+3565,Hamburg,Mumbai,1236
+3566,New York,Mumbai,1339
+3567,Mumbai,Santos,650
+3568,Los Angeles,Singapore,11142
+3569,Hamburg,Busan,7191
+3570,Rotterdam,Hamburg,6765
+3571,Rotterdam,Shanghai,12690
+3572,Singapore,New York,9283
+3573,Hong Kong,Los Angeles,11346
+3574,Hamburg,Los Angeles,6074
+3575,Los Angeles,Shanghai,5006
+3576,Los Angeles,Busan,14618
+3577,New York,Hamburg,12171
+3578,Durban,Shanghai,3664
+3579,Hong Kong,Hamburg,1985
+3580,Durban,Mumbai,6939
+3581,Shanghai,Singapore,5972
+3582,New York,Mumbai,8558
+3583,Mumbai,Singapore,13523
+3584,Shanghai,Rotterdam,4815
+3585,Dubai,Rotterdam,7511
+3586,Busan,Singapore,10534
+3587,Hong Kong,Los Angeles,13904
+3588,Mumbai,Sydney,6125
+3589,New York,Busan,8907
+3590,Rotterdam,Mumbai,3460
+3591,New York,Dubai,14892
+3592,Santos,Rotterdam,5904
+3593,Santos,Shanghai,11752
+3594,Los Angeles,Hamburg,3868
+3595,Shanghai,New York,12409
+3596,Mumbai,Shanghai,7339
+3597,New York,Hong Kong,10137
+3598,Busan,Hamburg,9988
+3599,Hamburg,Durban,5641
+3600,Mumbai,Rotterdam,4926
+3601,Los Angeles,New York,7202
+3602,Hamburg,Los Angeles,13232
+3603,Los Angeles,Santos,3009
+3604,Durban,Mumbai,1040
+3605,Santos,Sydney,7898
+3606,Sydney,Singapore,994
+3607,Busan,Durban,2523
+3608,Singapore,Durban,10460
+3609,Santos,Hamburg,1471
+3610,Shanghai,Hong Kong,8911
+3611,Dubai,New York,1236
+3612,Hong Kong,Singapore,2144
+3613,Sydney,Hong Kong,6543
+3614,Los Angeles,Santos,5181
+3615,Dubai,Mumbai,8732
+3616,Los Angeles,Hamburg,7347
+3617,Singapore,Santos,1019
+3618,Mumbai,Los Angeles,11266
+3619,Sydney,Busan,9017
+3620,Hong Kong,Sydney,8895
+3621,New York,Singapore,11216
+3622,Santos,Hong Kong,2093
+3623,Durban,Singapore,2455
+3624,Santos,New York,10490
+3625,New York,Hamburg,7575
+3626,Hamburg,New York,3988
+3627,Mumbai,Busan,14897
+3628,Rotterdam,Mumbai,12806
+3629,Hamburg,Mumbai,12076
+3630,Rotterdam,Singapore,1524
+3631,Durban,Rotterdam,13218
+3632,Shanghai,Durban,1305
+3633,Shanghai,Singapore,13535
+3634,New York,Shanghai,1954
+3635,Durban,Los Angeles,13629
+3636,Shanghai,Mumbai,10443
+3637,Hong Kong,Los Angeles,2367
+3638,New York,Hamburg,10993
+3639,Hong Kong,Hamburg,3843
+3640,Hong Kong,Durban,5015
+3641,Busan,Singapore,4547
+3642,Los Angeles,New York,14645
+3643,Mumbai,Hamburg,14575
+3644,Busan,Hong Kong,6017
+3645,Durban,Singapore,6624
+3646,Sydney,Singapore,3525
+3647,New York,Singapore,5564
+3648,Busan,Mumbai,1377
+3649,Los Angeles,Mumbai,8450
+3650,Durban,Los Angeles,11804
+3651,Dubai,New York,1201
+3652,Sydney,Los Angeles,4305
+3653,Busan,Hamburg,10555
+3654,Rotterdam,New York,10634
+3655,Sydney,Hamburg,5811
+3656,Dubai,Durban,8457
+3657,Mumbai,Dubai,13961
+3658,Hong Kong,Busan,5193
+3659,Hamburg,Dubai,9241
+3660,Rotterdam,Singapore,5718
+3661,Hamburg,Durban,927
+3662,Santos,Busan,4655
+3663,Singapore,Shanghai,14689
+3664,Sydney,Durban,2943
+3665,Sydney,Rotterdam,14126
+3666,Durban,Singapore,6745
+3667,Hong Kong,Rotterdam,11651
+3668,Busan,Los Angeles,8392
+3669,Santos,Singapore,6613
+3670,Busan,Hong Kong,2576
+3671,Hong Kong,Singapore,12599
+3672,Sydney,Dubai,13076
+3673,Mumbai,Dubai,1193
+3674,Sydney,Hong Kong,3804
+3675,Rotterdam,New York,9183
+3676,New York,Santos,10366
+3677,Santos,Durban,6944
+3678,Santos,Hong Kong,13787
+3679,Hong Kong,Dubai,12829
+3680,Singapore,Hong Kong,9620
+3681,Singapore,Rotterdam,1434
+3682,Santos,Los Angeles,8682
+3683,Santos,Singapore,14176
+3684,Shanghai,New York,10299
+3685,Sydney,New York,7681
+3686,Rotterdam,Shanghai,5602
+3687,Busan,Dubai,1987
+3688,Dubai,Durban,10796
+3689,Mumbai,Los Angeles,1915
+3690,Hamburg,Rotterdam,9512
+3691,Rotterdam,Durban,14748
+3692,Rotterdam,Shanghai,3819
+3693,Santos,Busan,5862
+3694,Mumbai,Busan,13982
+3695,Hamburg,New York,5891
+3696,Sydney,Hamburg,11599
+3697,Singapore,Shanghai,4691
+3698,Hamburg,Santos,10914
+3699,Rotterdam,New York,13115
+3700,Shanghai,Singapore,2498
+3701,Dubai,Durban,9820
+3702,Dubai,Sydney,1053
+3703,Hong Kong,Sydney,715
+3704,Busan,Santos,2386
+3705,Dubai,Sydney,2954
+3706,Dubai,Durban,11683
+3707,Santos,Durban,11660
+3708,Santos,Rotterdam,4365
+3709,Durban,Busan,15000
+3710,Mumbai,Hamburg,9535
+3711,Dubai,Shanghai,1293
+3712,Sydney,Santos,4177
+3713,New York,Hamburg,633
+3714,Hong Kong,Los Angeles,7781
+3715,Hong Kong,Singapore,14591
+3716,Dubai,Los Angeles,513
+3717,Shanghai,Busan,12634
+3718,Hong Kong,Rotterdam,13570
+3719,Rotterdam,Sydney,13841
+3720,Los Angeles,Mumbai,14988
+3721,Santos,Rotterdam,7159
+3722,Sydney,Hamburg,5357
+3723,New York,Rotterdam,6316
+3724,New York,Durban,7237
+3725,Rotterdam,Hong Kong,6184
+3726,Mumbai,Shanghai,4346
+3727,Durban,Singapore,12796
+3728,Dubai,Shanghai,3786
+3729,Mumbai,Hong Kong,4593
+3730,Sydney,Santos,9049
+3731,Hong Kong,Mumbai,1741
+3732,Rotterdam,Los Angeles,4430
+3733,Hamburg,Los Angeles,11883
+3734,Singapore,Hong Kong,11490
+3735,Sydney,Shanghai,11179
+3736,Sydney,Los Angeles,13805
+3737,Hong Kong,Hamburg,10271
+3738,Hamburg,Los Angeles,11640
+3739,Dubai,Rotterdam,4609
+3740,Shanghai,Dubai,5666
+3741,New York,Sydney,9634
+3742,Santos,Durban,5669
+3743,Rotterdam,Busan,11283
+3744,Mumbai,New York,13987
+3745,Dubai,Hong Kong,7313
+3746,Singapore,Durban,13118
+3747,Sydney,Los Angeles,9326
+3748,Los Angeles,New York,2851
+3749,Santos,Dubai,6889
+3750,Hamburg,Dubai,2917
+3751,Shanghai,Busan,9989
+3752,Shanghai,Mumbai,6824
+3753,Mumbai,Rotterdam,13784
+3754,Mumbai,New York,13185
+3755,Mumbai,Los Angeles,13971
+3756,Los Angeles,Sydney,2000
+3757,Busan,Los Angeles,6832
+3758,Hong Kong,Santos,4734
+3759,Dubai,Rotterdam,10745
+3760,Sydney,Rotterdam,8073
+3761,Busan,Sydney,12440
+3762,Rotterdam,New York,11218
+3763,Durban,Rotterdam,5712
+3764,Shanghai,New York,8994
+3765,Busan,Rotterdam,3466
+3766,Mumbai,Los Angeles,8414
+3767,Santos,Mumbai,2142
+3768,Hong Kong,Singapore,4206
+3769,Dubai,New York,12686
+3770,Mumbai,Durban,14679
+3771,New York,Dubai,13893
+3772,New York,Hamburg,8845
+3773,Mumbai,Sydney,8094
+3774,Busan,Santos,7331
+3775,Santos,Dubai,1030
+3776,Rotterdam,Los Angeles,6111
+3777,Hamburg,Durban,10575
+3778,Busan,New York,13734
+3779,Durban,Singapore,10267
+3780,Busan,Shanghai,13932
+3781,Sydney,Hamburg,1640
+3782,Hamburg,Santos,13153
+3783,Busan,Singapore,10556
+3784,Durban,Sydney,6016
+3785,Shanghai,Hong Kong,11623
+3786,Santos,Durban,13688
+3787,Sydney,New York,10004
+3788,Rotterdam,Hamburg,8398
+3789,New York,Sydney,7023
+3790,Hamburg,Dubai,7566
+3791,New York,Hong Kong,5815
+3792,Hamburg,Busan,13539
+3793,Hamburg,Singapore,2249
+3794,Hong Kong,Shanghai,8975
+3795,Hong Kong,Hamburg,14140
+3796,New York,Santos,6955
+3797,Mumbai,Hong Kong,5431
+3798,Durban,Dubai,7552
+3799,Sydney,Singapore,11302
+3800,Dubai,Hong Kong,13941
+3801,Durban,New York,1693
+3802,Hong Kong,Dubai,799
+3803,Durban,Busan,2339
+3804,Shanghai,Mumbai,6759
+3805,Dubai,Sydney,12518
+3806,Los Angeles,Durban,4310
+3807,Singapore,Hamburg,13875
+3808,Hamburg,Hong Kong,9948
+3809,Hong Kong,Rotterdam,7595
+3810,Rotterdam,New York,1685
+3811,Shanghai,Dubai,8061
+3812,Shanghai,New York,13710
+3813,Dubai,Busan,13023
+3814,Dubai,Los Angeles,6527
+3815,Dubai,Sydney,6670
+3816,Durban,Sydney,8170
+3817,Rotterdam,Hong Kong,3823
+3818,Rotterdam,Los Angeles,12820
+3819,Santos,Hamburg,7693
+3820,Santos,Dubai,7363
+3821,Sydney,Shanghai,567
+3822,Hamburg,Durban,3164
+3823,Durban,Singapore,7620
+3824,Busan,Shanghai,7769
+3825,Sydney,Durban,9092
+3826,Sydney,Busan,11830
+3827,New York,Shanghai,10399
+3828,New York,Durban,5738
+3829,Busan,Sydney,6674
+3830,Los Angeles,Busan,13211
+3831,Hamburg,Mumbai,2181
+3832,Hong Kong,Santos,11467
+3833,Shanghai,Singapore,6096
+3834,New York,Rotterdam,5780
+3835,Hong Kong,Rotterdam,13249
+3836,Shanghai,Hong Kong,3703
+3837,Mumbai,Singapore,794
+3838,Rotterdam,Shanghai,8911
+3839,Shanghai,Sydney,4597
+3840,Hong Kong,Los Angeles,6041
+3841,Shanghai,Sydney,9962
+3842,Shanghai,Los Angeles,13280
+3843,Hong Kong,Dubai,8695
+3844,Busan,New York,3991
+3845,New York,Hong Kong,5665
+3846,Hamburg,Hong Kong,7349
+3847,New York,Singapore,10544
+3848,Shanghai,Santos,2072
+3849,Shanghai,Santos,7193
+3850,Shanghai,Rotterdam,4419
+3851,Hamburg,Shanghai,10522
+3852,Hong Kong,Dubai,6410
+3853,Santos,Rotterdam,13660
+3854,Durban,Dubai,4248
+3855,New York,Santos,12406
+3856,Singapore,Hamburg,6926
+3857,Santos,Durban,10256
+3858,Rotterdam,Los Angeles,9639
+3859,Rotterdam,Busan,9715
+3860,Singapore,Mumbai,6344
+3861,Hamburg,Rotterdam,13782
+3862,Durban,Sydney,9655
+3863,Dubai,Hong Kong,14053
+3864,Durban,Dubai,10261
+3865,Dubai,New York,13458
+3866,Hamburg,Singapore,10568
+3867,Durban,Dubai,2460
+3868,Rotterdam,Busan,5570
+3869,Hong Kong,New York,1485
+3870,New York,Busan,12767
+3871,Hamburg,Santos,6988
+3872,Singapore,Santos,11825
+3873,Rotterdam,Mumbai,5653
+3874,Busan,Hamburg,14668
+3875,Mumbai,Shanghai,12802
+3876,New York,Shanghai,8840
+3877,Hong Kong,Busan,2358
+3878,Los Angeles,Hamburg,7402
+3879,Rotterdam,Hong Kong,2187
+3880,Santos,Los Angeles,9660
+3881,New York,Los Angeles,12357
+3882,Santos,Hamburg,13209
+3883,Singapore,Los Angeles,14846
+3884,New York,Singapore,2399
+3885,New York,Rotterdam,14592
+3886,Dubai,Sydney,3431
+3887,Dubai,Rotterdam,4451
+3888,Mumbai,New York,13587
+3889,Busan,New York,2181
+3890,Sydney,Rotterdam,4192
+3891,Shanghai,Dubai,2694
+3892,New York,Sydney,10912
+3893,New York,Hong Kong,10326
+3894,Dubai,Hamburg,6763
+3895,Sydney,Mumbai,13427
+3896,Durban,Sydney,4409
+3897,Los Angeles,Rotterdam,4947
+3898,Singapore,Dubai,10769
+3899,Busan,Hong Kong,4865
+3900,Santos,Shanghai,14123
+3901,Shanghai,Mumbai,2117
+3902,Los Angeles,Santos,9166
+3903,Sydney,New York,9885
+3904,New York,Dubai,13261
+3905,Mumbai,Dubai,1786
+3906,Los Angeles,Hamburg,10551
+3907,Hong Kong,Shanghai,12655
+3908,Shanghai,Los Angeles,7223
+3909,Sydney,Los Angeles,10775
+3910,Mumbai,Durban,7940
+3911,New York,Shanghai,6352
+3912,Busan,Durban,1275
+3913,Durban,Sydney,8623
+3914,Durban,Shanghai,2181
+3915,Santos,Busan,4005
+3916,Busan,Los Angeles,11166
+3917,Busan,Durban,12678
+3918,New York,Singapore,8403
+3919,Sydney,Busan,4206
+3920,Dubai,Durban,6980
+3921,Los Angeles,Rotterdam,1779
+3922,New York,Mumbai,2519
+3923,Sydney,Santos,11391
+3924,Sydney,Mumbai,12006
+3925,New York,Dubai,15000
+3926,Dubai,Mumbai,8525
+3927,New York,Shanghai,14307
+3928,Santos,New York,11979
+3929,Los Angeles,Dubai,11363
+3930,Durban,Los Angeles,5069
+3931,Shanghai,Hamburg,4708
+3932,New York,Mumbai,13142
+3933,Shanghai,Hamburg,10832
+3934,Santos,Mumbai,8101
+3935,Hamburg,Dubai,7718
+3936,New York,Dubai,5495
+3937,Dubai,Mumbai,4407
+3938,Los Angeles,Santos,6387
+3939,New York,Mumbai,14011
+3940,Hong Kong,Busan,3591
+3941,Rotterdam,Los Angeles,8034
+3942,Dubai,New York,8684
+3943,Rotterdam,Mumbai,12239
+3944,Los Angeles,Shanghai,8728
+3945,Shanghai,Hamburg,4143
+3946,Shanghai,Dubai,10523
+3947,Durban,Hong Kong,1807
+3948,Hamburg,Santos,2844
+3949,Rotterdam,Shanghai,1883
+3950,Shanghai,Hamburg,940
+3951,Los Angeles,Sydney,1782
+3952,Shanghai,Hong Kong,14110
+3953,Hamburg,Dubai,3048
+3954,Sydney,Shanghai,3073
+3955,Sydney,Singapore,4739
+3956,Hamburg,Shanghai,8513
+3957,Singapore,Durban,9030
+3958,Durban,Hong Kong,9421
+3959,Shanghai,Rotterdam,3726
+3960,Sydney,Busan,3930
+3961,Mumbai,Sydney,8456
+3962,New York,Sydney,1476
+3963,Los Angeles,Hamburg,13438
+3964,Durban,Sydney,532
+3965,Sydney,Los Angeles,8193
+3966,Mumbai,Dubai,8289
+3967,New York,Sydney,8018
+3968,Dubai,Hong Kong,13053
+3969,Los Angeles,Mumbai,5996
+3970,Rotterdam,Shanghai,10324
+3971,Hong Kong,New York,2090
+3972,Busan,Los Angeles,7577
+3973,Los Angeles,Hamburg,4037
+3974,Hong Kong,Santos,6455
+3975,Hong Kong,New York,2381
+3976,New York,Sydney,12939
+3977,Sydney,Rotterdam,6270
+3978,Shanghai,Los Angeles,10053
+3979,Durban,Santos,1847
+3980,Mumbai,Singapore,5713
+3981,Los Angeles,Shanghai,3520
+3982,New York,Santos,12384
+3983,Hamburg,Sydney,6320
+3984,Shanghai,Santos,10959
+3985,New York,Shanghai,753
+3986,Dubai,Busan,13794
+3987,Sydney,Hamburg,11706
+3988,New York,Dubai,12154
+3989,Busan,New York,6442
+3990,Los Angeles,Durban,6780
+3991,Los Angeles,Busan,14943
+3992,Rotterdam,Sydney,13517
+3993,Singapore,Los Angeles,583
+3994,Dubai,Hamburg,6376
+3995,Mumbai,Singapore,7662
+3996,Hamburg,Busan,4722
+3997,Sydney,Singapore,3810
+3998,Singapore,Durban,8043
+3999,Hong Kong,Rotterdam,2948
+4000,Singapore,Dubai,4568
+4001,Sydney,Durban,14931
+4002,Durban,Busan,1653
+4003,Singapore,Santos,13018
+4004,Shanghai,New York,4603
+4005,Mumbai,Dubai,3676
+4006,Singapore,Santos,5406
+4007,Hong Kong,Shanghai,4171
+4008,Sydney,Hong Kong,9688
+4009,Durban,Busan,5883
+4010,Busan,New York,12963
+4011,Shanghai,Hamburg,12894
+4012,New York,Los Angeles,14341
+4013,Shanghai,New York,7324
+4014,Shanghai,Busan,4642
+4015,Hamburg,Santos,1998
+4016,Singapore,Rotterdam,2463
+4017,Durban,Shanghai,2878
+4018,Rotterdam,Santos,6612
+4019,Sydney,Rotterdam,7685
+4020,Santos,Mumbai,14940
+4021,Busan,Los Angeles,871
+4022,Los Angeles,Rotterdam,7447
+4023,Dubai,Sydney,3752
+4024,Mumbai,New York,9205
+4025,Sydney,Durban,1184
+4026,Los Angeles,Hamburg,14396
+4027,Mumbai,Singapore,13388
+4028,Shanghai,Busan,11659
+4029,Hong Kong,Shanghai,11016
+4030,Mumbai,Busan,9033
+4031,New York,Sydney,11491
+4032,Shanghai,Singapore,13976
+4033,Hong Kong,Hamburg,8580
+4034,Shanghai,Dubai,7880
+4035,Hamburg,Hong Kong,1250
+4036,Mumbai,Los Angeles,11421
+4037,New York,Santos,3674
+4038,Rotterdam,Los Angeles,11630
+4039,Singapore,Santos,3202
+4040,Shanghai,New York,11360
+4041,Sydney,Shanghai,3970
+4042,Santos,Rotterdam,2623
+4043,Dubai,Shanghai,1766
+4044,Singapore,Hong Kong,6916
+4045,Shanghai,Sydney,13421
+4046,Shanghai,Dubai,9584
+4047,Shanghai,Singapore,11663
+4048,Dubai,Rotterdam,559
+4049,Santos,Dubai,1071
+4050,New York,Sydney,9407
+4051,Singapore,Los Angeles,8921
+4052,Santos,New York,4478
+4053,Busan,Durban,1985
+4054,New York,Durban,4144
+4055,Sydney,Singapore,3309
+4056,Los Angeles,Rotterdam,10323
+4057,Sydney,Hong Kong,993
+4058,Singapore,Santos,7565
+4059,Durban,Hamburg,4329
+4060,Durban,Rotterdam,11469
+4061,Mumbai,Shanghai,6170
+4062,Rotterdam,Hong Kong,7576
+4063,Durban,Singapore,4617
+4064,Singapore,Los Angeles,9372
+4065,Sydney,Los Angeles,10145
+4066,Hong Kong,Dubai,7852
+4067,Durban,Santos,14210
+4068,Rotterdam,Durban,6327
+4069,Santos,Busan,698
+4070,Singapore,Hong Kong,5550
+4071,New York,Durban,9882
+4072,Hong Kong,New York,10325
+4073,Durban,Hong Kong,13320
+4074,Sydney,Busan,10144
+4075,Hong Kong,Singapore,3880
+4076,Sydney,Busan,980
+4077,Hamburg,Singapore,4141
+4078,Hong Kong,Dubai,10395
+4079,New York,Durban,3130
+4080,Hong Kong,Sydney,2373
+4081,Santos,Hong Kong,10599
+4082,Shanghai,Durban,3279
+4083,Santos,Los Angeles,7989
+4084,Durban,Hong Kong,986
+4085,Hamburg,Hong Kong,1624
+4086,Singapore,Sydney,11173
+4087,Rotterdam,Busan,5360
+4088,Hamburg,Mumbai,2515
+4089,Durban,Hamburg,11074
+4090,Dubai,Los Angeles,2327
+4091,Mumbai,Hong Kong,13085
+4092,Rotterdam,Busan,5540
+4093,Hong Kong,New York,13974
+4094,Los Angeles,Santos,11902
+4095,Mumbai,Busan,4217
+4096,New York,Dubai,2984
+4097,Shanghai,Mumbai,6957
+4098,Mumbai,Santos,6215
+4099,Santos,Hamburg,1973
+4100,Hamburg,Los Angeles,7444
+4101,Durban,Santos,6003
+4102,Los Angeles,Durban,8599
+4103,Rotterdam,Sydney,14173
+4104,Dubai,Mumbai,5132
+4105,Mumbai,Singapore,1059
+4106,New York,Hamburg,10400
+4107,Durban,Rotterdam,7962
+4108,Singapore,Hamburg,2907
+4109,Durban,Mumbai,8385
+4110,Rotterdam,Sydney,14302
+4111,Singapore,Durban,7295
+4112,Rotterdam,Hong Kong,8917
+4113,Hong Kong,Shanghai,5761
+4114,Shanghai,Dubai,2301
+4115,Singapore,Hamburg,544
+4116,Busan,Rotterdam,12721
+4117,Sydney,Hamburg,9016
+4118,New York,Shanghai,14138
+4119,Mumbai,Shanghai,14425
+4120,Los Angeles,Hamburg,10418
+4121,Hong Kong,New York,10439
+4122,Hamburg,Singapore,11429
+4123,Singapore,Rotterdam,13272
+4124,New York,Mumbai,10747
+4125,Mumbai,Los Angeles,2162
+4126,Hamburg,New York,12484
+4127,Rotterdam,Sydney,6995
+4128,Shanghai,Mumbai,2349
+4129,Busan,Hong Kong,13921
+4130,Mumbai,Shanghai,1835
+4131,Singapore,Rotterdam,5826
+4132,Mumbai,Hamburg,7658
+4133,Hamburg,Durban,6437
+4134,Hong Kong,Hamburg,9916
+4135,Santos,Busan,862
+4136,Singapore,Mumbai,9437
+4137,Hong Kong,New York,7024
+4138,New York,Hong Kong,7900
+4139,Singapore,Santos,3792
+4140,Busan,Durban,5146
+4141,Rotterdam,Busan,3998
+4142,Shanghai,Busan,5929
+4143,Busan,Dubai,5143
+4144,Los Angeles,Santos,7384
+4145,Busan,Mumbai,14957
+4146,Hong Kong,Santos,4284
+4147,Busan,Dubai,12113
+4148,Shanghai,Hong Kong,2736
+4149,Singapore,Rotterdam,4761
+4150,Rotterdam,New York,9249
+4151,New York,Mumbai,10143
+4152,Mumbai,Durban,14986
+4153,Sydney,Rotterdam,10197
+4154,Dubai,Santos,14491
+4155,Rotterdam,New York,12378
+4156,Santos,Hong Kong,5329
+4157,Santos,Hamburg,4538
+4158,Hamburg,Dubai,14021
+4159,Durban,Sydney,11865
+4160,Hong Kong,Busan,10069
+4161,Shanghai,Singapore,4854
+4162,Shanghai,Los Angeles,2142
+4163,New York,Shanghai,7537
+4164,Shanghai,New York,8912
+4165,Busan,New York,7396
+4166,Busan,Rotterdam,2927
+4167,Dubai,Durban,12282
+4168,Sydney,New York,4464
+4169,Hong Kong,Dubai,1279
+4170,Los Angeles,New York,1688
+4171,Rotterdam,New York,10243
+4172,Singapore,Hong Kong,6318
+4173,Singapore,Busan,12462
+4174,Sydney,Dubai,3273
+4175,Busan,Santos,4733
+4176,Busan,Santos,5448
+4177,Durban,Shanghai,12706
+4178,Los Angeles,New York,6621
+4179,Santos,Mumbai,3900
+4180,Los Angeles,Hamburg,4835
+4181,Busan,Sydney,5274
+4182,Shanghai,Hong Kong,4410
+4183,Sydney,New York,11583
+4184,Sydney,Hamburg,12160
+4185,Sydney,Durban,14506
+4186,Mumbai,Sydney,10627
+4187,Dubai,Los Angeles,8574
+4188,Shanghai,Sydney,8577
+4189,Rotterdam,Hamburg,5063
+4190,Shanghai,Busan,10149
+4191,Mumbai,Rotterdam,6359
+4192,Durban,Shanghai,1896
+4193,Hamburg,Los Angeles,3382
+4194,Santos,Singapore,1004
+4195,Mumbai,Hamburg,1366
+4196,Los Angeles,Hamburg,8388
+4197,Mumbai,Durban,9279
+4198,Mumbai,Shanghai,1379
+4199,Hong Kong,Singapore,9273
+4200,Sydney,Mumbai,4824
+4201,Singapore,Sydney,7327
+4202,Rotterdam,Los Angeles,5443
+4203,Santos,Durban,6577
+4204,New York,Los Angeles,6014
+4205,Busan,Mumbai,8937
+4206,Los Angeles,Santos,3943
+4207,Hamburg,Mumbai,5816
+4208,Hong Kong,Busan,14556
+4209,Shanghai,Hamburg,9683
+4210,New York,Los Angeles,1018
+4211,Rotterdam,Dubai,2660
+4212,Singapore,Rotterdam,9447
+4213,Santos,Shanghai,14649
+4214,Shanghai,Rotterdam,7518
+4215,Hong Kong,Durban,10096
+4216,Busan,Sydney,12824
+4217,Busan,Los Angeles,2544
+4218,Dubai,Shanghai,8567
+4219,Durban,Rotterdam,4207
+4220,Sydney,Shanghai,10501
+4221,Singapore,Santos,9367
+4222,Shanghai,Hong Kong,12616
+4223,Santos,Busan,540
+4224,Dubai,Los Angeles,14295
+4225,Mumbai,Rotterdam,1727
+4226,Busan,Mumbai,781
+4227,Santos,Durban,14012
+4228,Shanghai,New York,11084
+4229,New York,Busan,14044
+4230,Dubai,Hamburg,4866
+4231,Sydney,Rotterdam,5572
+4232,Shanghai,Hong Kong,2471
+4233,Los Angeles,Shanghai,9554
+4234,Mumbai,Dubai,7986
+4235,Busan,Sydney,12057
+4236,Shanghai,Hong Kong,2178
+4237,Busan,Los Angeles,2583
+4238,Dubai,Sydney,4389
+4239,Shanghai,Santos,13097
+4240,Mumbai,Los Angeles,3247
+4241,Dubai,Sydney,13710
+4242,Los Angeles,Rotterdam,7446
+4243,Rotterdam,Sydney,8645
+4244,New York,Mumbai,5014
+4245,Los Angeles,Shanghai,14260
+4246,Singapore,Sydney,13775
+4247,Durban,Singapore,660
+4248,Hong Kong,Los Angeles,10544
+4249,Busan,Shanghai,7823
+4250,Hamburg,Shanghai,10159
+4251,Hong Kong,Singapore,12754
+4252,Mumbai,New York,10168
+4253,New York,Rotterdam,12485
+4254,Hong Kong,Shanghai,4853
+4255,Sydney,New York,4005
+4256,Busan,Mumbai,729
+4257,Hong Kong,Dubai,7755
+4258,Mumbai,Hamburg,14932
+4259,Los Angeles,New York,763
+4260,Shanghai,Hong Kong,14171
+4261,Dubai,Shanghai,6457
+4262,Busan,Hamburg,12829
+4263,Santos,Dubai,1748
+4264,Singapore,Busan,5818
+4265,Rotterdam,Dubai,1299
+4266,Santos,Dubai,4591
+4267,Singapore,Santos,11362
+4268,Sydney,Dubai,10142
+4269,Santos,Hamburg,14627
+4270,Los Angeles,Sydney,735
+4271,Durban,New York,1837
+4272,Los Angeles,Busan,6231
+4273,Rotterdam,Sydney,10255
+4274,Singapore,Shanghai,11349
+4275,Durban,Hamburg,11932
+4276,Sydney,Santos,4865
+4277,Santos,Busan,14101
+4278,Hong Kong,Rotterdam,12008
+4279,Rotterdam,Singapore,6098
+4280,Durban,Santos,5069
+4281,Hong Kong,Mumbai,6601
+4282,Rotterdam,Shanghai,14821
+4283,Santos,Durban,14757
+4284,Busan,Mumbai,8629
+4285,Busan,Shanghai,6276
+4286,Busan,Santos,14221
+4287,Durban,New York,3388
+4288,Shanghai,Durban,13743
+4289,New York,Shanghai,2027
+4290,New York,Shanghai,2726
+4291,Durban,Hong Kong,6601
+4292,Busan,Los Angeles,6019
+4293,Dubai,Hamburg,9936
+4294,Singapore,Sydney,12533
+4295,Los Angeles,Busan,2359
+4296,Hamburg,Shanghai,8661
+4297,New York,Singapore,3127
+4298,Santos,Hamburg,6887
+4299,Rotterdam,Busan,12724
+4300,Sydney,Durban,3846
+4301,Singapore,Rotterdam,5031
+4302,Hong Kong,Santos,8951
+4303,Durban,Santos,6080
+4304,Sydney,Shanghai,991
+4305,Hamburg,Rotterdam,4430
+4306,Hamburg,Hong Kong,14610
+4307,Shanghai,Mumbai,3604
+4308,Dubai,Singapore,7245
+4309,Santos,Sydney,9649
+4310,Singapore,Hong Kong,5064
+4311,Busan,Hong Kong,11824
+4312,Sydney,Santos,13482
+4313,Rotterdam,New York,13726
+4314,Sydney,Shanghai,2501
+4315,Singapore,Hong Kong,13296
+4316,Los Angeles,Durban,1406
+4317,Hamburg,Shanghai,1054
+4318,New York,Singapore,14046
+4319,Hamburg,Sydney,10806
+4320,Dubai,Durban,1266
+4321,Mumbai,Santos,5069
+4322,Hong Kong,Durban,13120
+4323,Sydney,Shanghai,10884
+4324,Sydney,New York,2091
+4325,Hong Kong,New York,11983
+4326,Singapore,Durban,10633
+4327,Santos,Los Angeles,1253
+4328,Dubai,Los Angeles,4334
+4329,Mumbai,Santos,5509
+4330,Rotterdam,Santos,7978
+4331,Shanghai,Mumbai,11184
+4332,Busan,Shanghai,1527
+4333,Durban,Dubai,13308
+4334,New York,Shanghai,14017
+4335,Shanghai,Hamburg,9022
+4336,Santos,Hamburg,11419
+4337,Shanghai,Los Angeles,12892
+4338,Hong Kong,Dubai,7495
+4339,Mumbai,Santos,1517
+4340,Los Angeles,Singapore,11645
+4341,Mumbai,Santos,13682
+4342,Santos,Rotterdam,2467
+4343,Durban,Santos,5230
+4344,Los Angeles,Singapore,8287
+4345,Hamburg,Los Angeles,3606
+4346,Hong Kong,Dubai,4745
+4347,Hamburg,Shanghai,12273
+4348,New York,Santos,13577
+4349,Dubai,Mumbai,13036
+4350,Busan,Hamburg,7561
+4351,Durban,Mumbai,5614
+4352,Los Angeles,Shanghai,8958
+4353,Shanghai,Dubai,891
+4354,Shanghai,Santos,10785
+4355,Dubai,Santos,705
+4356,Busan,Hong Kong,10691
+4357,Singapore,Durban,1729
+4358,Durban,Sydney,9326
+4359,Santos,Mumbai,11393
+4360,Busan,Hamburg,8438
+4361,Santos,Busan,2037
+4362,Santos,Singapore,724
+4363,Sydney,Durban,2307
+4364,New York,Singapore,11363
+4365,Busan,Santos,14097
+4366,Hong Kong,Los Angeles,14725
+4367,Singapore,Busan,10460
+4368,Shanghai,Busan,2611
+4369,Mumbai,Singapore,1954
+4370,Sydney,Hong Kong,10976
+4371,Mumbai,Los Angeles,7531
+4372,Santos,Sydney,1765
+4373,Hong Kong,Hamburg,11657
+4374,Durban,Hong Kong,9165
+4375,Santos,Mumbai,13624
+4376,Santos,Los Angeles,12958
+4377,Singapore,Busan,3181
+4378,Durban,Dubai,9286
+4379,Busan,Dubai,5219
+4380,Durban,Sydney,4133
+4381,Hong Kong,New York,1888
+4382,Shanghai,Dubai,14291
+4383,Hamburg,Durban,3234
+4384,Singapore,Shanghai,1340
+4385,Santos,Hamburg,10189
+4386,Hong Kong,Busan,7070
+4387,Santos,Singapore,1939
+4388,Durban,Sydney,13155
+4389,Rotterdam,New York,11472
+4390,Durban,Rotterdam,12178
+4391,New York,Sydney,8327
+4392,New York,Singapore,5707
+4393,Shanghai,Singapore,14490
+4394,Los Angeles,Shanghai,11858
+4395,Hong Kong,Busan,11364
+4396,Dubai,Busan,10366
+4397,New York,Singapore,4904
+4398,New York,Mumbai,8130
+4399,Singapore,Hamburg,8532
+4400,Santos,Los Angeles,2843
+4401,Shanghai,Singapore,4004
+4402,Hamburg,Singapore,518
+4403,Durban,Singapore,3981
+4404,Rotterdam,Busan,11522
+4405,Hong Kong,Dubai,8803
+4406,Mumbai,Rotterdam,10076
+4407,Los Angeles,Rotterdam,8050
+4408,Hamburg,Dubai,3351
+4409,New York,Mumbai,9625
+4410,Santos,Hamburg,6479
+4411,Los Angeles,Santos,4610
+4412,New York,Shanghai,1795
+4413,Hong Kong,Mumbai,7013
+4414,Rotterdam,Sydney,14605
+4415,Singapore,Busan,12193
+4416,Dubai,Rotterdam,12851
+4417,Singapore,Busan,12461
+4418,Rotterdam,Santos,2241
+4419,New York,Shanghai,9592
+4420,Sydney,New York,6450
+4421,Sydney,Santos,4316
+4422,Sydney,Hamburg,10278
+4423,Hong Kong,Mumbai,3973
+4424,Los Angeles,Santos,9519
+4425,Shanghai,Hong Kong,9318
+4426,Santos,Sydney,10221
+4427,New York,Shanghai,9150
+4428,Hong Kong,Dubai,5853
+4429,Singapore,Durban,7693
+4430,Mumbai,Dubai,5501
+4431,Rotterdam,Hong Kong,13809
+4432,Shanghai,Singapore,1009
+4433,Los Angeles,New York,14820
+4434,Los Angeles,Mumbai,10381
+4435,Hamburg,Los Angeles,13513
+4436,Sydney,Santos,5983
+4437,Mumbai,Los Angeles,4249
+4438,Hong Kong,Rotterdam,13694
+4439,Dubai,Rotterdam,6686
+4440,Sydney,Durban,4683
+4441,Dubai,Santos,11026
+4442,Santos,Shanghai,5775
+4443,Hamburg,Sydney,12990
+4444,Durban,Dubai,7591
+4445,Singapore,New York,14683
+4446,Dubai,New York,8509
+4447,Shanghai,Durban,2603
+4448,Sydney,Los Angeles,5981
+4449,Rotterdam,Los Angeles,8257
+4450,Hamburg,Sydney,13563
+4451,Shanghai,Rotterdam,13471
+4452,Los Angeles,Shanghai,12061
+4453,Rotterdam,Durban,13144
+4454,Rotterdam,Dubai,6024
+4455,Singapore,Busan,4468
+4456,Sydney,Rotterdam,13930
+4457,Los Angeles,Durban,6091
+4458,Mumbai,Shanghai,10318
+4459,Sydney,Dubai,1137
+4460,Rotterdam,Sydney,12085
+4461,New York,Singapore,7820
+4462,Durban,Hong Kong,549
+4463,Santos,Los Angeles,14481
+4464,Rotterdam,Santos,3204
+4465,Durban,Dubai,13242
+4466,Santos,Singapore,2114
+4467,Singapore,Durban,13124
+4468,Shanghai,Mumbai,12504
+4469,Hong Kong,Durban,3757
+4470,Sydney,Mumbai,596
+4471,Los Angeles,Rotterdam,14840
+4472,Durban,Santos,7903
+4473,Durban,Mumbai,1980
+4474,Hong Kong,Los Angeles,6572
+4475,Sydney,Hamburg,5610
+4476,Santos,Dubai,7072
+4477,Rotterdam,Durban,12015
+4478,Busan,Sydney,8231
+4479,Dubai,Durban,14202
+4480,Hong Kong,Dubai,6813
+4481,Dubai,Los Angeles,8074
+4482,Rotterdam,Sydney,8834
+4483,Mumbai,Rotterdam,10135
+4484,Durban,Sydney,530
+4485,Mumbai,Durban,4375
+4486,Singapore,Hamburg,5173
+4487,New York,Hamburg,9814
+4488,Santos,Dubai,3138
+4489,Hong Kong,Santos,14643
+4490,Dubai,Santos,11632
+4491,Santos,Los Angeles,5869
+4492,Dubai,Hong Kong,10501
+4493,Shanghai,New York,3160
+4494,Hamburg,Los Angeles,4931
+4495,Durban,New York,3065
+4496,Hamburg,Shanghai,13374
+4497,New York,Durban,513
+4498,Los Angeles,Rotterdam,8220
+4499,Durban,Hong Kong,12811
+4500,Santos,Hamburg,11891
+4501,Los Angeles,Sydney,10067
+4502,Busan,Mumbai,1138
+4503,Rotterdam,Shanghai,2518
+4504,Busan,Singapore,13292
+4505,Hong Kong,Busan,1505
+4506,Los Angeles,Shanghai,2822
+4507,Mumbai,Busan,3656
+4508,Singapore,Mumbai,7530
+4509,Singapore,Dubai,2046
+4510,Santos,New York,840
+4511,Hamburg,Mumbai,6235
+4512,Hong Kong,Mumbai,12585
+4513,New York,Busan,8304
+4514,Los Angeles,Mumbai,13815
+4515,New York,Shanghai,5639
+4516,Shanghai,Rotterdam,9401
+4517,Mumbai,Busan,7256
+4518,Mumbai,Singapore,4060
+4519,Dubai,Durban,9284
+4520,Dubai,Durban,6285
+4521,New York,Busan,4234
+4522,Dubai,Hong Kong,13879
+4523,Rotterdam,Mumbai,12833
+4524,Dubai,Sydney,4661
+4525,New York,Hong Kong,11867
+4526,Sydney,Santos,10280
+4527,Sydney,Hong Kong,9932
+4528,Dubai,Sydney,9449
+4529,Shanghai,New York,1321
+4530,Durban,Los Angeles,714
+4531,Dubai,Shanghai,13693
+4532,New York,Dubai,6347
+4533,Hamburg,Sydney,10172
+4534,Shanghai,Busan,6529
+4535,Sydney,Durban,9328
+4536,Sydney,Hamburg,12181
+4537,Hamburg,Los Angeles,5996
+4538,New York,Durban,13361
+4539,Singapore,Dubai,12818
+4540,Busan,Mumbai,1813
+4541,Hong Kong,Rotterdam,7415
+4542,New York,Hamburg,11069
+4543,Sydney,Dubai,6604
+4544,Shanghai,Busan,11442
+4545,Santos,New York,4954
+4546,Singapore,Rotterdam,13982
+4547,Santos,Shanghai,3124
+4548,Hamburg,Sydney,6845
+4549,Dubai,Shanghai,2877
+4550,Durban,Hamburg,7886
+4551,Rotterdam,Mumbai,4783
+4552,Mumbai,Los Angeles,12016
+4553,Shanghai,Rotterdam,14836
+4554,Santos,Durban,3982
+4555,Dubai,Singapore,11952
+4556,Mumbai,Hong Kong,12284
+4557,Hamburg,Sydney,9134
+4558,New York,Hong Kong,4969
+4559,Shanghai,Durban,9409
+4560,Sydney,Rotterdam,13455
+4561,Mumbai,Santos,3941
+4562,Hamburg,Shanghai,10677
+4563,Santos,Hamburg,12442
+4564,Shanghai,Sydney,10337
+4565,Santos,Durban,9683
+4566,Hamburg,Santos,12517
+4567,Hong Kong,Busan,6336
+4568,Dubai,Busan,988
+4569,Singapore,Santos,5495
+4570,Santos,Rotterdam,13545
+4571,Hong Kong,Hamburg,14956
+4572,Durban,Shanghai,7652
+4573,Mumbai,New York,10916
+4574,Hong Kong,New York,3608
+4575,Rotterdam,Singapore,4058
+4576,Singapore,Hong Kong,7296
+4577,Santos,Hamburg,8007
+4578,Sydney,Hong Kong,12344
+4579,New York,Sydney,7777
+4580,Dubai,Hamburg,9283
+4581,Los Angeles,Hong Kong,6515
+4582,Shanghai,Rotterdam,10996
+4583,Shanghai,Hamburg,7432
+4584,Shanghai,Sydney,2167
+4585,Mumbai,Hong Kong,2761
+4586,Rotterdam,Sydney,5004
+4587,Rotterdam,Durban,4196
+4588,Santos,Dubai,14005
+4589,New York,Shanghai,13485
+4590,Sydney,Shanghai,3193
+4591,Dubai,Los Angeles,1848
+4592,Durban,Hamburg,9954
+4593,Los Angeles,Santos,6915
+4594,Los Angeles,Sydney,10395
+4595,Durban,New York,1350
+4596,Durban,Los Angeles,14624
+4597,Singapore,Hong Kong,13907
+4598,Sydney,Mumbai,13099
+4599,Mumbai,Dubai,7878
+4600,Mumbai,Santos,11138
+4601,Santos,Busan,1589
+4602,Hamburg,Singapore,10432
+4603,Shanghai,Durban,3987
+4604,Shanghai,Hamburg,12700
+4605,New York,Mumbai,2112
+4606,Hong Kong,Los Angeles,14193
+4607,Busan,Sydney,9337
+4608,Los Angeles,Hamburg,13487
+4609,Dubai,Los Angeles,1024
+4610,Mumbai,Durban,12714
+4611,Singapore,Sydney,12431
+4612,Hamburg,Santos,3372
+4613,Hong Kong,Busan,589
+4614,Shanghai,Mumbai,13440
+4615,Santos,Busan,8108
+4616,Singapore,Shanghai,12464
+4617,Hamburg,Los Angeles,13729
+4618,Shanghai,Hamburg,5496
+4619,Dubai,Santos,12124
+4620,Santos,Singapore,13564
+4621,Hong Kong,New York,7535
+4622,Los Angeles,Busan,14278
+4623,Sydney,Dubai,12686
+4624,Busan,Singapore,11416
+4625,Los Angeles,Mumbai,9065
+4626,Santos,Hamburg,12110
+4627,Busan,Shanghai,1351
+4628,Los Angeles,Hong Kong,10661
+4629,Shanghai,Rotterdam,11690
+4630,Shanghai,Santos,2269
+4631,Durban,Singapore,2755
+4632,Dubai,New York,13634
+4633,Hong Kong,Shanghai,777
+4634,Hong Kong,Los Angeles,8924
+4635,Mumbai,Rotterdam,10649
+4636,Busan,Durban,1407
+4637,Hong Kong,Mumbai,12723
+4638,Rotterdam,Hamburg,10315
+4639,Mumbai,Hong Kong,12981
+4640,Hong Kong,Dubai,2143
+4641,Durban,Dubai,5089
+4642,Sydney,Santos,3981
+4643,Hong Kong,Los Angeles,9347
+4644,Shanghai,Santos,7476
+4645,Rotterdam,Santos,5312
+4646,Singapore,Los Angeles,4786
+4647,Busan,Santos,4585
+4648,Los Angeles,Hamburg,6215
+4649,Sydney,Hamburg,14666
+4650,Shanghai,Mumbai,5495
+4651,Mumbai,New York,10071
+4652,Mumbai,Dubai,6755
+4653,Hamburg,Busan,9624
+4654,Busan,Dubai,3740
+4655,Hamburg,Los Angeles,13256
+4656,Sydney,Shanghai,4578
+4657,Singapore,Hamburg,3631
+4658,Dubai,Singapore,12656
+4659,Hamburg,New York,3521
+4660,Mumbai,Hong Kong,4814
+4661,Singapore,New York,11246
+4662,Rotterdam,Hong Kong,1854
+4663,Dubai,Los Angeles,4142
+4664,Los Angeles,Durban,14357
+4665,Los Angeles,Dubai,9792
+4666,Sydney,Durban,2418
+4667,Durban,Hong Kong,7055
+4668,Durban,Rotterdam,5771
+4669,Singapore,New York,10961
+4670,Durban,Hong Kong,13701
+4671,Rotterdam,Singapore,11826
+4672,Hong Kong,Busan,2203
+4673,Singapore,Rotterdam,11891
+4674,Mumbai,Singapore,8638
+4675,Hong Kong,Singapore,10416
+4676,Shanghai,Rotterdam,4602
+4677,Hamburg,Rotterdam,5117
+4678,Hamburg,Busan,9449
+4679,Rotterdam,Hong Kong,7833
+4680,Mumbai,Sydney,10638
+4681,Los Angeles,Rotterdam,3691
+4682,Los Angeles,Hong Kong,8147
+4683,Hamburg,Durban,6958
+4684,Sydney,Dubai,7232
+4685,Durban,Los Angeles,1876
+4686,Santos,Singapore,862
+4687,Los Angeles,Santos,5745
+4688,Hong Kong,Sydney,2370
+4689,Hong Kong,Hamburg,4929
+4690,Sydney,Hamburg,12098
+4691,Mumbai,Rotterdam,7684
+4692,Santos,Los Angeles,14459
+4693,Rotterdam,Singapore,12946
+4694,Rotterdam,Hamburg,712
+4695,Sydney,Mumbai,12910
+4696,Sydney,Mumbai,4183
+4697,Santos,Hong Kong,6031
+4698,Dubai,Singapore,8663
+4699,Rotterdam,Durban,14949
+4700,Dubai,Rotterdam,10818
+4701,Mumbai,Sydney,11603
+4702,Hong Kong,Shanghai,3793
+4703,Mumbai,Los Angeles,13299
+4704,Los Angeles,Dubai,5149
+4705,Hong Kong,Singapore,4966
+4706,Rotterdam,Dubai,9825
+4707,Busan,Los Angeles,2087
+4708,Santos,New York,14103
+4709,Busan,Mumbai,9899
+4710,Shanghai,Mumbai,5250
+4711,Shanghai,Sydney,12878
+4712,Sydney,Shanghai,3458
+4713,New York,Sydney,8330
+4714,Santos,Shanghai,13023
+4715,Singapore,Hamburg,10884
+4716,Hong Kong,New York,6630
+4717,Santos,Shanghai,590
+4718,Hamburg,Durban,7906
+4719,Hamburg,New York,1168
+4720,Santos,Singapore,2731
+4721,Busan,Durban,1161
+4722,Santos,Durban,13363
+4723,Sydney,Mumbai,11138
+4724,Mumbai,Singapore,11171
+4725,Sydney,Mumbai,7820
+4726,Santos,Hong Kong,6745
+4727,Sydney,Busan,11880
+4728,Sydney,Durban,3900
+4729,Hong Kong,Santos,8267
+4730,Mumbai,Shanghai,11005
+4731,Dubai,Santos,4229
+4732,Sydney,Hong Kong,13381
+4733,Durban,Rotterdam,3012
+4734,Busan,Rotterdam,13738
+4735,Santos,Mumbai,11233
+4736,Santos,Durban,1412
+4737,Durban,Hamburg,6304
+4738,Singapore,Busan,12927
+4739,Hong Kong,New York,11900
+4740,Hong Kong,Hamburg,14813
+4741,Singapore,Dubai,3420
+4742,Singapore,Sydney,9578
+4743,Singapore,Mumbai,14411
+4744,Hong Kong,Busan,14815
+4745,Santos,Los Angeles,9352
+4746,Santos,Durban,11562
+4747,Rotterdam,Santos,6133
+4748,Durban,Santos,9387
+4749,New York,Dubai,4696
+4750,Singapore,Busan,4662
+4751,Singapore,New York,11989
+4752,Shanghai,Hong Kong,2266
+4753,Dubai,Singapore,546
+4754,Durban,Hamburg,7672
+4755,Busan,Shanghai,5574
+4756,Santos,Dubai,11558
+4757,Busan,Mumbai,13821
+4758,Shanghai,New York,5870
+4759,Dubai,Busan,6488
+4760,Singapore,Dubai,13498
+4761,Dubai,New York,13287
+4762,Busan,Los Angeles,14296
+4763,Mumbai,New York,13609
+4764,Hong Kong,Rotterdam,11092
+4765,Mumbai,Santos,9292
+4766,Durban,Sydney,8742
+4767,New York,Hamburg,6301
+4768,Los Angeles,Dubai,12019
+4769,Busan,Singapore,7292
+4770,Busan,New York,12427
+4771,Shanghai,Sydney,7749
+4772,Shanghai,Mumbai,12785
+4773,New York,Hong Kong,9974
+4774,Santos,Durban,14744
+4775,Santos,Los Angeles,14087
+4776,Los Angeles,Rotterdam,1703
+4777,Hamburg,Santos,10091
+4778,Busan,Hong Kong,1384
+4779,Hong Kong,Santos,6509
+4780,Singapore,Sydney,13276
+4781,New York,Singapore,12245
+4782,Santos,Sydney,1174
+4783,Hamburg,Hong Kong,4143
+4784,Sydney,Singapore,10628
+4785,Sydney,Los Angeles,2179
+4786,Sydney,Hamburg,7896
+4787,New York,Sydney,4200
+4788,Dubai,Shanghai,3796
+4789,Rotterdam,Singapore,8360
+4790,Busan,Hong Kong,14027
+4791,Busan,Hamburg,10237
+4792,New York,Los Angeles,14023
+4793,Mumbai,Dubai,7436
+4794,New York,Busan,13933
+4795,Santos,Los Angeles,10819
+4796,New York,Hong Kong,10715
+4797,Hong Kong,Durban,1440
+4798,Santos,Dubai,623
+4799,Hong Kong,Santos,11733
+4800,Los Angeles,Busan,10297
+4801,Singapore,Dubai,3084
+4802,Santos,Busan,7948
+4803,Rotterdam,Busan,7105
+4804,Hamburg,Mumbai,2475
+4805,New York,Santos,5556
+4806,Dubai,Los Angeles,2696
+4807,Los Angeles,Santos,7608
+4808,Busan,Los Angeles,5039
+4809,Dubai,Durban,1332
+4810,Los Angeles,Rotterdam,12620
+4811,Sydney,Hong Kong,4128
+4812,Los Angeles,Durban,11900
+4813,Rotterdam,New York,12215
+4814,Durban,Busan,14844
+4815,Hamburg,Los Angeles,8066
+4816,Hamburg,Dubai,5334
+4817,Busan,Hamburg,2878
+4818,Rotterdam,Mumbai,11029
+4819,Dubai,Los Angeles,3011
+4820,Durban,Sydney,5028
+4821,Rotterdam,Shanghai,11690
+4822,Hong Kong,Singapore,12565
+4823,Shanghai,Mumbai,2260
+4824,Busan,Dubai,10711
+4825,Dubai,Mumbai,6777
+4826,New York,Los Angeles,11857
+4827,Shanghai,Hamburg,3372
+4828,Busan,Mumbai,2255
+4829,Busan,Hong Kong,2526
+4830,Shanghai,Santos,11798
+4831,Singapore,Busan,8586
+4832,Singapore,Rotterdam,773
+4833,Rotterdam,Santos,4979
+4834,Los Angeles,Busan,11805
+4835,Shanghai,Busan,12890
+4836,Rotterdam,Shanghai,8086
+4837,Rotterdam,Mumbai,1263
+4838,New York,Hamburg,9219
+4839,Rotterdam,Sydney,8397
+4840,Hong Kong,Sydney,3112
+4841,Durban,Singapore,12599
+4842,Busan,Hamburg,4383
+4843,Mumbai,New York,591
+4844,Dubai,Rotterdam,8278
+4845,Sydney,New York,14277
+4846,Hong Kong,Mumbai,2948
+4847,Los Angeles,New York,1139
+4848,Singapore,Sydney,8891
+4849,Sydney,Busan,8587
+4850,Durban,Sydney,2341
+4851,Santos,Durban,756
+4852,Singapore,Rotterdam,9237
+4853,Busan,Rotterdam,2972
+4854,Los Angeles,Busan,3910
+4855,Los Angeles,New York,11023
+4856,Rotterdam,Santos,1087
+4857,Dubai,Sydney,1264
+4858,Los Angeles,Busan,14974
+4859,Rotterdam,Santos,11224
+4860,Los Angeles,Hamburg,13321
+4861,Hong Kong,Santos,3575
+4862,Durban,Busan,3285
+4863,Singapore,Rotterdam,6182
+4864,Hong Kong,New York,10565
+4865,Busan,Los Angeles,13802
+4866,Mumbai,Busan,6668
+4867,Hong Kong,Dubai,1673
+4868,Busan,Santos,14636
+4869,Santos,Mumbai,9743
+4870,Mumbai,Sydney,5936
+4871,Santos,Shanghai,12595
+4872,Mumbai,Shanghai,14295
+4873,Hamburg,Durban,11490
+4874,Shanghai,Santos,3890
+4875,Santos,Rotterdam,5423
+4876,Mumbai,Dubai,2440
+4877,Rotterdam,Hamburg,8461
+4878,Mumbai,Sydney,1957
+4879,Sydney,Shanghai,6074
+4880,Durban,Hong Kong,9665
+4881,Mumbai,Santos,13628
+4882,Los Angeles,Dubai,8590
+4883,New York,Santos,2344
+4884,Durban,Dubai,14025
+4885,Sydney,Shanghai,5602
+4886,Busan,Singapore,3830
+4887,Singapore,Sydney,1249
+4888,Shanghai,Busan,11454
+4889,Los Angeles,Hong Kong,7875
+4890,New York,Singapore,7693
+4891,Busan,Santos,14326
+4892,Sydney,Hamburg,3078
+4893,Durban,Shanghai,8467
+4894,Shanghai,Hamburg,9444
+4895,Busan,New York,3931
+4896,Hamburg,Santos,9064
+4897,New York,Sydney,12719
+4898,Busan,Sydney,14018
+4899,Hong Kong,Busan,3666
+4900,Hong Kong,Hamburg,2960
+4901,Shanghai,Los Angeles,650
+4902,Mumbai,Busan,13386
+4903,Rotterdam,Santos,9979
+4904,Durban,Hong Kong,5872
+4905,Dubai,Singapore,10680
+4906,Busan,Dubai,5089
+4907,Busan,Santos,8113
+4908,Santos,Dubai,4146
+4909,Singapore,Hong Kong,4720
+4910,Dubai,New York,12852
+4911,Rotterdam,Hong Kong,4214
+4912,Los Angeles,Durban,4060
+4913,New York,Singapore,12448
+4914,Busan,Durban,4645
+4915,Santos,Hong Kong,5530
+4916,Los Angeles,Busan,12992
+4917,Mumbai,Durban,7522
+4918,Dubai,Sydney,11474
+4919,Los Angeles,Mumbai,7036
+4920,Singapore,Durban,14133
+4921,Dubai,Hamburg,1163
+4922,Los Angeles,Santos,2561
+4923,Shanghai,Durban,12560
+4924,Dubai,Hamburg,11982
+4925,Busan,Santos,2013
+4926,Busan,New York,2030
+4927,Busan,Sydney,7825
+4928,Santos,Shanghai,7025
+4929,Los Angeles,Mumbai,2849
+4930,Hamburg,Singapore,12056
+4931,Hamburg,Hong Kong,3535
+4932,Sydney,Singapore,13594
+4933,Rotterdam,Santos,12841
+4934,Shanghai,Rotterdam,7065
+4935,New York,Durban,9303
+4936,Sydney,Shanghai,9292
+4937,Santos,Rotterdam,9301
+4938,Singapore,Sydney,6424
+4939,Busan,Singapore,955
+4940,Los Angeles,Dubai,13034
+4941,Dubai,Hong Kong,1499
+4942,Mumbai,Los Angeles,1972
+4943,Mumbai,Dubai,4522
+4944,Dubai,Los Angeles,4048
+4945,New York,Hong Kong,5774
+4946,Shanghai,Hamburg,7885
+4947,Hamburg,Shanghai,13877
+4948,Hong Kong,Busan,11236
+4949,Mumbai,Shanghai,8265
+4950,Shanghai,Sydney,12341
+4951,Rotterdam,Busan,8163
+4952,Dubai,Sydney,8421
+4953,Santos,New York,3993
+4954,Shanghai,Los Angeles,8925
+4955,Los Angeles,Mumbai,13241
+4956,Busan,Dubai,13529
+4957,Durban,New York,10771
+4958,New York,Hamburg,14233
+4959,Los Angeles,Durban,7235
+4960,Rotterdam,Hamburg,4146
+4961,Busan,Sydney,11301
+4962,Los Angeles,Singapore,2535
+4963,Busan,Mumbai,553
+4964,Dubai,Busan,9816
+4965,Singapore,Santos,9837
+4966,New York,Singapore,10976
+4967,Hamburg,Santos,11954
+4968,Hong Kong,Busan,3989
+4969,Durban,Singapore,8036
+4970,Durban,Rotterdam,2366
+4971,Singapore,Shanghai,2357
+4972,New York,Dubai,733
+4973,Rotterdam,Hamburg,9482
+4974,Dubai,Santos,7757
+4975,Sydney,New York,4571
+4976,Durban,Busan,10349
+4977,Durban,Shanghai,9017
+4978,Santos,Singapore,5558
+4979,Shanghai,Dubai,3456
+4980,Sydney,New York,11364
+4981,New York,Hong Kong,3478
+4982,New York,Hamburg,10930
+4983,Mumbai,Rotterdam,14910
+4984,Mumbai,Durban,11090
+4985,Rotterdam,Hong Kong,13417
+4986,Rotterdam,Dubai,8664
+4987,Rotterdam,Dubai,1341
+4988,Rotterdam,Mumbai,1981
+4989,New York,Hong Kong,6777
+4990,Hong Kong,Hamburg,12728
+4991,Rotterdam,Santos,6423
+4992,Rotterdam,Singapore,13464
+4993,Sydney,Santos,1789
+4994,Busan,Mumbai,10658
+4995,Singapore,Hong Kong,7810
+4996,New York,Los Angeles,9690
+4997,Sydney,Singapore,10415
+4998,Hong Kong,Shanghai,12380
+4999,Busan,Hong Kong,8227
+5000,Busan,Sydney,11299
