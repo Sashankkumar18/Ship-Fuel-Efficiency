@@ -7,7 +7,9 @@ For the last few years, I have been working outside of the tech world. While it 
 So earlier this year, I made a decision:
 
  👉 To return to my tech career.
+ 
  👉 To rebuild my skills from the ground up.
+ 
  👉 And to prove my abilities through real projects, not just theory.
 
 One of the first projects I completed was a SQL based data analytics project, modeled on a real-world business case in the shipping industry.
@@ -17,7 +19,9 @@ One of the first projects I completed was a SQL based data analytics project, mo
 The shipping industry is one of the backbones of global trade - but it also faces massive challenges:
 
 ⛽ Rising fuel costs 
+
 🌱 Pressure to reduce CO₂ emissions 
+
 📊 Optimizing voyage efficiency 
 
 I wanted to replicate this business challenge in a data environment and see what insights I could generate using SQL.
@@ -29,13 +33,21 @@ Kaggle - Volume (~2.5 𝙡𝙖𝙠𝙝 𝙧𝙤𝙬𝙨) covering 5 Yrs (2020–
 🛠 𝙏𝙚𝙘𝙝 & 𝘼𝙥𝙥𝙧𝙤𝙖𝙘𝙝
 
 📌MySQL 8.0 
+
 📌Data import using LOAD LOCAL DATA INFILE.
+
 📌Designed schema with foreign key relationships (Ships ↔ Routes ↔ Voyages).
+
 📌Wrote 25 SQL queries ranging from:
+
 ➡️Basic SELECTs and aggregations
+
 ➡️Joins across multiple tables
+
 ➡️Window functions (ranking, running totals, moving averages)
+
 ➡️Subqueries and Common Table Expressions (CTEs)
+
 ➡️Date-based analytics (month, quarter, year trends)
 
 🔍 𝙄𝙣𝙨𝙞𝙜𝙝𝙩𝙨 𝙂𝙚𝙣𝙚𝙧𝙖𝙩𝙚𝙙
@@ -59,5 +71,7 @@ It gave me hands-on experience with large datasets (~2.5 lakh rows) far beyond c
 For me, this project is more than just SQL. It’s a symbol of:
 
 𝙍𝙚𝙨𝙞𝙡𝙞𝙚𝙣𝙘𝙚: Choosing to come back into tech after a gap.
+
 𝘾𝙤𝙣𝙨𝙞𝙨𝙩𝙚𝙣𝙘𝙮: Practicing daily, building datasets, solving queries.
+
 𝙂𝙧𝙤𝙬𝙩𝙝: Upskilling with modern SQL concepts & business thinking.
